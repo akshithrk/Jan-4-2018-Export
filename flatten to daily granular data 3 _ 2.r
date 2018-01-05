@@ -12,7 +12,7 @@ make_patient_daily_dataframe<- function(targetmrn) {
                                                  blood_infections.df$bcx_site==1 &
                                                  blood_infections.df$clabsi_commun==1,]
         # 
-        this.dat5 <- liver.df[liver.df$mrn==targetmrn,]
+        # this.dat5 <- liver.df[liver.df$mrn==targetmrn,]
         # this.dat6 <- growth.df[growth.df$mrn==targetmrn,]
         # this.dat7 <- outpatients.df[outpatients.df$mrn==targetmrn,]
 
@@ -128,3 +128,4 @@ make_all_patients_daily_dataframe <- function() {
 
 data_export_date <- as.Date("2017-01-30")
 # write.csv(all_patients_daily.df,"PNdaily.csv")
+# write.csv(liver.df,"liver.csv") -- writing out liver.csv to be uploaded into mstr

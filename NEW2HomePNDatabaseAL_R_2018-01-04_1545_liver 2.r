@@ -69,5 +69,7 @@ levels(data$tbili_rge.factor)=c("< 0.1","≥ 0.1","N/A")
 levels(data$crp_rge.factor)=c("< 0.03","≥ 0.03","N/A")
 levels(data$liver_disease_complete.factor)=c("Incomplete","Unverified","Complete")
 
-growth.df <- filter(data, data$redcap_repeat_instrument!="")
+# growth.df <- filter(data, data$redcap_repeat_instrument!="")
+# was originally saved as growth.df but replacing to liver.df
+liver.df <- filter(data, data$redcap_repeat_instrument!="")
 rm(data)

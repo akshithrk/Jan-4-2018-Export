@@ -12,11 +12,13 @@ make_patient_daily_dataframe<- function(targetmrn) {
                                                  blood_infections.df$bcx_site==1 &
                                                  blood_infections.df$clabsi_commun==1,]
         # 
-        # this.dat5 <- liver.df[liver.df$mrn==targetmrn,]
+        this.dat5 <- liver.df[liver.df$mrn==targetmrn,]
         # this.dat6 <- growth.df[growth.df$mrn==targetmrn,]
         # this.dat7 <- outpatients.df[outpatients.df$mrn==targetmrn,]
 
-        firstdate <- min(this.dat1$svc_start,this.dat2$insert_date,this.dat3$hosp_admitdt,this.dat4$bcx_date,na.rm=T)
+        # firstdate <- min(this.dat1$svc_start,this.dat2$insert_date,this.dat3$hosp_admitdt,this.dat4$bcx_date,na.rm=T) --reciprocating the above variables in this below
+        firstdate <- min(this.dat1$svc_start,this.dat2$insert_date,this.dat3$hosp_admitdt,this.dat4$bcx_date,this.dat5$liver_date,na.rm=T)
+        
 
         if(!exists("data_export_date"))   stop( "data_export_date does not exist.")
         else if (is.na(data_export_date)) stop("data_export_date is NA.")

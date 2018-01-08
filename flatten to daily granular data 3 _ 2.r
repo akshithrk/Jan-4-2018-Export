@@ -33,7 +33,8 @@ make_patient_daily_dataframe<- function(targetmrn) {
                                        isactive=0,newhpn=0,admit=0,centline=0,nothosp=1,bloodinf=0,
                                        death=0,transfer=0,weanoff=0,remclabsi=0)
 
-        if (length(this.dat1$active_mrn)>0) {
+        # if (length(this.dat1$active_mrn)>0) {
+        if (length(this.dat1$mrn)>0) {
                 for (svcstart in this.dat1$svc_start) {
                         n <- length(this.dat1[this.dat1$svc_start==svcstart,"active_current"]==0)
                         if (n > 1) {
@@ -67,7 +68,8 @@ make_patient_daily_dataframe<- function(targetmrn) {
                         patient_daily.df[patient_daily.df$caldate %in% firstdayhome[lfdh]:(min(firstdayhome[lfdh]+29,lastdate)), "newhpn"] <- 1
         }
 
-        if (length(this.dat2$cvc_mrn)>0)
+        # if (length(this.dat2$cvc_mrn)>0)
+        if (length(this.dat2$mrn)>0)
                 for(cvcinsert in this.dat2$insert_date){
                         n <- length(this.dat2[this.dat2$insert_date==cvcinsert,"remove"]==1)
                         if (n > 1) {
@@ -85,7 +87,8 @@ make_patient_daily_dataframe<- function(targetmrn) {
                         patient_daily.df[patient_daily.df$caldate %in% cvcinsert:cvcremove,"centline"] <- 1
                 }
 
-        if (length(this.dat3$inpt_mrn)>0)
+        # if (length(this.dat3$inpt_mrn)>0)
+        if (length(this.dat3$mrn)>0)
                 for(admitdate in this.dat3$hosp_admitdt){
                         n <- length(this.dat3[this.dat3$hosp_admitdt==admitdate,"hosp_discharge"]==1)
                         if (n > 1) {
@@ -100,7 +103,12 @@ make_patient_daily_dataframe<- function(targetmrn) {
                         patient_daily.df[patient_daily.df$caldate==admitdate,"admit"] <- 1
                 }
 
-        if (length(this.dat4$bld_mrn)>0) patient_daily.df[patient_daily.df$caldate %in% this.dat4$bcx_date,"bloodinf"] <- 1
+        # if (length(this.dat4$bld_mrn)>0)
+        if (length(this.dat4$mrn)>0)
+          patient_daily.df[patient_daily.df$caldate %in% this.dat4$bcx_date,"bloodinf"] <- 1
+        
+        if (length(this.dat5$mrn)>0) 
+          patient_daily.df[patient_daily.df$caldate %in% this.dat5$liver_date,"bloodinf"] <- 1
 
 
         return(patient_daily.df)

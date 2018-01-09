@@ -1,8 +1,8 @@
 #Clear existing data and graphics
-rm(list=ls())
+# rm(list=ls())
 graphics.off()
 #Load Hmisc library
-library
+library(Hmisc)
 
 #Load dplyr library
 library(dplyr)

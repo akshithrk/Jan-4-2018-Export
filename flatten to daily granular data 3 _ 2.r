@@ -68,7 +68,6 @@ make_patient_daily_dataframe<- function(targetmrn) {
         # }
 
         ## if (length(this.dat2$cvc_mrn)>0)
-        
         # if (length(this.dat2$mrn)>0)
         #         for(cvcinsert in this.dat2$insert_date){
         #                 n <- length(this.dat2[this.dat2$insert_date==cvcinsert,'remove'] == 1)
@@ -88,7 +87,6 @@ make_patient_daily_dataframe<- function(targetmrn) {
         #         }
 
         ## if (length(this.dat3$inpt_mrn)>0)
-        
         # if (length(this.dat3$mrn)>0)
         #         for(admitdate in this.dat3$hosp_admitdt){
         #                 n <- length(this.dat3[this.dat3$hosp_admitdt==admitdate,"hosp_discharge"]==1)
@@ -112,9 +110,11 @@ make_patient_daily_dataframe<- function(targetmrn) {
           patient_daily.df[patient_daily.df$caldate %in% this.dat5$liver_date,"liver"] <- 1
         # 
         # 
-        return(patient_daily.df)
+        # return(patient_daily.df)
 
 }
+# rm(targetmrn) # targetmrn = 352 
+
 ######################################### comments start
 # length(central_line.df$mrn) # 832
 # length(central_line.df[central_line.df$insert_date==cvcinsert,"remove"]==1)
@@ -162,6 +162,7 @@ make_all_patients_daily_dataframe <- function() {
 }
 
 data_export_date <- as.Date("2017-01-30")
+
 
 # running all_pts function against the dataframe defined in make_pt_daily():
 make_all_patients_daily_dataframe()

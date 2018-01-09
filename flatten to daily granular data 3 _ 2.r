@@ -151,7 +151,7 @@ make_all_patients_daily_dataframe <- function() {
                                              death=integer(),transfer=integer(),weanoff=integer(),remclabsi=integer())
 
         # for (mrn in demog.dat$mrn) {
-        for (mrn in demog.df$mrn) { #changing to df
+        for (mrn in demog.df$mrn) { #changing dat to df
                 x <- make_patient_daily_dataframe(mrn)
                 if (is.null(x)) next
                 else all_patients_daily.df <- rbind(all_patients_daily.df,x)
@@ -164,6 +164,10 @@ data_export_date <- as.Date("2017-01-30")
 
 # running all_pts function against the dataframe defined in make_pt_daily():
 make_all_patients_daily_dataframe()
+
+# all_patients_daily.df[all_patients_daily.df$liver==1] #data frame with 0 columns and 4371874 rows
+# all_patients_daily.df[all_patients_daily.df$liver==1, ] #<0 rows>
+
 
 write.csv(all_patients_daily.df,"PNliver_2.csv")
 # write.csv(liver.df,"liver.csv") -- writing out liver.csv to be uploaded into mstr

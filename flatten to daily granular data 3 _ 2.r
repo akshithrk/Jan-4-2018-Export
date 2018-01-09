@@ -114,8 +114,30 @@ make_patient_daily_dataframe<- function(targetmrn) {
         return(patient_daily.df)
 
 }
+#########################################
+# length(central_line.df$mrn) # 832
+length(central_line.df[central_line.df$insert_date==cvcinsert,"remove"]==1)
+
+if (length(central_line.df$mrn)>0)
+  for(cvcinsert in central_line.df$insert_date){
+    n <- length(central_line.df[central_line.df$insert_date==cvcinsert,"remove"]==1) # n = 2
+    # if (n > 1) {
+    #   warning(paste("OMITTING mrn",targetmrn, "because found", n, "records for same line insert date:",
+    #                 as.Date(cvcinsert,"1970-01-01") ))
+    #   return( NULL )
+    # }
+    # else if (this.dat2[this.dat2$insert_date==cvcinsert,"remove"]==1) {
+    #   cvcremove <- this.dat2[this.dat2$insert_date==cvcinsert,"remove_date"]
+    #   
+    #   if (this.dat2[this.dat2$insert_date==cvcinsert, "remove_type___clabsi"]==1)
+    #     patient_daily.df[patient_daily.df$caldate==cvcremove, "remclabsi"] <- 1
+    # }
+    # else cvcremove <- lastdate
+    # patient_daily.df[patient_daily.df$caldate %in% cvcinsert:cvcremove,"centline"] <- 1
+  }
 
 
+########################################
 make_all_patients_daily_dataframe <- function() {
 
         if(!exists("data_export_date"))

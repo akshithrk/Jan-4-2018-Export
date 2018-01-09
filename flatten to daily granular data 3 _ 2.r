@@ -109,7 +109,7 @@ make_patient_daily_dataframe<- function(targetmrn) {
         #   patient_daily.df[patient_daily.df$caldate %in% this.dat4$bcx_date,"bloodinf"] <- 1
         
         if (length(this.dat5$mrn)>0) 
-          patient_daily.df[patient_daily.df$caldate %in% this.dat5$liver_date,"bloodinf"] <- 1
+          patient_daily.df[patient_daily.df$caldate %in% this.dat5$liver_date,"liver"] <- 1
 
 
         return(patient_daily.df)
@@ -165,5 +165,5 @@ data_export_date <- as.Date("2017-01-30")
 # running all_pts function against the dataframe defined in make_pt_daily():
 make_all_patients_daily_dataframe()
 
-# write.csv(all_patients_daily.df,"PNdaily.csv")
+write.csv(all_patients_daily.df,"PNliver_2.csv")
 # write.csv(liver.df,"liver.csv") -- writing out liver.csv to be uploaded into mstr

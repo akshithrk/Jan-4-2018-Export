@@ -3,8 +3,7 @@
 graphics.off()
 #Load Hmisc and dplyr libraries
 library(Hmisc)
-library(dplyr
-        )
+library(dplyr)
 #Read Data
 data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-04_1522_blood_infections.csv')
 #Setting Labels

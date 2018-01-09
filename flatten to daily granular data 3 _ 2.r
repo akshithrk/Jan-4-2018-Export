@@ -110,7 +110,7 @@ make_patient_daily_dataframe<- function(targetmrn) {
           patient_daily.df[patient_daily.df$caldate %in% this.dat5$liver_date,"liver"] <- 1
         # 
         # 
-        # return(patient_daily.df)
+        return(patient_daily.df)
 
 }
 # rm(targetmrn) # targetmrn = 352 

@@ -33,39 +33,39 @@ make_patient_daily_dataframe<- function(targetmrn) {
                                        death=0,transfer=0,weanoff=0,remclabsi=0)
 
         ## if (length(this.dat1$active_mrn)>0) {
-        # if (length(this.dat1$mrn)>0) {
-        #         for (svcstart in this.dat1$svc_start) {
-        #                 n <- length(this.dat1[this.dat1$svc_start==svcstart,"active_current"]==0)
-        #                 if (n > 1) {
-        #                         warning(paste("OMITTING mrn",targetmrn, "because found", n, "records for same service start date:",
-        #                                       as.Date(svcstart,"1970-01-01") ))
-        #                         return( NULL )
-        #                 }
-        #                 if (this.dat1[this.dat1$svc_start==svcstart,"active_current"]==0) {
-        # 
-        #                         svcstop <- this.dat1[this.dat1$svc_start==svcstart,"svc_stop"]
-        # 
-        #                         if (!is.na(this.dat1[this.dat1$svc_start==svcstart, "end_type"])) {
-        # 
-        #                         if (this.dat1[this.dat1$svc_start==svcstart, "end_type"]==1)
-        #                                 patient_daily.df[patient_daily.df$caldate==svcstop, "transfer"] <- 1
-        # 
-        #                         else if (this.dat1[this.dat1$svc_start==svcstart, "end_type"]==2)
-        #                                 patient_daily.df[patient_daily.df$caldate==svcstop, "weanoff"] <- 1
-        # 
-        #                         else if (this.dat1[this.dat1$svc_start==svcstart, "end_type"]==4)
-        #                                 patient_daily.df[patient_daily.df$caldate==svcstop, "death"] <- 1
-        #                         }
-        #                 }
-        #                 else svcstop <- lastdate
-        #                 patient_daily.df[patient_daily.df$caldate %in% svcstart:svcstop,"isactive"] <- 1
-        #         }
-        # 
-        #         firstdayhome <- this.dat1[this.dat1$st_start==1,"svc_start"]
-        #         lfdh <- length(firstdayhome)
-        #         if (lfdh > 0)
-        #                 patient_daily.df[patient_daily.df$caldate %in% firstdayhome[lfdh]:(min(firstdayhome[lfdh]+29,lastdate)), "newhpn"] <- 1
-        # }
+        if (length(this.dat1$mrn)>0) {
+                for (svcstart in this.dat1$svc_start) {
+                        n <- length(this.dat1[this.dat1$svc_start==svcstart,"active_current"]==0)
+                        if (n > 1) {
+                                warning(paste("OMITTING mrn",targetmrn, "because found", n, "records for same service start date:",
+                                              as.Date(svcstart,"1970-01-01") ))
+                                return( NULL )
+                        }
+                        if (this.dat1[this.dat1$svc_start==svcstart,"active_current"]==0) {
+
+                                svcstop <- this.dat1[this.dat1$svc_start==svcstart,"svc_stop"]
+
+                                if (!is.na(this.dat1[this.dat1$svc_start==svcstart, "end_type"])) {
+
+                                if (this.dat1[this.dat1$svc_start==svcstart, "end_type"]==1)
+                                        patient_daily.df[patient_daily.df$caldate==svcstop, "transfer"] <- 1
+
+                                else if (this.dat1[this.dat1$svc_start==svcstart, "end_type"]==2)
+                                        patient_daily.df[patient_daily.df$caldate==svcstop, "weanoff"] <- 1
+
+                                else if (this.dat1[this.dat1$svc_start==svcstart, "end_type"]==4)
+                                        patient_daily.df[patient_daily.df$caldate==svcstop, "death"] <- 1
+                                }
+                        }
+                        else svcstop <- lastdate
+                        patient_daily.df[patient_daily.df$caldate %in% svcstart:svcstop,"isactive"] <- 1
+                }
+
+                firstdayhome <- this.dat1[this.dat1$st_start==1,"svc_start"]
+                lfdh <- length(firstdayhome)
+                if (lfdh > 0)
+                        patient_daily.df[patient_daily.df$caldate %in% firstdayhome[lfdh]:(min(firstdayhome[lfdh]+29,lastdate)), "newhpn"] <- 1
+        }
 
         ## if (length(this.dat2$cvc_mrn)>0)
         
@@ -89,24 +89,24 @@ make_patient_daily_dataframe<- function(targetmrn) {
 
         ## if (length(this.dat3$inpt_mrn)>0)
         
-        # if (length(this.dat3$mrn)>0)
-        #         for(admitdate in this.dat3$hosp_admitdt){
-        #                 n <- length(this.dat3[this.dat3$hosp_admitdt==admitdate,"hosp_discharge"]==1)
-        #                 if (n > 1) {
-        #                         warning(paste("OMITTING mrn",targetmrn, "because found", n, "records for same hospital admit date:",
-        #                                       as.Date(admitdate,"1970-01-01") ))
-        #                         return( NULL )
-        #                 }
-        #                 else if (this.dat3[this.dat3$hosp_admitdt==admitdate,"hosp_discharge"]==1)
-        #                         dischargedate <- this.dat3[this.dat3$hosp_admitdt==admitdate,"hosp_dischargedt"]
-        #                 else dischargedate <- lastdate
-        #                 patient_daily.df[patient_daily.df$caldate %in% admitdate:dischargedate,"nothosp"] <- 0
-        #                 patient_daily.df[patient_daily.df$caldate==admitdate,"admit"] <- 1
-        #         }
+        if (length(this.dat3$mrn)>0)
+                for(admitdate in this.dat3$hosp_admitdt){
+                        n <- length(this.dat3[this.dat3$hosp_admitdt==admitdate,"hosp_discharge"]==1)
+                        if (n > 1) {
+                                warning(paste("OMITTING mrn",targetmrn, "because found", n, "records for same hospital admit date:",
+                                              as.Date(admitdate,"1970-01-01") ))
+                                return( NULL )
+                        }
+                        else if (this.dat3[this.dat3$hosp_admitdt==admitdate,"hosp_discharge"]==1)
+                                dischargedate <- this.dat3[this.dat3$hosp_admitdt==admitdate,"hosp_dischargedt"]
+                        else dischargedate <- lastdate
+                        patient_daily.df[patient_daily.df$caldate %in% admitdate:dischargedate,"nothosp"] <- 0
+                        patient_daily.df[patient_daily.df$caldate==admitdate,"admit"] <- 1
+                }
 
         ## if (length(this.dat4$bld_mrn)>0)
-        # if (length(this.dat4$mrn)>0)
-        #   patient_daily.df[patient_daily.df$caldate %in% this.dat4$bcx_date,"bloodinf"] <- 1
+        if (length(this.dat4$mrn)>0)
+          patient_daily.df[patient_daily.df$caldate %in% this.dat4$bcx_date,"bloodinf"] <- 1
         
         if (length(this.dat5$mrn)>0)
           patient_daily.df[patient_daily.df$caldate %in% this.dat5$liver_date,"liver"] <- 1

@@ -29,7 +29,7 @@ make_patient_daily_dataframe<- function(targetmrn) {
         caldate <- firstdate:lastdate
 
         patient_daily.df <- data.frame(mrn=targetmrn,caldate=as.Date(caldate,"1970-01-01"),
-                                       isactive=0,newhpn=0,admit=0,centline=0,nothosp=1,bloodinf=0,
+                                       isactive=0,newhpn=0,admit=0,centline=0,nothosp=1,bloodinf=0,liver=0,
                                        death=0,transfer=0,weanoff=0,remclabsi=0)
 
         ## if (length(this.dat1$active_mrn)>0) {
@@ -147,7 +147,7 @@ make_all_patients_daily_dataframe <- function() {
                 stop("data_export_date is NA")
 
         all_patients_daily.df <- data.frame(mrn=numeric(),caldate=as.Date(integer(),"1970-01-01"),isactive=integer(),newhpn=integer(),
-                                             admit=integer(),centline=integer(),nothosp=integer(),bloodinf=integer(),
+                                             admit=integer(),centline=integer(),nothosp=integer(),bloodinf=integer(),liver=integer(),
                                              death=integer(),transfer=integer(),weanoff=integer(),remclabsi=integer())
 
         # for (mrn in demog.dat$mrn) {

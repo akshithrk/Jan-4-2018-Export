@@ -108,14 +108,14 @@ make_patient_daily_dataframe<- function(targetmrn) {
         # if (length(this.dat4$mrn)>0)
         #   patient_daily.df[patient_daily.df$caldate %in% this.dat4$bcx_date,"bloodinf"] <- 1
         
-        if (length(this.dat5$mrn)>0) 
+        if (length(this.dat5$mrn)>0)
           patient_daily.df[patient_daily.df$caldate %in% this.dat5$liver_date,"liver"] <- 1
-
-
+        # 
+        # 
         return(patient_daily.df)
 
 }
-#########################################
+######################################### comments start
 # length(central_line.df$mrn) # 832
 # length(central_line.df[central_line.df$insert_date==cvcinsert,"remove"]==1)
 # 
@@ -138,7 +138,8 @@ make_patient_daily_dataframe<- function(targetmrn) {
 #   }
 
 
-########################################
+######################################## comments end
+
 make_all_patients_daily_dataframe <- function() {
 
         if(!exists("data_export_date"))

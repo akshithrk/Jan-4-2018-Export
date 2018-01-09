@@ -139,7 +139,7 @@ make_all_patients_daily_dataframe <- function() {
 
 data_export_date <- as.Date("2017-01-30")
 
-# running all_pts function against the liver.df dataframe:
+# running all_pts function against the dataframe defined in make_pt_daily():
 make_all_patients_daily_dataframe()
 
 # write.csv(all_patients_daily.df,"PNdaily.csv")

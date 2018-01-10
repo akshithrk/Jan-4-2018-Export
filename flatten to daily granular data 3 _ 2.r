@@ -1,4 +1,5 @@
 # targetmrn <- 352
+
 make_patient_daily_dataframe<- function(targetmrn) {
 
         # this.dat1 <- active.dat[active.dat$active_mrn==targetmrn,]
@@ -30,7 +31,7 @@ make_patient_daily_dataframe<- function(targetmrn) {
         caldate <- firstdate:lastdate
 
         patient_daily.df <- data.frame(mrn=targetmrn,caldate=as.Date(caldate,"1970-01-01"),
-                                       isactive=0,newhpn=0,admit=0,centline=0,nothosp=1,bloodinf=0,liver=0,
+                                       isactive=0,newhpn=0,admit=0,centline=0,nothosp=1,bloodinf=0,liver=0, growth=0, outpatient=0,
                                        death=0,transfer=0,weanoff=0,remclabsi=0)
 
         ## if (length(this.dat1$active_mrn)>0) {
@@ -109,6 +110,12 @@ make_patient_daily_dataframe<- function(targetmrn) {
         
         if (length(this.dat5$mrn)>0)
           patient_daily.df[patient_daily.df$caldate %in% this.dat5$liver_date,"liver"] <- 1
+        
+        if (length(this.dat6$mrn)>0)
+          patient_daily.df[patient_daily.df$caldate %in% this.dat5$growth_date,"growth"] <- 1
+        
+        if (length(this.dat7$mrn)>0)
+          patient_daily.df[patient_daily.df$caldate %in% this.dat5$outpt_date,"outpatient"] <- 1
         # 
         # 
         return(patient_daily.df)
@@ -151,7 +158,7 @@ make_all_patients_daily_dataframe <- function() {
     stop("data_export_date is NA")
   
   all_patients_daily.df <- data.frame(mrn=numeric(),caldate=as.Date(integer(),"1970-01-01"),isactive=integer(),newhpn=integer(),
-                                      admit=integer(),centline=integer(),nothosp=integer(),bloodinf=integer(),liver=integer(),
+                                      admit=integer(),centline=integer(),nothosp=integer(),bloodinf=integer(),liver=integer(), growth=integer(), outpatient=integer(),
                                       death=integer(),transfer=integer(),weanoff=integer(),remclabsi=integer())
   
   # for (mrn in demog.dat$mrn) { #changing dat to df
@@ -175,6 +182,6 @@ make_all_patients_daily_dataframe()
 # all_patients_daily.df[all_patients_daily.df$liver==1] #data frame with 0 columns and 4371874 rows
 # all_patients_daily.df[all_patients_daily.df$liver==1, ] #<0 rows>
 
-
-write.csv(all_patients_daily.df,"active_2.2.csv")
+write.csv(all_patients_daily.df,"PNdaily.csv")
+# write.csv(all_patients_daily.df,"active_2.2.csv")
 # write.csv(liver.df,"liver.csv") -- writing out liver.csv to be uploaded into mstr

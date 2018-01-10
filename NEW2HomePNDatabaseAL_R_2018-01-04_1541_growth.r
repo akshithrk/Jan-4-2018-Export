@@ -28,5 +28,8 @@ levels(data$redcap_repeat_instrument.factor)=c("Active On Service","Central Line
 levels(data$growth_inpt_outpt.factor)=c("Inpatient","Outpatient")
 levels(data$growth_data_complete.factor)=c("Incomplete","Unverified","Complete")
 
-growth.df <- filter(data, redcap_repeat_instrument!="")
+data <- filter(data, data$redcap_repeat_instrument!="")
+data$growth_date <- as.Date(data$growth_date)
+growth.df <- data
+
 rm(data)

@@ -30,5 +30,8 @@ levels(data$redcap_repeat_instrument.factor)=c("Active On Service","Central Line
 levels(data$clinic_id.factor)=c("Home PN program","CAIR","Other")
 levels(data$outpatient_encounters_complete.factor)=c("Incomplete","Unverified","Complete")
 
-outpatients.df <- filter(data, redcap_repeat_instrument!="")
+data <- filter(data, data$redcap_repeat_instrument!="")
+data$outpt_date <- as.Date(data$outpt_date)
+outpatients.df <- data
+
 rm(data)

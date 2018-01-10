@@ -1,4 +1,4 @@
-# targetmrn <- 352
+targetmrn <- 352
 
 make_patient_daily_dataframe<- function(targetmrn) {
 
@@ -21,8 +21,7 @@ make_patient_daily_dataframe<- function(targetmrn) {
         firstdate <- min(this.dat1$svc_start,this.dat2$insert_date,this.dat3$hosp_admitdt,this.dat4$bcx_date,this.dat5$liver_date,na.rm=T)
         
 
-        if(!exists("data_export_date"))   stop( "data_export_date does not exist.")
-        else if (is.na(data_export_date)) stop("data_export_date is NA.")
+        if(!exists("data_export_date"))   stop( "data_export_date does not exist.") else if (is.na(data_export_date)) stop("data_export_date is NA.")
         lastdate <- data_export_date
 
         ndays <- lastdate - firstdate + 1

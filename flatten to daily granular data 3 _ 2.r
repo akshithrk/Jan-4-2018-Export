@@ -1,5 +1,5 @@
-targetmrn <- 352
-
+# targetmrn <- 352
+# rm(targetmrn)
 make_patient_daily_dataframe<- function(targetmrn) {
 
         # this.dat1 <- active.dat[active.dat$active_mrn==targetmrn,]
@@ -69,23 +69,23 @@ make_patient_daily_dataframe<- function(targetmrn) {
         }
 
         ## if (length(this.dat2$cvc_mrn)>0)
-        if (length(this.dat2$mrn)>0)
-                for(cvcinsert in this.dat2$insert_date){
-                        n <- length(this.dat2[this.dat2$insert_date==cvcinsert,'remove'] == 1)
-                        if (n > 1) {
-                                warning(paste("OMITTING mrn",targetmrn, "because found", n, "records for same line insert date:",
-                                              as.Date(cvcinsert,"1970-01-01") ))
-                                return( NULL )
-                        }
-                        else if (this.dat2[this.dat2$insert_date==cvcinsert,"remove"]==1) {
-                                cvcremove <- this.dat2[this.dat2$insert_date==cvcinsert,"remove_date"]
-
-                                if (this.dat2[this.dat2$insert_date==cvcinsert, "remove_type___clabsi"]==1)
-                                        patient_daily.df[patient_daily.df$caldate==cvcremove, "remclabsi"] <- 1
-                        }
-                        else cvcremove <- lastdate
-                        patient_daily.df[patient_daily.df$caldate %in% cvcinsert:cvcremove,"centline"] <- 1
-                }
+        # if (length(this.dat2$mrn)>0)
+        #         for(cvcinsert in this.dat2$insert_date){
+        #                 n <- length(this.dat2[this.dat2$insert_date==cvcinsert,'remove'] == 1)
+        #                 if (n > 1) {
+        #                         warning(paste("OMITTING mrn",targetmrn, "because found", n, "records for same line insert date:",
+        #                                       as.Date(cvcinsert,"1970-01-01") ))
+        #                         return( NULL )
+        #                 }
+        #                 else if (this.dat2[this.dat2$insert_date==cvcinsert,"remove"]==1) {
+        #                         cvcremove <- this.dat2[this.dat2$insert_date==cvcinsert,"remove_date"]
+        # 
+        #                         if (this.dat2[this.dat2$insert_date==cvcinsert, "remove_type___clabsi"]==1)
+        #                                 patient_daily.df[patient_daily.df$caldate==cvcremove, "remclabsi"] <- 1
+        #                 }
+        #                 else cvcremove <- lastdate
+        #                 patient_daily.df[patient_daily.df$caldate %in% cvcinsert:cvcremove,"centline"] <- 1
+        #         }
 
         ## if (length(this.dat3$inpt_mrn)>0)
         if (length(this.dat3$mrn)>0)

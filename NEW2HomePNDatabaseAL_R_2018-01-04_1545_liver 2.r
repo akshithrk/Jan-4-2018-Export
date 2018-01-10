@@ -72,6 +72,8 @@ levels(data$liver_disease_complete.factor)=c("Incomplete","Unverified","Complete
 
 # growth.df <- filter(data, data$redcap_repeat_instrument!="")
 # was originally saved as growth.df but replacing to liver.df
-liver.df <- filter(data, data$redcap_repeat_instrument!="")
+data <- filter(data, data$redcap_repeat_instrument!="")
+data$liver_date <- as.Date(data$liver_date)
+liver.df <- data
 rm(data)
 

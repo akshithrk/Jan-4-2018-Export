@@ -4,8 +4,8 @@ graphics.off()
 #Load Hmisc library
 library(Hmisc)
 #Read Data
-# data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-04_1421_demog.csv')
-data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-11_1008_demog.csv')
+data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-04_1421_demog.csv')
+# data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-11_1008_demog.csv')
 
 colnames(data)[1] <- "mrn" #Corrects glitch in data read
 

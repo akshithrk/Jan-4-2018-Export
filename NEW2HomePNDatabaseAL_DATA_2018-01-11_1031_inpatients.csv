@@ -1,0 +1,2186 @@
+mrn,redcap_repeat_instrument,redcap_repeat_instance,hosp_name,hosp_name_oth,hosp_status,hosp_dx_icdcd,hosp_dx_icddesc,hosp_dx,hosp_dx_other,hosp_admitdt,hosp_discharge,hosp_dischargedt,inpatient_encounters_complete
+0000352,,,,,,,,,,,,,
+0100701,,,,,,,,,,,,,
+0282879,,,,,,,,,,,,,
+0282879,inpatient_encounters,1,1,,0,,,9,,2011-11-17,1,2011-11-24,1
+0282879,inpatient_encounters,2,999,MGH,0,,,3,,2011-12-03,1,2011-12-24,1
+0352225,,,,,,,,,,,,,
+0352225,inpatient_encounters,1,1,,1,,,999,"Allergy graded challenge",2011-12-12,1,2011-12-24,1
+0352225,inpatient_encounters,2,1,,0,,,999,Seizures,2012-04-19,1,2012-05-01,1
+0352225,inpatient_encounters,3,1,,0,,,999,Seizures,2012-05-04,1,2012-05-28,1
+0352225,inpatient_encounters,4,1,,0,,,999,Anemia,2012-10-03,1,2012-10-10,1
+0352225,inpatient_encounters,5,1,,0,,,9,,2012-10-22,1,2012-11-02,1
+0352225,inpatient_encounters,6,1,,0,,,999,Seizures,2013-01-17,1,2013-01-31,1
+0352225,inpatient_encounters,7,1,,0,,,999,"Allergic reaction",2013-05-09,1,2013-05-10,1
+0352225,inpatient_encounters,8,1,,0,,,18,,2013-08-23,1,2013-08-25,1
+0352225,inpatient_encounters,9,1,,0,,,999,Seizures,2014-02-12,1,2014-02-25,1
+0352225,inpatient_encounters,10,1,,0,,,999,Anemia,2014-04-17,1,2014-04-18,1
+0352225,inpatient_encounters,11,,,-8,,,18,,2015-01-07,1,2015-01-09,1
+0352225,inpatient_encounters,12,1,,,996.1,"MALFUNC VASC DEVICE/GRAF",,,2015-05-07,1,2015-05-08,1
+0352225,inpatient_encounters,13,1,,,285.9,"ANEMIA NOS",,,2015-06-19,1,2015-06-20,1
+0352225,inpatient_encounters,14,1,,,345.91,"EPILEPSY NOS INTRACTABLE",,,2015-07-23,1,2015-08-03,1
+0352225,inpatient_encounters,15,1,,,996.1,"MECH COMP OTH VASC DEV",,,2015-08-17,1,2015-08-19,1
+0352225,inpatient_encounters,16,1,,,T82.898A,"Other specified complication of vascular prostheti",,,2015-12-27,1,2015-12-27,1
+0352225,inpatient_encounters,17,1,,,K92.2,"Gastrointestinal hemorrhage, unspecified",,,2016-03-28,1,2016-04-06,1
+0352225,inpatient_encounters,18,1,,,D50.0,"Iron deficiency anemia secondary to blood loss (ch",,,2016-07-08,1,2016-07-11,1
+0352225,inpatient_encounters,19,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-07-15,1,2016-07-31,1
+0352225,inpatient_encounters,20,1,,,N39.0,"Urinary tract infection, site not specified",,,2016-09-22,1,2016-10-09,1
+0352225,inpatient_encounters,21,1,,,K94.19,"Other complications of enterostomy",,,2016-10-17,1,2016-10-22,1
+0352225,inpatient_encounters,22,1,,,G40.919,"Epilepsy, unspecified, intractable, without status",,,2016-11-14,1,2016-12-03,1
+0352225,inpatient_encounters,23,1,,,E86.0,Dehydration,,,2016-12-14,1,2016-12-17,1
+0352225,inpatient_encounters,24,1,,,N39.0,"Urinary tract infection, site not specified",,,2017-11-24,1,2017-12-03,1
+0353847,,,,,,,,,,,,,
+0353847,inpatient_encounters,1,1,,0,,,9,,2013-09-23,1,2013-09-25,1
+0353847,inpatient_encounters,2,1,,0,,,10,,2013-12-31,1,2014-01-01,1
+0353847,inpatient_encounters,3,1,,0,,,10,,2014-01-07,1,2014-01-10,1
+0353847,inpatient_encounters,4,1,,0,,,8,,2014-04-04,1,2014-04-05,1
+0353847,inpatient_encounters,5,1,,,572.8,"OTHER SEQUELA, CHR LIV DIS",,,2014-08-23,1,2014-10-15,1
+0353847,inpatient_encounters,6,1,,1,,,17,,2014-12-29,1,2014-12-31,1
+0353847,inpatient_encounters,7,1,,0,,,999,"FLATUL/ERUCTAT/GAS PAIN",2015-01-02,1,2015-01-06,2
+0353847,inpatient_encounters,8,1,,0,,,9,,2015-02-26,1,2015-03-04,1
+0599523,,,,,,,,,,,,,
+0678231,,,,,,,,,,,,,
+0678231,inpatient_encounters,1,1,,,789,"ABDOMINAL PAIN UNSPEC SITE",,,2013-09-12,1,2013-09-14,1
+0707760,,,,,,,,,,,,,
+0707760,inpatient_encounters,1,999,"Bacchus Hospital",0,,,3,,2012-04-01,1,2012-04-07,1
+1017021,,,,,,,,,,,,,
+1017021,inpatient_encounters,1,1,,0,,,9,,2014-04-28,1,2014-05-02,1
+1017021,inpatient_encounters,2,1,,0,,,9,,2014-05-05,1,2014-05-23,1
+1017021,inpatient_encounters,3,1,,0,,,1,,2014-07-09,1,2014-07-11,1
+1017021,inpatient_encounters,4,1,,0,,,1,,2014-07-14,1,2014-07-31,1
+1027207,,,,,,,,,,,,,
+1027207,inpatient_encounters,1,1,,0,,,10,,2012-02-19,1,2012-02-20,1
+1027207,inpatient_encounters,2,1,,0,,,9,,2012-06-14,1,2012-06-19,1
+1027207,inpatient_encounters,3,1,,0,,,999,"Altered mental status",2012-06-21,1,2012-06-24,1
+1027207,inpatient_encounters,4,1,,0,,,16,,2012-07-17,1,2012-07-23,1
+1027207,inpatient_encounters,5,1,,1,,,17,,2013-01-22,1,2013-02-01,1
+1027207,inpatient_encounters,6,1,,0,,,9,,2013-05-14,1,2013-05-16,1
+1027207,inpatient_encounters,7,1,,0,,,9,,2013-07-26,1,2013-07-27,1
+1027207,inpatient_encounters,8,1,,0,,,9,,2013-10-25,1,2013-12-01,1
+1027207,inpatient_encounters,9,1,,0,,,13,,2013-12-08,1,2013-12-11,1
+1049419,,,,,,,,,,,,,
+1049419,inpatient_encounters,1,1,,0,,,1,,2012-12-13,1,2012-12-15,1
+1098632,,,,,,,,,,,,,
+1098632,inpatient_encounters,1,1,,,277.02,"CYSTIC FIBROSIS W PULM MANIFEST",,,2015-04-16,1,2015-07-13,1
+1169626,,,,,,,,,,,,,
+1222224,,,,,,,,,,,,,
+1232971,,,,,,,,,,,,,
+1232971,inpatient_encounters,1,1,,1,284.19,"OTHER PANCYTOPENIA",999,"OTHER PANCYTOPENIA",2015-04-03,1,2015-04-08,2
+1232971,inpatient_encounters,2,1,,,276.1,HYPOSMOLALITY,,,2015-04-17,1,2015-04-18,1
+1232971,inpatient_encounters,3,1,,,324,"INTRACRANIAL ABSCESS",,,2015-06-02,1,2015-06-16,1
+1234335,,,,,,,,,,,,,
+1234335,inpatient_encounters,1,1,,1,,,17,,2012-06-24,1,2012-06-25,1
+1234335,inpatient_encounters,2,1,,0,,,3,,2012-08-28,1,2012-09-05,1
+1234335,inpatient_encounters,3,1,,0,,,7,,2012-09-13,1,2012-09-20,1
+1250557,,,,,,,,,,,,,
+2008806,,,,,,,,,,,,,
+2008806,inpatient_encounters,1,1,,1,,,8,,2011-11-16,1,2011-11-17,1
+2008806,inpatient_encounters,2,1,,0,,,9,,2012-08-11,1,2012-08-18,1
+2008806,inpatient_encounters,3,1,,1,,,17,,2012-08-28,1,2012-08-29,1
+2008806,inpatient_encounters,4,1,,1,,,3,,2012-11-07,1,2012-11-09,1
+2029560,,,,,,,,,,,,,
+2037992,,,,,,,,,,,,,
+2037992,inpatient_encounters,1,1,,,T85.9XXA,"Unspecified complication of internal prosthetic de",,,2016-11-28,1,2016-11-29,1
+2037992,inpatient_encounters,2,1,,,Z43.4,"Encounter for attention to other artificial openin",,,2017-01-22,1,2017-02-03,1
+2077612,,,,,,,,,,,,,
+2077612,inpatient_encounters,1,1,,0,,,9,,2011-11-17,1,2011-11-21,1
+2077612,inpatient_encounters,2,1,,0,,,9,,2011-12-01,1,2011-12-10,1
+2077612,inpatient_encounters,3,1,,1,,,17,,2012-01-05,1,2012-01-23,1
+2077612,inpatient_encounters,4,1,,0,,,9,,2012-03-12,1,2012-03-15,1
+2077612,inpatient_encounters,5,1,,0,,,9,,2012-09-07,1,2012-09-10,1
+2077612,inpatient_encounters,6,1,,0,,,10,,2013-01-31,1,2013-02-04,1
+2077612,inpatient_encounters,7,1,,0,,,9,,2013-02-08,1,2013-02-11,1
+2077612,inpatient_encounters,8,1,,0,,,9,,2013-02-20,1,2013-02-25,1
+2077612,inpatient_encounters,9,1,,1,,,17,,2013-03-14,1,2013-03-25,1
+2077612,inpatient_encounters,10,1,,0,,,9,,2013-04-21,1,2013-04-26,1
+2077612,inpatient_encounters,11,1,,0,,,10,,2013-05-13,1,2013-05-16,1
+2077612,inpatient_encounters,12,1,,1,,,8,,2014-05-15,1,2014-05-16,1
+2077612,inpatient_encounters,13,1,,0,,,9,,2014-10-12,1,2014-10-16,1
+2077612,inpatient_encounters,14,1,,0,,,1,,2014-11-08,1,2014-11-10,1
+2077612,inpatient_encounters,15,1,,,780.6,"FEVER NOS",,,2015-07-21,1,2015-07-24,1
+2077612,inpatient_encounters,16,1,,,K80.00,"Calculus of gallbladder with acute cholecystitis w",,,2015-11-12,1,2015-11-20,1
+2077612,inpatient_encounters,17,1,,,R50.9,"Fever, unspecified",,,2016-05-16,1,2016-05-19,1
+2077612,inpatient_encounters,18,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2016-08-10,1,2016-08-13,1
+2077612,inpatient_encounters,19,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-05-11,1,2017-05-15,1
+2077612,inpatient_encounters,20,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-06-12,1,2017-06-15,1
+2077612,inpatient_encounters,21,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-10-15,1,2017-10-19,1
+2077612,inpatient_encounters,22,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-10-20,1,2017-10-27,1
+2082762,,,,,,,,,,,,,
+2082762,inpatient_encounters,1,1,,1,,,5,,2011-10-14,1,2011-11-11,1
+2082762,inpatient_encounters,2,1,,0,,,15,,2011-11-12,1,2011-11-17,1
+2082762,inpatient_encounters,3,1,,1,,,999,"Change vent settings",2011-12-20,1,2011-12-21,1
+2082762,inpatient_encounters,4,1,,1,,,999,"Drug infusion",2012-04-09,1,2012-04-10,1
+2082762,inpatient_encounters,5,1,,0,,,9,,2013-08-24,1,2013-08-31,1
+2082762,inpatient_encounters,6,1,,0,,,9,,2013-09-11,1,2013-09-19,1
+2116535,,,,,,,,,,,,,
+2116535,inpatient_encounters,1,1,,0,999.31,"OTH/UNS INF-CEN VEN CATH",9,,2011-10-18,1,2011-10-21,2
+2139682,,,,,,,,,,,,,
+2139682,inpatient_encounters,1,,,1,,,999,"Failure to thrive",2013-01-29,1,2013-01-31,1
+2139682,inpatient_encounters,2,1,,0,,,9,,2014-01-13,1,2014-01-21,1
+2139682,inpatient_encounters,3,1,,0,,,999,"Psychiatric problem",2014-04-11,1,2014-04-22,1
+2141875,,,,,,,,,,,,,
+2152049,,,,,,,,,,,,,
+2152049,inpatient_encounters,1,1,,,789,"ABDOMINAL PAIN UNSPEC SITE",,,2015-07-14,1,2015-07-18,1
+2152049,inpatient_encounters,2,999,"Brigham and Women's Hospital",0,,,1,,2015-08-13,1,2015-08-24,2
+2152162,,,,,,,,,,,,,
+2152162,inpatient_encounters,1,1,,0,,,9,,2012-05-29,1,2012-06-25,1
+2154352,,,,,,,,,,,,,
+2154352,inpatient_encounters,1,1,,0,,,999,"FOOD/VOMIT PNEUMONITIS",2015-03-17,1,2015-03-19,2
+2154352,inpatient_encounters,2,1,,,250,"DIABETES MELLITUS TYPE II-UNCOMPL",,,2015-07-22,1,2015-07-30,1
+2154352,inpatient_encounters,3,1,,,J69.0,"Pneumonitis due to inhalation of food and vomit",,,2015-11-19,1,2015-11-26,1
+2154352,inpatient_encounters,4,1,,,I50.23,"Acute on chronic systolic (congestive) heart failu",,,2016-01-14,1,2016-01-20,1
+2197077,,,,,,,,,,,,,
+2197077,inpatient_encounters,1,1,,0,,,9,,2013-01-13,1,2013-01-26,1
+2197077,inpatient_encounters,2,1,,0,,,3,,2013-02-12,1,2013-02-14,1
+2197077,inpatient_encounters,3,1,,0,,,3,,2013-03-16,1,2013-03-17,1
+2197077,inpatient_encounters,4,999,"Cape Cod Hospital",0,,,9,,2013-05-11,1,2013-05-14,1
+2197077,inpatient_encounters,5,1,,0,,,7,,2013-05-19,1,2013-05-22,1
+2248746,,,,,,,,,,,,,
+2248746,inpatient_encounters,1,1,,1,,,17,,2011-11-29,1,2011-12-04,1
+2248746,inpatient_encounters,2,1,,0,,,7,,2012-07-24,1,2012-07-26,1
+2248746,inpatient_encounters,3,1,,1,,,999,Seizures,2012-10-08,1,2012-10-10,1
+2248746,inpatient_encounters,4,1,,0,,,9,,2013-03-13,1,2013-03-20,1
+2248746,inpatient_encounters,5,1,,0,,,9,,2013-05-14,1,2013-05-16,1
+2248746,inpatient_encounters,6,1,,0,,,9,,2013-07-12,1,2013-07-19,1
+2248746,inpatient_encounters,7,1,,1,,,999,seizures,2013-12-17,1,2013-12-19,1
+2248746,inpatient_encounters,8,1,,0,,,999,Pancreatitis,2013-12-23,1,2013-12-28,1
+2248746,inpatient_encounters,9,1,,0,,,14,,2013-12-30,1,2014-01-10,1
+2248746,inpatient_encounters,10,1,,0,,,10,,2014-01-16,1,2014-01-24,1
+2248746,inpatient_encounters,11,1,,0,,,14,,2014-08-12,1,2014-08-13,1
+2248746,inpatient_encounters,12,1,,0,,,14,,2014-08-26,1,2014-08-29,1
+2248746,inpatient_encounters,13,1,,0,,,999,Seizures,2015-03-02,1,2015-03-11,1
+2248746,inpatient_encounters,14,1,,,345.3,"GRAND MAL STATUS",,,2015-04-05,1,2015-04-09,1
+2248746,inpatient_encounters,15,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2015-11-19,1,2015-12-29,1
+2248746,inpatient_encounters,16,1,,,H66.90,"Otitis media, unspecified, unspecified ear",,,2016-01-18,1,2016-01-21,1
+2248746,inpatient_encounters,17,1,,,N26.9,"Renal sclerosis, unspecified",,,2016-08-21,1,2016-08-24,1
+2248746,inpatient_encounters,18,1,,,J18.9,"Pneumonia, unspecified organism",,,2016-12-08,1,2016-12-09,1
+2248746,inpatient_encounters,19,1,,,T82.7XXA,"Infection and inflammatory reaction due to other c",,,2016-12-24,1,2016-12-26,1
+2248746,inpatient_encounters,20,1,,,R50.9,"Fever, unspecified",,,2017-04-03,1,2017-04-05,1
+2248746,inpatient_encounters,21,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-06-30,1,2017-07-02,1
+2248746,inpatient_encounters,22,1,,,F84.2,"Rett's syndrome",,,2017-07-12,1,2017-07-14,1
+2248746,inpatient_encounters,23,1,,,J18.9,"Pneumonia, unspecified organism",,,2017-09-30,1,2017-10-02,1
+2273380,,,,,,,,,,,,,
+2273380,inpatient_encounters,1,1,,0,,,16,,2011-12-05,1,2011-12-17,1
+2273380,inpatient_encounters,2,1,,0,,,15,,2012-05-05,1,2012-05-07,1
+2273380,inpatient_encounters,3,1,,0,,,16,,2012-06-19,1,2012-06-23,1
+2273380,inpatient_encounters,4,1,,0,,,15,,2012-08-31,1,2012-09-02,1
+2273380,inpatient_encounters,5,1,,0,,,9,,2012-10-28,1,2012-11-01,1
+2273380,inpatient_encounters,6,1,,0,,,7,,2013-08-07,1,2013-08-10,1
+2273380,inpatient_encounters,7,1,,0,,,9,,2014-11-23,1,2014-12-01,1
+2273380,inpatient_encounters,8,1,,,J69.0,"Pneumonitis due to inhalation of food and vomit",,,2016-03-24,1,2016-03-25,1
+2273380,inpatient_encounters,9,1,,,T82.898A,"Other specified complication of vascular prostheti",,,2016-06-11,1,2016-06-12,1
+2273380,inpatient_encounters,10,1,,,N39.0,"Urinary tract infection, site not specified",,,2016-07-15,1,2016-07-17,1
+2273380,inpatient_encounters,11,1,,,J04.10,"Acute tracheitis without obstruction",,,2016-12-09,1,2016-12-21,1
+2273380,inpatient_encounters,12,1,,,A41.9,"Sepsis, unspecified organism",,,2017-01-22,1,2017-02-15,1
+2273380,inpatient_encounters,13,1,,,G93.1,"Anoxic brain damage, not elsewhere classified",,,2017-04-11,1,2017-04-12,1
+2273380,inpatient_encounters,14,1,,,N39.0,"Urinary tract infection, site not specified",,,2017-10-11,1,2017-10-16,1
+2273380,inpatient_encounters,15,1,,,J18.9,"Pneumonia, unspecified organism",,,2017-10-29,1,2017-11-01,1
+2273380,inpatient_encounters,16,1,,,A41.9,"Sepsis, unspecified organism",,,2017-11-06,1,2017-12-05,1
+2283140,,,,,,,,,,,,,
+2283140,inpatient_encounters,1,1,,,540.1,"ABSCESS OF APPENDIX",,,2012-11-28,1,2012-12-04,1
+2312146,,,,,,,,,,,,,
+2312146,inpatient_encounters,1,,,-8,,,7,,2015-03-04,1,2015-03-05,1
+2312146,inpatient_encounters,2,,,-8,,,6,,2015-03-17,1,2015-03-19,1
+2312146,inpatient_encounters,3,1,,,270.3,"BRAN-CHAIN AMIN-ACID DIS",,,2015-04-16,1,2015-04-16,1
+2312146,inpatient_encounters,4,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-05-28,1,2015-06-15,1
+2312146,inpatient_encounters,5,1,,,270.3,"BRAN-CHAIN AMIN-ACID DIS",,,2015-08-05,1,2015-08-07,1
+2312146,inpatient_encounters,6,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2015-09-25,1,2015-10-01,1
+2312146,inpatient_encounters,7,1,,,E87.70,"Fluid overload, unspecified",,,2015-10-04,1,2015-10-11,1
+2312146,inpatient_encounters,8,1,,,T82.7XXA,"Infection and inflammatory reaction due to other c",,,2015-10-30,1,2015-11-10,1
+2312146,inpatient_encounters,9,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-03-19,1,2016-03-21,1
+2312146,inpatient_encounters,10,1,,,R50.9,"Fever, unspecified",,,2017-03-02,1,2017-03-03,1
+2321215,,,,,,,,,,,,,
+2321215,inpatient_encounters,1,1,,0,,,999,Tenosynovitis,2012-12-17,1,2012-12-27,1
+4005971,,,,,,,,,,,,,
+4005971,inpatient_encounters,1,1,,1,,,17,,2011-12-11,1,2011-12-15,2
+4005971,inpatient_encounters,2,1,,0,,,17,,2012-02-09,1,2012-02-11,1
+4005971,inpatient_encounters,3,999,"Albany Medical Center",0,,,9,,2012-03-28,1,2012-03-29,1
+4005971,inpatient_encounters,4,1,,0,,,2,,2012-05-03,1,2012-05-04,1
+4005971,inpatient_encounters,5,1,,1,,,17,,2012-05-17,1,2012-05-20,1
+4005971,inpatient_encounters,6,1,,0,,,19,,2012-09-03,1,2012-09-05,1
+4005971,inpatient_encounters,7,999,"Albany Medical Center",0,,,3,,2012-11-13,1,2012-11-14,1
+4005971,inpatient_encounters,8,999,"Albany Medical Center",0,,,4,,2013-07-03,1,2013-07-03,1
+4005971,inpatient_encounters,9,,,-8,,,999,"ACUTE ESOPHAGITIS",2015-03-10,1,2015-03-11,1
+4005971,inpatient_encounters,10,1,,,560.89,"INTESTINAL OBSTRUCT NEC",,,2015-08-20,1,2015-08-25,1
+4005971,inpatient_encounters,11,999,"Albany Medical Center",0,,,9,,2015-10-28,1,2015-10-30,2
+4005971,inpatient_encounters,12,1,,,K80.13,"Calculus of gallbladder with acute and chronic cho",,,2015-12-06,1,2015-12-12,1
+4005971,inpatient_encounters,13,999,"Albany Medical Center",0,,,999,"back pain",2015-12-28,1,2016-01-01,2
+4005971,inpatient_encounters,14,1,,,K59.8,"Other specified functional intestinal disorders",,,2016-04-05,1,2016-04-11,1
+4005971,inpatient_encounters,15,999,"Albany Medical Center",0,,,18,,2016-05-12,1,2016-05-13,2
+4005971,inpatient_encounters,16,1,,,N39.0,"Urinary tract infection, site not specified",,,2017-05-08,1,2017-05-16,1
+4005971,inpatient_encounters,17,999,"Albany Medical Center",0,,,9,,2017-07-02,1,2017-07-11,2
+4005971,inpatient_encounters,18,1,,,K56.69,"Other intestinal obstruction",,,2017-07-16,1,2017-08-01,1
+4014109,,,,,,,,,,,,,
+4014109,inpatient_encounters,1,1,,0,,,3,,2011-10-19,1,2011-10-22,1
+4014109,inpatient_encounters,2,999,"Albany Medical Center",0,,,9,,2012-04-08,1,2012-04-09,1
+4014109,inpatient_encounters,3,999,"Albany Medical Center",0,,,9,,2012-06-17,1,2012-06-19,1
+4014109,inpatient_encounters,4,1,,1,,,17,,2012-07-10,1,2012-07-17,1
+4014109,inpatient_encounters,5,999,"Albany Medical Center",0,,,999,"Pain management",2012-07-23,1,2012-07-25,1
+4014109,inpatient_encounters,6,1,,1,,,999,"Feeding difficulties",2013-08-04,1,2013-08-12,1
+4014109,inpatient_encounters,7,999,"Albany Medical Center",0,,,9,,2013-10-18,1,2013-10-31,1
+4014109,inpatient_encounters,8,999,"Children's Hospital Albany Medical Center",0,,,9,,2015-05-09,1,2015-05-15,2
+4014109,inpatient_encounters,9,999,"Albany Medical Center",1,,,9,,2015-07-22,1,2015-07-28,2
+4014109,inpatient_encounters,10,999,"Albany Medical Center",0,,,9,,2015-09-16,1,2015-09-18,2
+4014109,inpatient_encounters,11,1,,,996.1,"MALFUNC VASC DEVICE/GRAF",,,2015-09-21,1,2015-09-24,1
+4014109,inpatient_encounters,12,1,,,R63.3,"Feeding difficulties",,,2015-11-02,1,2015-11-20,1
+4014109,inpatient_encounters,13,999,"Albany Medical Center",0,,,9,,2015-12-31,1,2016-01-02,2
+4014109,inpatient_encounters,14,999,"Albany Medical Center",0,,,9,,2016-01-14,1,2016-01-16,2
+4014109,inpatient_encounters,15,999,"Albany Medical Center",0,,,9,,2016-08-21,1,2016-08-24,2
+4014109,inpatient_encounters,16,999,"Albany Medical Center",0,,,999,"cellulitis around G-tube",2016-09-07,1,2016-09-09,2
+4014109,inpatient_encounters,17,1,,,K94.22,"Gastrostomy infection",,,2016-11-07,1,2016-11-10,1
+4014109,inpatient_encounters,18,999,"Albany Medical Center",0,,,9,,2016-12-14,1,2016-12-16,2
+4014109,inpatient_encounters,19,1,,,T82.514A,"Breakdown (mechanical) of infusion catheter, initi",,,2017-06-05,1,2017-06-08,1
+4014109,inpatient_encounters,20,1,,,K90.49,"Malabsorption due to intolerance, not elsewhere cl",,,2017-07-24,1,2017-08-21,1
+4015089,,,,,,,,,,,,,
+4027482,,,,,,,,,,,,,
+4027482,inpatient_encounters,1,1,,1,,,17,,2012-11-01,1,2012-11-03,1
+4027482,inpatient_encounters,2,1,,0,,,15,,2013-10-10,1,2013-10-13,1
+4027482,inpatient_encounters,3,1,,1,,,17,,2014-01-09,1,2014-01-10,1
+4027482,inpatient_encounters,4,1,,0,,,999,Seizures,2014-03-17,1,2014-03-24,1
+4027482,inpatient_encounters,5,1,,0,,,9,,2014-06-12,1,2014-06-13,1
+4027482,inpatient_encounters,6,,,-8,,,999,"DIS CALCIUM METABOLISM NOS",2014-10-08,1,2014-10-12,1
+4027482,inpatient_encounters,7,1,,0,,,999,Seizures,2015-02-15,1,2015-02-19,1
+4027482,inpatient_encounters,8,1,,0,,,15,,2015-03-29,1,2015-04-01,1
+4027482,inpatient_encounters,9,1,,,333.5,"CHOREA NEC",,,2015-04-10,1,2015-04-19,1
+4027482,inpatient_encounters,10,1,,,518.84,"ACUTE AND CHRONIC RESPIRATY FAILURE",,,2015-04-22,1,2015-04-27,1
+4027482,inpatient_encounters,11,1,,,518.84,"ACUTE AND CHRONIC RESPIRATY FAILURE",,,2015-05-25,1,2015-05-29,1
+4027482,inpatient_encounters,12,1,,,345.91,"EPILEPSY NOS INTRACTABLE",,,2015-07-26,1,2015-07-29,1
+4027482,inpatient_encounters,13,1,,,345.9,"EPILEPSY NOS W/O MENTN INTRACTABLE",,,2015-08-18,1,2015-08-21,1
+4027482,inpatient_encounters,14,1,,,486,"PNEUMONIA, ORGANISM NOS",,,2015-08-25,1,2015-08-29,1
+4027482,inpatient_encounters,15,1,,,345.91,"EPILEPSY NOS INTRACTABLE",,,2015-09-02,1,2015-09-07,1
+4027482,inpatient_encounters,16,1,,,79.99,"UNSPECIFIED VIRAL INFECTION",,,2015-09-12,1,2015-09-15,1
+4027482,inpatient_encounters,17,1,,,J04.10,"Acute tracheitis without obstruction",,,2015-10-20,1,2015-10-25,1
+4027482,inpatient_encounters,18,1,,,J96.21,"Acute and chronic respiratory failure with hypoxia",,,2015-11-11,1,2015-11-21,1
+4027482,inpatient_encounters,19,1,,,J96.00,"Acute respiratory failure, unspecified whether wit",,,2015-12-05,1,2015-12-07,1
+4027482,inpatient_encounters,20,1,,,R50.9,"Fever, unspecified",,,2015-12-12,1,2015-12-14,1
+4027482,inpatient_encounters,21,1,,,J96.20,"Acute and chronic respiratory failure, unspecified",,,2016-01-03,1,2016-01-06,1
+4027482,inpatient_encounters,22,1,,,J96.20,"Acute and chronic respiratory failure, unspecified",,,2016-01-25,1,2016-02-10,1
+4027482,inpatient_encounters,23,1,,,J42,"Unspecified chronic bronchitis",,,2016-02-20,1,2016-02-29,1
+4027482,inpatient_encounters,24,1,,,J04.10,"Acute tracheitis without obstruction",,,2016-03-10,1,2016-03-22,1
+4027482,inpatient_encounters,25,1,,,T82.514A,"Breakdown (mechanical) of infusion catheter, initi",,,2016-04-26,1,2016-05-01,1
+4027482,inpatient_encounters,26,1,,,J95.02,"Infection of tracheostomy stoma",,,2016-05-24,1,2016-05-28,1
+4027482,inpatient_encounters,27,1,,,T82.594A,"Other mechanical complication of infusion catheter",,,2016-07-20,1,2016-07-22,1
+4027482,inpatient_encounters,28,1,,,J69.0,"Pneumonitis due to inhalation of food and vomit",,,2016-08-15,1,2016-08-21,1
+4027482,inpatient_encounters,29,1,,,J69.0,"Pneumonitis due to inhalation of food and vomit",,,2016-09-18,1,2016-09-24,1
+4027482,inpatient_encounters,30,1,,,J04.10,"Acute tracheitis without obstruction",,,2016-10-22,1,2016-11-01,1
+4027482,inpatient_encounters,31,1,,,J04.10,"Acute tracheitis without obstruction",,,2016-11-06,1,2016-11-11,1
+4027482,inpatient_encounters,32,1,,,T82.898A,"Other specified complication of vascular prostheti",,,2016-12-18,1,2016-12-19,1
+4027482,inpatient_encounters,33,1,,,A41.9,"Sepsis, unspecified organism",,,2016-12-22,1,2016-12-27,1
+4027482,inpatient_encounters,34,1,,,J95.01,"Hemorrhage from tracheostomy stoma",,,2016-12-27,1,2016-12-28,1
+4027482,inpatient_encounters,35,1,,,J95.09,"Other tracheostomy complication",,,2017-01-17,1,2017-01-20,1
+4027482,inpatient_encounters,36,1,,,J38.6,"Stenosis of larynx",,,2017-01-27,1,2017-01-30,1
+4027482,inpatient_encounters,37,1,,,T82.868A,"Thrombosis due to vascular prosthetic devices, imp",,,2017-02-17,1,2017-02-19,1
+4027482,inpatient_encounters,38,1,,,T82.868A,"Thrombosis due to vascular prosthetic devices, imp",,,2017-02-23,1,2017-03-01,1
+4027482,inpatient_encounters,39,1,,,Z45.2,"Encounter for adjustment and management of vascula",,,2017-03-05,1,2017-03-12,1
+4027482,inpatient_encounters,40,1,,,T82.594A,"Other mechanical complication of infusion catheter",,,2017-03-14,1,2017-03-19,1
+4027482,inpatient_encounters,41,1,,,B34.8,"Other viral infections of unspecified site",,,2017-03-24,1,2017-03-28,1
+4027482,inpatient_encounters,42,1,,,T82.514A,"Breakdown (mechanical) of infusion catheter, initi",,,2017-04-05,1,2017-04-06,1
+4027482,inpatient_encounters,43,1,,,B34.9,"Viral infection, unspecified",,,2017-04-11,1,2017-04-14,1
+4027482,inpatient_encounters,44,1,,,R50.9,"Fever, unspecified",,,2017-04-15,1,2017-04-20,1
+4027482,inpatient_encounters,45,1,,,T82.594A,"Other mechanical complication of infusion catheter",,,2017-04-23,1,2017-05-10,1
+4027482,inpatient_encounters,46,1,,,T82.858A,"Stenosis of other vascular prosthetic devices, imp",,,2017-05-15,1,2017-05-17,1
+4027482,inpatient_encounters,47,1,,,T85.618A,"Breakdown (mechanical) of other specified internal",,,2017-06-11,1,2017-06-21,1
+4027482,inpatient_encounters,48,1,,,B34.9,"Viral infection, unspecified",,,2017-07-01,1,2017-07-04,1
+4027482,inpatient_encounters,49,1,,,G40.804,"Other epilepsy, intractable, without status epilep",,,2017-09-19,1,2017-09-20,1
+4027482,inpatient_encounters,50,1,,,Z43.0,"Encounter for attention to tracheostomy",,,2017-12-14,1,2017-12-15,1
+4031955,,,,,,,,,,,,,
+4031955,inpatient_encounters,1,1,,1,,,17,,2013-09-17,1,2013-09-23,1
+4054296,,,,,,,,,,,,,
+4054296,inpatient_encounters,1,1,,0,38.49,"GRAM-NEG SEPTICEMIA NEC",9,,2011-10-12,1,2011-10-19,2
+4054296,inpatient_encounters,2,1,,0,,,16,,2012-06-20,1,2012-06-26,1
+4054296,inpatient_encounters,3,1,,0,,,9,,2012-09-09,1,2012-09-12,1
+4054296,inpatient_encounters,4,1,,0,,,3,,2012-12-31,1,2013-01-03,1
+4054296,inpatient_encounters,5,1,,0,,,9,,2014-01-16,1,2014-01-21,1
+4054296,inpatient_encounters,6,1,,0,,,9,,2014-01-27,1,2014-02-06,1
+4054296,inpatient_encounters,7,1,,0,,,3,,2014-02-10,1,2014-02-11,1
+4054296,inpatient_encounters,8,1,,0,,,1,,2014-07-01,1,2014-07-03,1
+4054296,inpatient_encounters,9,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-08-10,1,2016-08-17,1
+4054296,inpatient_encounters,10,1,,,K83.0,Cholangitis,,,2016-09-28,1,2016-10-06,1
+4054296,inpatient_encounters,11,1,,,K86.89,"Other specified diseases of pancreas",,,2016-10-17,1,2016-10-20,1
+4054296,inpatient_encounters,12,1,,,K52.9,"Noninfective gastroenteritis and colitis, unspecif",,,2016-10-31,1,2016-11-02,1
+4054296,inpatient_encounters,13,1,,,R10.13,"Epigastric pain",,,2016-12-24,1,2016-12-25,1
+4054296,inpatient_encounters,14,1,,,T82.594A,"Other mechanical complication of infusion catheter",,,2017-02-08,1,2017-02-10,1
+4054296,inpatient_encounters,15,1,,,T82.594A,"Other mechanical complication of infusion catheter",,,2017-03-12,1,2017-03-18,1
+4054296,inpatient_encounters,16,1,,,T82.514A,"Breakdown (mechanical) of infusion catheter, initi",,,2017-04-06,1,2017-04-08,1
+4054296,inpatient_encounters,17,1,,,T82.858A,"Stenosis of other vascular prosthetic devices, imp",,,2017-04-19,1,2017-04-20,1
+4054296,inpatient_encounters,18,1,,,N17.9,"Acute kidney failure, unspecified",,,2017-08-07,1,2017-08-30,1
+4054296,inpatient_encounters,19,1,,,R50.9,"Fever, unspecified",,,2017-11-27,1,2017-11-30,1
+4054296,inpatient_encounters,20,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-12-08,1,2017-12-12,1
+4055829,,,,,,,,,,,,,
+4055829,inpatient_encounters,1,1,,0,,,999,"Cerebral vascular accident",2012-08-09,1,2012-10-10,1
+4055829,inpatient_encounters,2,1,,0,,,999,Seizures,2012-10-16,1,2012-10-18,1
+4055829,inpatient_encounters,3,1,,0,,,7,,2012-10-19,1,2012-11-05,1
+4055829,inpatient_encounters,4,1,,0,,,9,,2012-11-15,1,2012-12-13,1
+4055829,inpatient_encounters,5,1,,0,,,999,Hypertension,2012-12-21,1,2012-12-26,1
+4055829,inpatient_encounters,6,1,,0,,,999,Hypertension,2013-01-03,1,2013-02-05,1
+4055829,inpatient_encounters,7,1,,0,,,999,Social,2013-02-09,1,2013-02-15,1
+4055829,inpatient_encounters,8,1,,0,,,7,,2013-02-26,1,2013-03-10,1
+4055829,inpatient_encounters,9,1,,0,,,7,,2013-03-19,1,2013-03-31,1
+4055829,inpatient_encounters,10,1,,0,,,9,,2013-05-13,1,2013-05-23,1
+4055829,inpatient_encounters,11,1,,0,,,9,,2013-08-03,1,2013-08-12,1
+4055829,inpatient_encounters,12,1,,0,,,999,"GJ tube malposition",2013-08-28,1,2013-08-29,1
+4055829,inpatient_encounters,13,1,,0,,,19,,2013-09-25,1,2013-09-26,1
+4055829,inpatient_encounters,14,1,,0,,,15,,2013-10-09,1,2013-10-10,1
+4055829,inpatient_encounters,15,1,,0,,,3,,2013-10-26,1,2013-10-27,1
+4055829,inpatient_encounters,16,1,,0,,,9,,2014-01-27,1,2014-01-28,1
+4055829,inpatient_encounters,17,1,,1,,,17,,2014-03-03,1,2014-03-04,1
+4055829,inpatient_encounters,18,1,,0,,,999,Headaches,2014-05-21,1,2014-05-23,1
+4055829,inpatient_encounters,19,1,,1,,,17,,2014-06-25,1,2014-06-27,1
+4055829,inpatient_encounters,20,1,,0,,,19,,2014-07-02,1,2014-07-03,1
+4055829,inpatient_encounters,21,1,,0,,,19,,2014-07-07,1,2014-07-10,1
+4055829,inpatient_encounters,22,1,,0,,,7,,2014-08-04,1,2014-08-12,1
+4055829,inpatient_encounters,23,1,,0,,,9,,2014-09-19,1,2014-09-21,1
+4055829,inpatient_encounters,24,1,,0,,,19,,2015-02-03,1,2015-02-28,1
+4055829,inpatient_encounters,25,1,,,276.51,DEHYDRATION,,,2015-07-06,1,2015-07-08,1
+4055829,inpatient_encounters,26,1,,,518.84,"ACUTE AND CHRONIC RESPIRATY FAILURE",,,2015-09-08,1,2015-09-15,1
+4055829,inpatient_encounters,27,1,,,J18.9,"Pneumonia, unspecified organism",,,2015-11-22,1,2015-12-01,1
+4055829,inpatient_encounters,28,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-04-02,1,2016-04-17,1
+4055829,inpatient_encounters,29,1,,,J96.10,"Chronic respiratory failure, unspecified whether w",,,2016-04-19,1,2016-04-24,1
+4055829,inpatient_encounters,30,1,,,J18.9,"Pneumonia, unspecified organism",,,2016-06-19,1,2016-06-22,1
+4055829,inpatient_encounters,31,1,,,I12.9,"Hypertensive chronic kidney disease with stage 1 t",,,2016-07-05,1,2016-07-07,1
+4055829,inpatient_encounters,32,1,,,J18.9,"Pneumonia, unspecified organism",,,2016-07-16,1,2016-08-20,1
+4055829,inpatient_encounters,33,1,,,K56.60,"Unspecified intestinal obstruction",,,2016-08-30,1,2016-09-08,1
+4055829,inpatient_encounters,34,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-01-24,1,2017-01-28,1
+4055829,inpatient_encounters,35,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-04-21,1,2017-05-02,1
+4056596,,,,,,,,,,,,,
+4056596,inpatient_encounters,1,1,,,E87.70,"Fluid overload, unspecified",,,2016-03-10,1,2016-03-18,1
+4063662,,,,,,,,,,,,,
+4063662,inpatient_encounters,1,1,,0,,,999,"elevated creatinine",2013-09-07,1,2013-09-08,1
+4063662,inpatient_encounters,2,1,,0,,,999,Hypertension,2013-09-11,1,2013-09-14,1
+4084730,,,,,,,,,,,,,
+4095149,,,,,,,,,,,,,
+4095149,inpatient_encounters,1,1,,0,,,7,,2013-03-18,1,2013-03-20,1
+4095149,inpatient_encounters,2,1,,0,,,9,,2013-04-05,1,2013-04-07,1
+4095149,inpatient_encounters,3,1,,0,,,9,,2013-04-16,1,2013-05-08,1
+4095149,inpatient_encounters,4,1,,0,,,9,,2013-06-14,1,2013-06-17,1
+4095149,inpatient_encounters,5,1,,0,,,9,,2013-08-05,1,2013-08-19,1
+4095149,inpatient_encounters,6,1,,0,,,999,"Altered mental status",2013-11-01,1,2013-11-11,1
+4095149,inpatient_encounters,7,75,,0,,,999,Hypertension,2013-11-19,1,2013-11-25,1
+4095149,inpatient_encounters,8,1,,0,,,999,vasculitis,2014-06-15,1,2014-06-20,1
+4095149,inpatient_encounters,9,1,,1,,,999,Vasculitis,2014-07-02,1,2014-07-03,1
+4095149,inpatient_encounters,10,1,,1,,,999,Vasculitis,2014-07-18,1,2014-07-18,1
+4095149,inpatient_encounters,11,1,,,437.4,"CEREBRAL ARTERITIS",,,2014-07-31,1,2014-08-01,1
+4095149,inpatient_encounters,12,1,,0,,,999,Stroke,2014-08-05,1,2014-08-10,1
+4095149,inpatient_encounters,13,1,,0,,,999,stroke,2014-08-14,1,2014-08-17,1
+4095149,inpatient_encounters,14,1,,0,,,999,"Cerebral vascular accident",2014-09-09,1,2014-09-11,1
+4095149,inpatient_encounters,15,,,-8,,,10,,2014-10-16,1,2014-11-12,1
+4095149,inpatient_encounters,16,1,,0,,,10,,2014-11-25,1,2014-11-26,1
+4095149,inpatient_encounters,17,1,,,333.5,"CHOREA NEC",,,2015-05-08,1,2015-05-10,1
+4095149,inpatient_encounters,18,1,,,79.99,"UNSPECIFIED VIRAL INFECTION",,,2015-06-03,1,2015-06-05,1
+4095149,inpatient_encounters,19,1,,,38.9,"SEPTICEMIA NOS",,,2015-09-23,1,2015-09-25,1
+4095149,inpatient_encounters,20,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2016-03-30,1,2016-03-31,1
+4095149,inpatient_encounters,21,1,,,K30,"Functional dyspepsia",,,2016-10-10,1,2016-10-21,1
+4095149,inpatient_encounters,22,1,,,D50.9,"Iron deficiency anemia, unspecified",,,2017-02-08,1,2017-02-10,1
+4095149,inpatient_encounters,23,1,,,K94.03,"Colostomy malfunction",,,2017-03-16,1,2017-03-21,1
+4095149,inpatient_encounters,24,1,,,K59.8,"Other specified functional intestinal disorders",,,2017-06-21,1,2017-07-04,1
+4095149,inpatient_encounters,25,1,,,K31.84,Gastroparesis,,,2017-08-29,1,2017-09-01,1
+4105397,,,,,,,,,,,,,
+4105397,inpatient_encounters,1,1,,,593.7,"VESICOURETERAL REFLUX UNSPEC",,,2011-10-13,1,2011-10-15,1
+4105397,inpatient_encounters,2,1,,,276.9,"ELECTROLYT/FLUID DIS NEC",,,2014-08-27,1,2014-09-08,1
+4105397,inpatient_encounters,3,1,,0,,,9,,2014-11-10,1,2014-11-11,1
+4105397,inpatient_encounters,4,1,,,Q43.8,"Other specified congenital malformations of intest",,,2017-10-02,1,2017-10-16,1
+4115133,,,,,,,,,,,,,
+4115133,inpatient_encounters,1,1,,0,,,9,,2012-01-16,1,2012-01-30,1
+4115133,inpatient_encounters,2,1,,0,,,999,"Feeding intolerance",2012-03-04,1,2012-03-08,1
+4115133,inpatient_encounters,3,1,,0,,,1,,2012-05-01,1,2012-05-05,1
+4115133,inpatient_encounters,4,1,,0,,,7,,2012-05-08,1,2012-05-10,1
+4115133,inpatient_encounters,5,1,,0,,,19,,2012-09-06,1,2012-09-14,1
+4115133,inpatient_encounters,6,1,,0,,,3,,2012-10-03,1,2012-10-04,1
+4115133,inpatient_encounters,7,1,,0,,,3,,2012-10-15,1,2012-10-17,1
+4115133,inpatient_encounters,8,1,,0,,,3,,2012-11-04,1,2012-11-05,1
+4115133,inpatient_encounters,9,1,,0,,,1,,2012-11-13,1,2012-11-19,1
+4115133,inpatient_encounters,10,1,,0,,,7,,2012-12-09,1,2012-12-22,1
+4115133,inpatient_encounters,11,1,,0,,,9,,2013-01-03,1,2013-01-17,1
+4115133,inpatient_encounters,12,1,,1,,,17,,2013-01-31,1,2013-02-01,1
+4115133,inpatient_encounters,13,1,,0,999.32,"BLOOD INF DT CEN VEN CTH",9,,2013-02-14,1,2013-02-25,2
+4115133,inpatient_encounters,14,1,,0,,,9,,2013-02-15,1,2013-02-25,1
+4115133,inpatient_encounters,15,1,,0,,,999,Dysuria,2013-02-25,1,2013-02-27,1
+4115133,inpatient_encounters,16,1,,0,,,3,,2013-04-16,1,2013-04-20,1
+4115133,inpatient_encounters,17,1,,0,,,999,"Decreased ostomy output",2013-04-25,1,2013-04-27,1
+4115133,inpatient_encounters,18,1,,0,,,9,,2013-05-31,1,2013-06-06,1
+4115133,inpatient_encounters,19,1,,0,,,3,,2013-06-07,1,2013-06-10,1
+4115133,inpatient_encounters,20,1,,0,,,19,,2013-06-17,1,2013-06-26,1
+4115133,inpatient_encounters,21,1,,0,,,1,,2013-11-11,1,2013-11-12,1
+4115133,inpatient_encounters,22,1,,0,,,19,,2013-12-01,1,2013-12-03,1
+4115133,inpatient_encounters,23,1,,0,,,3,,2013-12-15,1,2013-12-16,1
+4115133,inpatient_encounters,24,1,,0,,,3,,2013-12-18,1,2013-12-20,1
+4115133,inpatient_encounters,25,1,,0,,,3,,2014-02-08,1,2014-02-09,1
+4115133,inpatient_encounters,26,1,,0,,,3,,2014-02-15,1,2014-02-16,1
+4115133,inpatient_encounters,27,1,,0,,,3,,2014-03-01,1,2014-03-02,1
+4115133,inpatient_encounters,28,1,,1,,,8,,2014-03-19,1,2014-03-22,1
+4115133,inpatient_encounters,29,1,,0,,,9,,2014-08-03,1,2014-08-31,1
+4115133,inpatient_encounters,30,1,,0,,,9,,2014-11-04,1,2014-11-07,1
+4115133,inpatient_encounters,31,1,,1,,,17,,2014-11-21,1,2014-11-23,1
+4115133,inpatient_encounters,32,1,,0,,,19,,2014-11-29,1,2014-12-08,1
+4115133,inpatient_encounters,33,1,,0,276.51,DEHYDRATION,19,,2015-01-09,1,2015-01-13,2
+4115133,inpatient_encounters,34,1,,,560.89,"INTESTINAL OBSTRUCT NEC",,,2015-06-21,1,2015-06-26,1
+4115133,inpatient_encounters,35,1,,,537.3,"DUODENAL OBSTRUCTION NEC",,,2015-07-03,1,2015-08-24,1
+4115133,inpatient_encounters,36,1,,,J10.1,"Influenza due to other identified influenza virus",,,2016-04-06,1,2016-04-08,1
+4115133,inpatient_encounters,37,1,,,K56.60,"Unspecified intestinal obstruction",,,2016-08-26,1,2016-08-31,1
+4115133,inpatient_encounters,38,1,,,R50.9,"Fever, unspecified",,,2016-09-29,1,2016-10-01,1
+4115133,inpatient_encounters,39,1,,,N39.0,"Urinary tract infection, site not specified",,,2017-01-09,1,2017-01-11,1
+4115133,inpatient_encounters,40,1,,,A08.11,"Acute gastroenteropathy due to Norwalk agent",,,2017-02-08,1,2017-02-13,1
+4115133,inpatient_encounters,41,1,,,K59.8,"Other specified functional intestinal disorders",,,2017-05-01,1,2017-05-09,1
+4115133,inpatient_encounters,42,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2017-06-15,1,2017-06-17,1
+4115133,inpatient_encounters,43,1,,,N39.0,"Urinary tract infection, site not specified",,,2017-12-14,1,2017-12-16,1
+4123887,,,,,,,,,,,,,
+4123887,inpatient_encounters,1,1,,0,,,19,,2011-12-10,1,2011-12-14,1
+4123887,inpatient_encounters,2,1,,0,,,9,,2012-06-10,1,2012-06-11,1
+4123887,inpatient_encounters,3,1,,1,,,3,,2012-11-14,1,2012-11-15,1
+4123887,inpatient_encounters,4,1,,1,,,999,"Re-initiation of PN",2013-04-01,1,2013-04-04,1
+4123887,inpatient_encounters,5,1,,,J10.1,"Influenza due to other identified influenza virus",,,2017-02-26,1,2017-02-28,1
+4123887,inpatient_encounters,6,1,,,B97.89,"Other viral agents as the cause of diseases classi",,,2017-03-31,1,2017-04-02,1
+4126432,,,,,,,,,,,,,
+4126432,inpatient_encounters,1,1,,0,,,15,,2011-10-15,1,2011-10-17,1
+4126432,inpatient_encounters,2,1,,0,,,9,,2011-11-02,1,2011-11-04,1
+4126432,inpatient_encounters,3,1,,0,,,15,,2011-11-25,1,2011-12-03,1
+4126432,inpatient_encounters,4,1,,0,,,9,,2012-01-25,1,2012-02-04,1
+4126432,inpatient_encounters,5,1,,0,,,999,Lethargy,2012-02-07,1,2012-02-11,1
+4126432,inpatient_encounters,6,1,,0,,,15,,2012-03-17,1,2012-03-29,1
+4126432,inpatient_encounters,7,1,,0,,,9,,2012-04-13,1,2012-04-17,1
+4126432,inpatient_encounters,8,1,,0,,,15,,2012-05-15,1,2012-05-18,1
+4126432,inpatient_encounters,9,1,,0,,,9,,2012-07-14,1,2012-07-16,1
+4126432,inpatient_encounters,10,1,,0,,,19,,2012-08-20,1,2012-08-22,1
+4126432,inpatient_encounters,11,1,,1,,,17,,2012-12-10,1,2012-12-14,1
+4126432,inpatient_encounters,12,1,,0,,,9,,2013-02-08,1,2013-02-16,1
+4126432,inpatient_encounters,13,1,,0,,,9,,2013-03-18,1,2013-03-20,1
+4126432,inpatient_encounters,14,1,,0,,,9,,2013-06-26,1,2013-06-28,1
+4126432,inpatient_encounters,15,1,,0,,,15,,2013-07-27,1,2013-08-16,1
+4126432,inpatient_encounters,16,1,,0,,,9,,2013-10-13,1,2013-10-23,1
+4126432,inpatient_encounters,17,1,,0,,,15,,2013-10-31,1,2013-11-13,1
+4126432,inpatient_encounters,18,1,,0,,,9,,2014-08-08,1,2014-08-11,1
+4126432,inpatient_encounters,19,,,-8,,,999,"ACUTE AND CHRONIC RESPIRATY FAILURE",2015-01-04,1,2015-01-12,1
+4126432,inpatient_encounters,20,1,,0,,,999,"feeding tube problem",2015-02-02,1,2015-02-04,1
+4126432,inpatient_encounters,21,1,,,A08.4,"Viral intestinal infection, unspecified",,,2015-10-12,1,2015-10-20,1
+4126432,inpatient_encounters,22,1,,,T80.211D,"Bloodstream infection due to central venous cathet",,,2015-10-23,1,2015-11-03,1
+4126432,inpatient_encounters,23,1,,,Z79.2,"Long term (current) use of antibiotics",,,2015-11-23,1,2015-11-25,1
+4126432,inpatient_encounters,24,1,,,J69.0,"Pneumonitis due to inhalation of food and vomit",,,2016-01-07,1,2016-01-12,1
+4126432,inpatient_encounters,25,1,,,B34.9,"Viral infection, unspecified",,,2016-01-16,1,2016-02-01,1
+4126432,inpatient_encounters,26,1,,,J18.9,"Pneumonia, unspecified organism",,,2016-03-18,1,2016-03-25,1
+4132107,,,,,,,,,,,,,
+4132107,inpatient_encounters,1,1,,1,,,17,,2012-08-07,1,2012-08-10,1
+4132107,inpatient_encounters,2,1,,1,,,17,,2012-10-04,1,2012-10-26,1
+4132107,inpatient_encounters,3,1,,1,,,17,,2013-02-06,1,2013-02-18,1
+4140680,,,,,,,,,,,,,
+4140680,inpatient_encounters,1,1,,0,,,7,,2013-03-25,1,2013-03-28,1
+4140680,inpatient_encounters,2,1,,0,,,999,"Abdominal distention",2013-04-11,1,2013-04-17,1
+4140680,inpatient_encounters,3,1,,0,,,1,,2013-04-28,1,2013-05-03,1
+4140680,inpatient_encounters,4,,,0,,,1,,2013-05-09,1,2013-05-17,1
+4140680,inpatient_encounters,5,1,,1,,,17,,2013-06-03,1,2013-06-06,1
+4140680,inpatient_encounters,6,1,,0,999.31,"OTH/UNS INF-CEN VEN CATH",9,,2013-07-23,1,2013-08-01,2
+4140680,inpatient_encounters,7,1,,1,,,8,,2013-08-07,1,2013-08-08,1
+4140680,inpatient_encounters,8,1,,0,,,19,,2013-10-15,1,2013-10-18,1
+4140680,inpatient_encounters,9,1,,0,,,999,"Pseudo-obstructive crisis",2013-12-19,1,2013-12-23,1
+4140680,inpatient_encounters,10,1,,0,,,8,,2014-02-11,1,2014-02-16,1
+4140680,inpatient_encounters,11,1,,,780.57,"SLEEP APNEA NEC/NOS",,,2014-09-03,1,2014-09-04,1
+4140680,inpatient_encounters,12,1,,0,,,999,Pneumatosis,2014-10-02,1,2014-10-08,1
+4140680,inpatient_encounters,13,1,,0,,,999,Pneumatosis,2014-10-09,1,2014-10-15,2
+4140680,inpatient_encounters,14,1,,1,,,17,,2014-10-20,1,2014-10-21,2
+4140680,inpatient_encounters,15,1,,0,,,19,,2014-12-09,1,2014-12-13,1
+4140680,inpatient_encounters,16,1,,0,,,999,"C. DIFFICILE ENTERITIS",2015-01-07,1,2015-01-15,2
+4140680,inpatient_encounters,17,1,,0,,,19,,2015-02-08,1,2015-02-14,1
+4140680,inpatient_encounters,18,1,,0,,,19,,2015-02-19,1,2015-03-09,1
+4140680,inpatient_encounters,19,1,,0,,,7,,2015-03-10,1,2015-03-19,2
+4140680,inpatient_encounters,20,1,,,560.89,"INTESTINAL OBSTRUCT NEC",,,2015-04-18,1,2015-04-19,1
+4140680,inpatient_encounters,21,1,,,560.81,"INTEST ADHES W OBSTR POST OP/INFECT",,,2015-05-18,1,2015-06-15,1
+4140680,inpatient_encounters,22,1,,,276.1,HYPOSMOLALITY,,,2015-07-20,1,2015-08-07,1
+4140680,inpatient_encounters,23,1,,,R05,Cough,,,2016-03-21,1,2016-03-22,1
+4140680,inpatient_encounters,24,1,,,K56.69,"Other intestinal obstruction",,,2016-04-07,1,2016-04-13,1
+4140680,inpatient_encounters,25,1,,,K56.69,"Other intestinal obstruction",,,2016-07-18,1,2016-07-21,1
+4140680,inpatient_encounters,26,1,,,K94.13,"Enterostomy malfunction",,,2017-02-09,1,2017-02-11,1
+4140680,inpatient_encounters,27,1,,,K59.9,"Functional intestinal disorder, unspecified",,,2017-03-20,1,2017-03-24,1
+4140680,inpatient_encounters,28,1,,,K56.69,"Other intestinal obstruction",,,2017-04-24,1,2017-04-27,1
+4140680,inpatient_encounters,29,1,,,K59.8,"Other specified functional intestinal disorders",,,2017-05-09,1,2017-05-11,1
+4140680,inpatient_encounters,30,1,,,K56.69,"Other intestinal obstruction",,,2017-05-15,1,2017-06-30,1
+4140680,inpatient_encounters,31,1,,,K59.8,"Other specified functional intestinal disorders",,,2017-09-06,1,2017-09-29,1
+4140749,,,,,,,,,,,,,
+4140749,inpatient_encounters,1,1,,0,,,7,,2013-01-10,1,2013-01-11,1
+4140749,inpatient_encounters,2,,,-8,,,999,"FIT/ADJUST VASC CATHETER AFTERCARE",2015-01-21,1,2015-01-21,1
+4145578,,,,,,,,,,,,,
+4145578,inpatient_encounters,1,1,,0,,,16,,2011-11-01,1,2011-11-06,1
+4150209,,,,,,,,,,,,,
+4150209,inpatient_encounters,1,1,,0,276.2,ACIDOSIS,999,Dizziness,2011-10-06,1,2011-10-15,2
+4150209,inpatient_encounters,2,1,,0,,,9,,2011-12-10,1,2011-12-16,1
+4150209,inpatient_encounters,3,1,,0,,,9,,2012-01-21,1,2012-01-28,1
+4150209,inpatient_encounters,4,1,,0,,,9,,2012-11-11,1,2012-11-19,1
+4150209,inpatient_encounters,5,1,,0,,,9,,2014-02-14,1,2014-02-16,1
+4150209,inpatient_encounters,6,1,,1,,,999,"Re-start PN",2015-03-03,1,2015-03-06,1
+4150514,,,,,,,,,,,,,
+4150514,inpatient_encounters,1,1,,0,,,999,"IBD flair",2011-10-24,1,2011-12-09,1
+4150514,inpatient_encounters,2,1,,0,590.8,"PYELONEPHRITIS NOS",999,"Flank pain",2011-12-28,1,2012-01-12,2
+4154316,,,,,,,,,,,,,
+4164134,,,,,,,,,,,,,
+4164134,inpatient_encounters,1,1,,0,,,16,,2012-04-15,1,2012-04-16,1
+4174433,,,,,,,,,,,,,
+4174433,inpatient_encounters,1,1,,0,999.32,"BLOOD INF DT CEN VEN CTH",,,2012-03-26,1,2012-04-03,1
+4177080,,,,,,,,,,,,,
+4177080,inpatient_encounters,1,1,,1,,,17,,2012-06-03,1,2012-06-13,1
+4177080,inpatient_encounters,2,1,,0,,,19,,2012-06-15,1,2012-06-21,1
+4177080,inpatient_encounters,3,999,"Franklin Memorial Hospital",0,,,16,,2012-08-02,1,2012-08-06,1
+4177080,inpatient_encounters,4,1,,0,,,3,,2012-10-06,1,2012-10-09,1
+4177080,inpatient_encounters,5,1,,0,,,9,,2013-12-29,1,2014-01-01,1
+4177080,inpatient_encounters,6,1,,0,,,9,,2014-01-19,1,2014-01-23,1
+4177080,inpatient_encounters,7,1,,0,,,9,,2014-03-23,1,2014-03-25,1
+4177080,inpatient_encounters,8,1,,0,,,9,,2014-04-28,1,2014-04-30,1
+4177080,inpatient_encounters,9,1,,0,,,9,,2014-06-10,1,2014-06-13,1
+4177080,inpatient_encounters,10,1,,0,,,9,,2014-07-14,1,2014-07-17,1
+4177080,inpatient_encounters,11,1,,0,,,9,,2014-10-04,1,2014-10-08,1
+4177080,inpatient_encounters,12,1,,1,,,17,,2014-11-02,1,2014-11-11,1
+4177080,inpatient_encounters,13,1,,0,,,17,,2015-02-19,1,2015-02-24,1
+4177080,inpatient_encounters,14,1,,,276.51,DEHYDRATION,,,2015-06-21,1,2015-06-24,1
+4177080,inpatient_encounters,15,1,,,599,"URINARY TRACT INF NOS",,,2015-07-13,1,2015-07-17,1
+4177080,inpatient_encounters,16,1,,,599,"URINARY TRACT INF NOS",,,2015-09-03,1,2015-09-06,1
+4177080,inpatient_encounters,17,1,,,171.3,"MALIG NEOPLASM SOFT TISSUE LEG",,,2015-09-17,1,2015-09-29,1
+4177080,inpatient_encounters,18,1,,,T82.518A,"Breakdown (mechanical) of other cardiac and vascul",,,2016-01-19,1,2016-01-21,1
+4177080,inpatient_encounters,19,1,,,T82.514A,"Breakdown (mechanical) of infusion catheter, initi",,,2016-02-08,1,2016-02-10,1
+4177080,inpatient_encounters,20,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2016-09-20,1,2016-09-23,1
+4177080,inpatient_encounters,21,1,,,C47.5,"Malignant neoplasm of peripheral nerves of pelvis",,,2016-09-29,1,2016-10-06,1
+4177080,inpatient_encounters,22,1,,,J18.9,"Pneumonia, unspecified organism",,,2016-12-20,1,2016-12-23,1
+4177080,inpatient_encounters,23,1,,,D70.1,"Agranulocytosis secondary to cancer chemotherapy",,,2017-01-28,1,2017-02-04,1
+4177080,inpatient_encounters,24,1,,,C47.5,"Malignant neoplasm of peripheral nerves of pelvis",,,2017-02-23,1,2017-02-25,1
+4177080,inpatient_encounters,25,1,,,R58,"Hemorrhage, not elsewhere classified",,,2017-05-15,1,2017-05-26,1
+4181585,,,,,,,,,,,,,
+4183553,,,,,,,,,,,,,
+4183553,inpatient_encounters,1,1,,0,,,4,,2011-11-01,1,2011-11-02,1
+4183553,inpatient_encounters,2,1,,0,,,19,,2012-10-26,1,2012-11-02,1
+4183553,inpatient_encounters,3,1,,0,,,999,Enterocolitis,2012-11-29,1,2012-12-04,1
+4183553,inpatient_encounters,4,1,,0,,,9,,2013-01-02,1,2013-01-04,1
+4183553,inpatient_encounters,5,1,,0,,,9,,2014-04-14,1,2014-04-17,1
+4183553,inpatient_encounters,6,124,,0,,,1,,2014-11-05,1,2014-11-10,1
+4186995,,,,,,,,,,,,,
+4186995,inpatient_encounters,1,1,,,564.89,"FUNC DISORDERS INTESTINE NEC",,,2011-10-04,1,2011-10-07,1
+4186995,inpatient_encounters,2,1,,0,,,1,,2011-10-25,1,2011-10-26,1
+4186995,inpatient_encounters,3,1,,0,,,2,,2011-11-14,1,2011-11-18,1
+4186995,inpatient_encounters,4,1,,1,,,17,,2011-12-06,1,2011-12-09,1
+4186995,inpatient_encounters,5,1,,0,,,7,,2012-04-02,1,2012-04-05,1
+4186995,inpatient_encounters,6,1,,0,,,19,,2012-06-12,1,2012-06-14,1
+4186995,inpatient_encounters,7,1,,0,,,9,,2012-08-14,1,2012-08-17,1
+4186995,inpatient_encounters,8,1,,0,,,9,,2012-08-19,1,2012-08-27,1
+4186995,inpatient_encounters,9,1,,0,,,15,,2012-10-02,1,2012-10-04,1
+4186995,inpatient_encounters,10,1,,0,,,7,,2012-12-05,1,2012-12-14,1
+4186995,inpatient_encounters,11,1,,0,,,7,,2013-02-28,1,2013-03-25,1
+4186995,inpatient_encounters,12,1,,0,,,2,,2013-08-01,1,2013-08-18,1
+4186995,inpatient_encounters,13,1,,0,,,9,,2013-10-27,1,2013-10-29,1
+4186995,inpatient_encounters,14,1,,1,,,17,,2014-04-25,1,2014-04-26,1
+4186995,inpatient_encounters,15,1,,,K83.0,Cholangitis,,,2016-08-07,1,2016-08-11,1
+4186995,inpatient_encounters,16,1,,,K80.80,"Other cholelithiasis without obstruction",,,2017-01-31,1,2017-02-03,1
+4194427,,,,,,,,,,,,,
+4194427,inpatient_encounters,1,1,,0,,,3,,2012-02-25,1,2012-02-26,1
+4194427,inpatient_encounters,2,1,,0,,,3,,2012-03-26,1,2012-03-27,1
+4194427,inpatient_encounters,3,1,,0,,,999,Pancreatitis,2012-09-11,1,2012-09-13,1
+4194427,inpatient_encounters,4,213,,0,,,9,,2012-11-07,1,2012-11-09,1
+4194427,inpatient_encounters,5,1,,0,,,1,,2012-11-22,1,2012-11-30,1
+4199609,,,,,,,,,,,,,
+4199609,inpatient_encounters,1,1,,0,,,9,,2011-11-01,1,2011-11-03,1
+4199609,inpatient_encounters,2,1,,0,,,3,,2011-11-21,1,2011-11-23,1
+4199609,inpatient_encounters,3,1,,0,,,14,,2011-12-01,1,2011-12-05,1
+4199609,inpatient_encounters,4,1,,0,,,14,,2011-12-20,1,2011-12-24,1
+4215708,,,,,,,,,,,,,
+4215708,inpatient_encounters,1,1,,0,783.3,"FEEDING PROBLEM",9,,2011-10-01,1,2011-10-20,2
+4215708,inpatient_encounters,2,1,,0,,,9,,2011-12-21,1,2011-12-27,1
+4215708,inpatient_encounters,3,1,,0,,,16,,2012-01-10,1,2012-01-15,1
+4215708,inpatient_encounters,4,1,,0,,,9,,2012-02-26,1,2012-03-01,1
+4215708,inpatient_encounters,5,1,,0,,,9,,2012-03-13,1,2012-03-19,1
+4215708,inpatient_encounters,6,1,,0,,,9,,2012-04-07,1,2012-04-09,1
+4215708,inpatient_encounters,7,1,,0,,,9,,2012-04-17,1,2012-04-23,1
+4215708,inpatient_encounters,8,1,,0,,,9,,2012-06-20,1,2012-06-22,1
+4215708,inpatient_encounters,9,1,,0,,,9,,2012-08-04,1,2012-08-07,1
+4215708,inpatient_encounters,10,219,,0,,,9,,2012-09-13,1,2012-09-17,1
+4215708,inpatient_encounters,11,14,,0,,,9,,2012-10-14,1,2012-10-22,1
+4215708,inpatient_encounters,12,219,,0,,,14,,2012-11-05,1,2012-11-08,1
+4215708,inpatient_encounters,13,1,,0,,,3,,2013-07-15,1,2013-07-16,1
+4215708,inpatient_encounters,14,1,,0,,,9,,2013-07-30,1,2013-08-02,1
+4215708,inpatient_encounters,15,219,,0,,,9,,2013-10-01,1,2013-10-04,1
+4226595,,,,,,,,,,,,,
+4226595,inpatient_encounters,1,1,,0,,,7,,2011-12-11,1,2011-12-16,1
+4229767,,,,,,,,,,,,,
+4229767,inpatient_encounters,1,1,,0,,,999,Pain,2012-09-25,1,2012-10-17,1
+4233505,,,,,,,,,,,,,
+4233505,inpatient_encounters,1,1,,0,,,9,,2012-03-20,1,2012-03-22,1
+4233505,inpatient_encounters,2,1,,1,,,999,"Failure to thrive",2012-05-29,1,2012-06-08,1
+4233505,inpatient_encounters,3,1,,0,,,9,,2012-06-16,1,2012-06-22,1
+4233505,inpatient_encounters,4,1,,0,,,3,,2012-06-27,1,2012-06-29,1
+4233505,inpatient_encounters,5,1,,0,,,9,,2012-06-30,1,2012-07-03,1
+4233505,inpatient_encounters,6,1,,0,,,3,,2012-08-18,1,2012-08-19,1
+4233505,inpatient_encounters,7,1,,0,,,9,,2012-08-24,1,2012-08-28,1
+4233505,inpatient_encounters,8,1,,0,,,9,,2012-11-30,1,2012-12-04,1
+4233505,inpatient_encounters,9,1,,0,,,9,,2013-01-15,1,2013-01-18,1
+4233505,inpatient_encounters,10,1,,0,,,9,,2013-04-20,1,2013-04-25,1
+4233505,inpatient_encounters,11,1,,0,,,3,,2013-06-07,1,2013-06-08,1
+4233505,inpatient_encounters,12,1,,0,,,9,,2013-06-10,1,2013-06-12,1
+4233505,inpatient_encounters,13,1,,0,,,9,,2013-07-02,1,2013-07-05,1
+4233505,inpatient_encounters,14,1,,0,,,9,,2013-07-26,1,2013-08-02,1
+4233505,inpatient_encounters,15,1,,0,,,9,,2013-11-23,1,2013-11-25,1
+4233505,inpatient_encounters,16,1,,0,,,9,,2013-12-07,1,2013-12-10,1
+4233505,inpatient_encounters,17,1,,0,,,19,,2014-11-01,1,2014-11-24,1
+4233505,inpatient_encounters,18,1,,0,,,9,,2015-01-03,1,2015-01-12,1
+4233505,inpatient_encounters,19,1,,0,,,14,,2015-01-22,1,2015-02-12,1
+4233505,inpatient_encounters,20,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-04-05,1,2015-04-13,1
+4233505,inpatient_encounters,21,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-06-08,1,2015-06-24,1
+4233505,inpatient_encounters,22,1,,,R50.9,"Fever, unspecified",,,2016-02-12,1,2016-02-15,1
+4233505,inpatient_encounters,23,1,,,B34.9,"Viral infection, unspecified",,,2016-07-14,1,2016-07-17,1
+4233505,inpatient_encounters,24,1,,,R50.9,"Fever, unspecified",,,2016-12-08,1,2016-12-20,1
+4233505,inpatient_encounters,25,1,,,Q79.3,Gastroschisis,,,2017-05-08,1,2017-05-27,1
+4233505,inpatient_encounters,26,1,,,Q79.3,Gastroschisis,,,2017-09-06,1,2017-09-08,1
+4233505,inpatient_encounters,27,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-10-31,1,2017-11-16,1
+4239671,,,,,,,,,,,,,
+4242002,,,,,,,,,,,,,
+4242002,inpatient_encounters,1,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-04-06,1,2016-04-15,1
+4242002,inpatient_encounters,2,1,,,T80.211D,"Bloodstream infection due to central venous cathet",,,2016-04-22,1,2016-05-10,1
+4242002,inpatient_encounters,3,1,,,R10.9,"Unspecified abdominal pain",,,2016-06-28,1,2016-06-30,1
+4242002,inpatient_encounters,4,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-07-03,1,2016-07-19,1
+4247613,,,,,,,,,,,,,
+4247613,inpatient_encounters,1,1,,0,,,4,,2013-07-16,1,2013-07-19,1
+4247613,inpatient_encounters,2,1,,0,,,4,,2013-07-31,1,2013-08-03,1
+4247613,inpatient_encounters,3,1,,0,,,4,,2013-08-19,1,2013-08-22,1
+4247613,inpatient_encounters,4,1,,0,,,10,,2013-12-13,1,2013-12-23,1
+4247613,inpatient_encounters,5,,,-8,,,999,"Motility studies",2014-10-16,1,2014-10-17,1
+4247613,inpatient_encounters,6,1,,,569.82,"ULCERATION OF INTESTINE",,,2015-04-27,1,2015-04-30,1
+4247613,inpatient_encounters,7,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-08-30,1,2015-09-03,1
+4247613,inpatient_encounters,8,1,,,K58.9,"Irritable bowel syndrome without diarrhea",,,2016-10-21,1,2016-10-27,1
+4247613,inpatient_encounters,9,1,,,K92.2,"Gastrointestinal hemorrhage, unspecified",,,2016-10-29,1,2016-11-04,1
+4247613,inpatient_encounters,10,1,,,K50.00,"Crohn's disease of small intestine without complic",,,2016-11-07,1,2016-11-12,1
+4247613,inpatient_encounters,11,1,,,T80.219A,"Unspecified infection due to central venous cathet",,,2016-12-15,1,2016-12-19,1
+4252811,,,,,,,,,,,,,
+4252811,inpatient_encounters,1,75,,0,,,999,"Neurological changes",2012-10-28,1,2012-11-02,1
+4252811,inpatient_encounters,2,63,,0,,,9,,2013-01-30,1,2013-02-02,1
+4252811,inpatient_encounters,3,75,,0,,,4,,2013-10-22,1,2013-10-24,1
+4252811,inpatient_encounters,4,75,,1,,,17,,2016-02-25,1,2016-03-03,2
+4255772,,,,,,,,,,,,,
+4259084,,,,,,,,,,,,,
+4259084,inpatient_encounters,1,1,,1,,,17,,2012-06-05,1,2012-06-07,1
+4259084,inpatient_encounters,2,1,,0,,,7,,2013-03-21,1,2013-03-23,1
+4259084,inpatient_encounters,3,1,,0,,,3,,2013-06-11,1,2013-06-12,1
+4259084,inpatient_encounters,4,999,"NewYork Presbyterian, Weil Cornell Med Center",0,,,9,,2013-10-17,1,2013-10-21,1
+4259592,,,,,,,,,,,,,
+4259592,inpatient_encounters,1,1,,0,,,14,,2012-01-06,1,2012-01-15,1
+4259592,inpatient_encounters,2,1,,,585.6,"END STAGE RENAL DISEASE",,,2013-01-12,1,2013-02-22,1
+4260593,,,,,,,,,,,,,
+4260593,inpatient_encounters,1,1,,0,,,9,,2011-12-04,1,2011-12-07,1
+4260593,inpatient_encounters,2,1,,0,,,9,,2012-01-15,1,2012-01-16,1
+4260593,inpatient_encounters,3,1,,0,,,9,,2012-01-21,1,2012-01-27,1
+4260593,inpatient_encounters,4,1,,0,,,3,,2012-03-19,1,2012-03-20,1
+4260593,inpatient_encounters,5,1,,1,,,17,,2013-07-12,1,2013-07-13,1
+4260593,inpatient_encounters,6,1,,0,,,9,,2013-09-23,1,2013-10-12,1
+4260593,inpatient_encounters,7,1,,0,,,9,,2013-10-15,1,2013-10-19,1
+4260593,inpatient_encounters,8,1,,1,,,17,,2014-02-06,1,2014-02-07,1
+4260593,inpatient_encounters,9,1,,0,,,9,,2014-03-12,1,2014-03-13,1
+4260593,inpatient_encounters,10,1,,0,,,19,,2014-05-17,1,2014-05-19,1
+4260887,,,,,,,,,,,,,
+4264706,,,,,,,,,,,,,
+4264706,inpatient_encounters,1,1,,0,,,999,Anemia,2012-09-20,1,2012-09-21,1
+4267723,,,,,,,,,,,,,
+4267723,inpatient_encounters,1,1,,0,,,9,,2011-11-27,1,2011-12-02,1
+4267723,inpatient_encounters,2,1,,0,,,14,,2011-12-27,1,2011-12-30,1
+4267723,inpatient_encounters,3,1,,0,,,9,,2012-05-23,1,2012-05-29,1
+4267723,inpatient_encounters,4,1,,0,,,9,,2012-06-30,1,2012-07-05,1
+4267723,inpatient_encounters,5,1,,0,,,9,,2012-08-15,1,2012-08-22,1
+4267723,inpatient_encounters,6,1,,0,,,14,,2012-09-28,1,2012-10-04,1
+4267723,inpatient_encounters,7,1,,0,,,9,,2013-02-09,1,2013-02-14,1
+4267723,inpatient_encounters,8,1,,0,,,3,,2013-03-16,1,2013-03-18,1
+4267723,inpatient_encounters,9,1,,0,,,9,,2013-06-16,1,2013-06-22,1
+4267723,inpatient_encounters,10,1,,0,,,9,,2013-07-11,1,2013-07-18,1
+4267723,inpatient_encounters,11,1,,0,,,9,,2013-08-03,1,2013-08-06,1
+4267723,inpatient_encounters,12,1,,0,,,9,,2013-11-08,1,2013-11-11,1
+4267723,inpatient_encounters,13,1,,0,,,9,,2013-11-24,1,2013-11-26,1
+4267723,inpatient_encounters,14,1,,0,,,16,,2014-03-23,1,2014-03-26,1
+4267723,inpatient_encounters,15,1,,0,,,9,,2014-04-18,1,2014-04-22,1
+4267723,inpatient_encounters,16,1,,0,,,9,,2014-05-13,1,2014-05-16,1
+4267723,inpatient_encounters,17,1,,0,,,9,,2014-12-13,1,2014-12-18,1
+4267723,inpatient_encounters,18,,,-8,,,999,"E COLI SEPTICEMIA",2015-01-19,1,2015-01-24,1
+4267723,inpatient_encounters,19,1,,,996.1,"MECH COMP OTH VASC DEV",,,2015-09-01,1,2015-09-02,1
+4267723,inpatient_encounters,20,1,,,T85.9XXA,"Unspecified complication of internal prosthetic de",,,2015-11-24,1,2015-11-25,1
+4267723,inpatient_encounters,21,1,,,T82.594A,"Other mechanical complication of infusion catheter",,,2015-11-28,1,2015-12-01,1
+4267723,inpatient_encounters,22,1,,,E16.2,"Hypoglycemia, unspecified",,,2016-01-14,1,2016-01-15,1
+4267723,inpatient_encounters,23,1,,,T82.534A,"Leakage of infusion catheter, initial encounter",,,2016-12-22,1,2016-12-22,1
+4267723,inpatient_encounters,24,1,,,J10.1,"Influenza due to other identified influenza virus",,,2017-02-28,1,2017-03-02,1
+4274540,,,,,,,,,,,,,
+4274540,inpatient_encounters,1,1,,0,,,7,,2012-05-14,1,2012-08-23,1
+4275455,,,,,,,,,,,,,
+4275455,inpatient_encounters,1,999,"Mercy Children's Hospital",0,,,3,,2012-02-11,1,2012-02-13,1
+4275455,inpatient_encounters,2,999,"Wisconcin Medical",0,,,14,,2012-03-20,1,2012-03-21,1
+4275455,inpatient_encounters,3,48,,0,,,999,"Foot cellulitis",2012-09-11,1,2012-09-16,1
+4275455,inpatient_encounters,4,8,,0,,,9,,2014-02-06,1,2014-02-15,1
+4275455,inpatient_encounters,5,8,,0,,,4,,2014-03-27,1,2014-03-30,1
+4275455,inpatient_encounters,6,8,,0,,,4,,2014-05-11,1,2014-05-20,1
+4275455,inpatient_encounters,7,48,,0,,,9,,2015-02-14,1,2015-02-16,1
+4275455,inpatient_encounters,8,8,,0,,,9,,2015-08-07,1,2015-08-14,2
+4275455,inpatient_encounters,9,1,,,996.1,"MALFUNC VASC DEVICE/GRAF",,,2015-09-27,1,2015-09-30,1
+4275455,inpatient_encounters,10,48,,0,,,7,,2015-10-05,1,2015-10-07,2
+4275455,inpatient_encounters,11,8,,0,,,7,,2015-10-07,1,2015-10-09,2
+4275455,inpatient_encounters,12,48,,0,,,9,,2015-10-29,1,2015-11-01,2
+4277218,,,,,,,,,,,,,
+4277218,inpatient_encounters,1,1,,0,,,9,,2012-04-10,1,2012-04-18,1
+4277218,inpatient_encounters,2,1,,0,,,9,,2012-06-21,1,2012-06-24,1
+4277218,inpatient_encounters,3,1,,0,999.32,"BLOOD INF DT CEN VEN CTH",9,,2013-02-05,1,2013-02-14,2
+4277218,inpatient_encounters,4,999,"Boston Medical Center",1,,,999,EEG,2013-05-08,1,2013-05-10,1
+4277218,inpatient_encounters,5,1,,0,,,9,,2013-12-07,1,2013-12-09,1
+4277218,inpatient_encounters,6,1,,1,,,17,,2014-02-01,1,2014-02-14,1
+4277218,inpatient_encounters,7,1,,,T82.868A,"Thrombosis of vascular prosthetic devices, implant",,,2016-04-03,1,2016-04-19,1
+4277218,inpatient_encounters,8,1,,,T82.524A,"Displacement of infusion catheter, initial encount",,,2017-01-24,1,2017-01-26,1
+4277218,inpatient_encounters,9,1,,,T82.529A,"Displacement of unspecified cardiac and vascular d",,,2017-06-22,1,2017-06-24,1
+4280152,,,,,,,,,,,,,
+4291336,,,,,,,,,,,,,
+4291336,inpatient_encounters,1,1,,,D70.9,"Neutropenia, unspecified",,,2016-10-04,1,2016-10-26,1
+4291336,inpatient_encounters,2,1,,,A08.4,"Viral intestinal infection, unspecified",,,2017-01-08,1,2017-01-10,1
+4294431,,,,,,,,,,,,,
+4294431,inpatient_encounters,1,1,,0,465.9,"ACUTE URI NOS",9,,2011-10-12,1,2011-10-14,2
+4294431,inpatient_encounters,2,1,,1,,,999,"Leaking feeding tube",2012-05-30,1,2012-05-31,1
+4294431,inpatient_encounters,3,1,,0,,,9,,2012-07-24,1,2012-07-26,1
+4294431,inpatient_encounters,4,1,,0,,,9,,2012-09-14,1,2012-09-17,1
+4294431,inpatient_encounters,5,1,,0,,,3,,2012-12-09,1,2012-12-12,1
+4294431,inpatient_encounters,6,1,,0,,,9,,2013-12-22,1,2013-12-23,1
+4294431,inpatient_encounters,7,1,,0,,,9,,2014-01-09,1,2014-01-11,1
+4294431,inpatient_encounters,8,1,,0,,,9,,2014-02-03,1,2014-02-04,1
+4294431,inpatient_encounters,9,1,,0,,,1,,2014-02-12,1,2014-02-14,1
+4294431,inpatient_encounters,10,1,,0,,,9,,2014-03-19,1,2014-03-21,1
+4294977,,,,,,,,,,,,,
+4294977,inpatient_encounters,1,1,,0,999.31,"OTH/UNS INF-CEN VEN CATH",999,"Seizure, fever",2011-10-05,1,2011-10-10,2
+4294977,inpatient_encounters,2,1,,0,,,9,,2011-11-20,1,2011-11-22,1
+4294977,inpatient_encounters,3,1,,0,,,3,,2011-12-07,1,2011-12-08,1
+4294977,inpatient_encounters,4,1,,0,,,9,,2011-12-22,1,2011-12-23,1
+4294977,inpatient_encounters,5,1,,0,,,9,,2011-12-28,1,2011-12-30,1
+4294977,inpatient_encounters,6,1,,0,,,9,,2012-02-07,1,2012-02-08,1
+4294977,inpatient_encounters,7,1,,0,,,9,,2012-02-19,1,2012-02-20,1
+4294977,inpatient_encounters,8,1,,0,,,9,,2012-05-06,1,2012-05-08,1
+4294977,inpatient_encounters,9,1,,0,,,9,,2012-05-26,1,2012-05-28,1
+4294977,inpatient_encounters,10,1,,0,,,999,Seizure,2012-09-21,1,2012-09-24,1
+4294977,inpatient_encounters,11,1,,0,,,9,,2012-10-17,1,2012-10-22,1
+4294977,inpatient_encounters,12,1,,0,,,3,,2012-12-08,1,2012-12-09,1
+4294977,inpatient_encounters,13,1,,0,,,1,,2012-12-20,1,2012-12-24,1
+4294977,inpatient_encounters,14,1,,0,,,19,,2013-01-14,1,2013-01-16,1
+4294977,inpatient_encounters,15,1,,0,,,9,,2013-01-29,1,2013-02-02,1
+4294977,inpatient_encounters,16,1,,0,,,3,,2013-05-01,1,2013-05-03,1
+4294977,inpatient_encounters,17,1,,0,,,19,,2013-06-12,1,2013-06-14,1
+4294977,inpatient_encounters,18,1,,0,,,9,,2013-08-02,1,2013-08-05,1
+4294977,inpatient_encounters,19,1,,0,,,9,,2013-09-18,1,2013-09-20,1
+4294977,inpatient_encounters,20,1,,0,,,3,,2014-04-26,1,2014-04-27,1
+4294977,inpatient_encounters,21,1,,0,,,19,,2014-06-02,1,2014-06-04,1
+4294977,inpatient_encounters,22,1,,0,,,19,,2014-09-02,1,2014-09-04,1
+4294977,inpatient_encounters,23,1,,0,,,19,,2014-09-09,1,2014-09-19,1
+4294977,inpatient_encounters,24,1,,0,,,9,,2014-11-06,1,2014-11-08,1
+4294977,inpatient_encounters,25,1,,0,,,9,,2015-03-30,1,2015-04-13,1
+4294977,inpatient_encounters,26,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2015-12-11,1,2015-12-14,1
+4294977,inpatient_encounters,27,1,,,R50.9,"Fever, unspecified",,,2016-07-19,1,2016-07-21,1
+4294977,inpatient_encounters,28,1,,,R50.9,"Fever, unspecified",,,2016-09-22,1,2016-09-25,1
+4294977,inpatient_encounters,29,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2016-12-27,1,2016-12-29,1
+4294977,inpatient_encounters,30,1,,,J10.1,"Influenza due to other identified influenza virus",,,2017-02-22,1,2017-02-26,1
+4294977,inpatient_encounters,31,1,,,E86.0,Dehydration,,,2017-08-14,1,2017-08-17,1
+4297245,,,,,,,,,,,,,
+4299158,,,,,,,,,,,,,
+4299158,inpatient_encounters,1,1,,0,,,9,,2012-05-18,1,2012-05-21,1
+4299248,,,,,,,,,,,,,
+4299946,,,,,,,,,,,,,
+4299946,inpatient_encounters,1,1,,,R50.9,"Fever, unspecified",,,2015-11-22,1,2015-11-24,1
+4313372,,,,,,,,,,,,,
+4313372,inpatient_encounters,1,999,"South Carolina",0,,,9,,2011-12-27,1,2011-12-27,1
+4313372,inpatient_encounters,2,133,,0,,,3,,2012-09-25,1,2012-09-28,1
+4313656,,,,,,,,,,,,,
+4313656,inpatient_encounters,1,1,,0,,,9,,2011-11-20,1,2011-11-22,1
+4317463,,,,,,,,,,,,,
+4317463,inpatient_encounters,1,1,,,794.2,"ABNORMAL PULMONARY FUNC STUDY",,,2014-11-25,1,2014-11-26,1
+4317463,inpatient_encounters,2,1,,,584.9,"ACUTE KIDNEY FAILURE NOS",,,2015-01-09,1,2015-03-06,1
+4317463,inpatient_encounters,3,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-06-12,1,2015-06-18,1
+4320391,,,,,,,,,,,,,
+4320391,inpatient_encounters,1,1,,,780.6,"FEVER NOS",,,2011-10-12,1,2011-10-15,1
+4320391,inpatient_encounters,2,1,,1,,,999,"Failure to thrive",2012-08-20,1,2012-08-22,1
+4320391,inpatient_encounters,3,1,,0,,,9,,2013-11-05,1,2013-11-07,1
+4320391,inpatient_encounters,4,,,-8,,,999,"FLU W RESP MANIFEST NEC",2015-01-26,1,2015-01-28,1
+4323727,,,,,,,,,,,,,
+4323727,inpatient_encounters,1,999,Nevada,0,,,14,,2011-12-05,1,2011-12-08,1
+4323727,inpatient_encounters,2,999,"Sunrise Hospital",1,,,17,,2012-01-17,1,2012-01-19,1
+4323727,inpatient_encounters,3,999,"Sunshine Hospital",0,,,9,,2012-05-08,1,2012-05-15,1
+4323727,inpatient_encounters,4,999,"Sunrise Hospital",0,,,9,,2012-07-06,1,2012-07-10,1
+4323727,inpatient_encounters,5,999,"Sunrise Hospital",0,,,9,,2012-10-06,1,2012-10-11,1
+4323727,inpatient_encounters,6,999,"Sunrise Hospital",0,,,9,,2012-10-23,1,2012-10-25,1
+4323727,inpatient_encounters,7,999,"Sunrise Hospital",0,,,9,,2013-02-17,1,2013-02-25,1
+4323727,inpatient_encounters,8,999,"Sunrise Hospital",0,,,9,,2013-03-05,1,2013-03-08,1
+4323727,inpatient_encounters,9,999,"Sunrise Hospital",0,,,9,,2013-04-09,1,2013-04-14,1
+4323727,inpatient_encounters,10,999,"Sunrise Hospital",0,,,10,,2013-05-04,1,2013-05-07,1
+4323727,inpatient_encounters,11,999,"Sunrise Hospital",0,,,9,,2013-08-04,1,2013-08-10,1
+4323727,inpatient_encounters,12,999,"Sunrise Hospital, Las Vegas",0,,,9,,2013-09-03,1,2013-09-07,1
+4323727,inpatient_encounters,13,999,"Sunrise Hospital, Las Vegas",0,,,9,,2013-09-20,1,2013-09-23,1
+4323727,inpatient_encounters,14,999,"Sunrise Hospital, Las Vegas",0,,,9,,2014-01-05,1,2014-01-08,1
+4323727,inpatient_encounters,15,999,"Sunrise Hospital, Las Vegas",0,,,9,,2014-01-14,1,2014-01-17,1
+4323727,inpatient_encounters,16,999,"Sunrise Hospital, Las Vegas",0,,,15,,2014-01-23,1,2014-01-24,1
+4323727,inpatient_encounters,17,999,"Sunrise Hospital, Las Vegas",0,,,9,,2014-01-30,1,2014-02-03,1
+4323727,inpatient_encounters,18,1,,0,,,9,,2014-05-30,1,2014-06-01,1
+4323727,inpatient_encounters,19,,,0,,,10,,2014-06-05,1,2014-06-05,1
+4331497,,,,,,,,,,,,,
+4331497,inpatient_encounters,1,1,,0,,,13,,2011-10-21,1,2011-11-03,1
+4331497,inpatient_encounters,2,1,,0,,,7,,2011-11-17,1,2011-11-23,1
+4331497,inpatient_encounters,3,1,,0,,,10,,2011-12-30,1,2012-01-02,1
+4331497,inpatient_encounters,4,1,,0,,,10,,2012-02-06,1,2012-02-17,1
+4331497,inpatient_encounters,5,1,,0,,,9,,2012-09-25,1,2012-10-04,1
+4331497,inpatient_encounters,6,1,,0,,,3,,2012-10-24,1,2012-10-24,1
+4331497,inpatient_encounters,7,1,,0,,,3,,2013-02-24,1,2013-02-25,1
+4331497,inpatient_encounters,8,1,,0,,,9,,2013-07-03,1,2013-07-07,1
+4331497,inpatient_encounters,9,1,,0,,,9,,2014-01-05,1,2014-01-07,1
+4331497,inpatient_encounters,10,1,,0,,,9,,2014-07-11,1,2014-07-13,1
+4331497,inpatient_encounters,11,1,,0,,,3,,2014-09-15,1,2014-10-16,1
+4331497,inpatient_encounters,12,1,,,780.6,"FEVER NOS",,,2015-07-25,1,2015-07-29,1
+4331497,inpatient_encounters,13,1,,,T82.7XXA,"Infection and inflammatory reaction due to other c",,,2015-10-11,1,2015-10-22,1
+4331497,inpatient_encounters,14,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2015-12-11,1,2015-12-22,1
+4331497,inpatient_encounters,15,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2016-03-31,1,2016-04-05,1
+4331497,inpatient_encounters,16,1,,,J09.X2,"Influenza due to identified novel influenza A viru",,,2017-02-14,1,2017-02-16,1
+4331497,inpatient_encounters,17,1,,,K94.13,"Enterostomy malfunction",,,2017-02-18,1,2017-02-19,1
+4331497,inpatient_encounters,18,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-06-28,1,2017-07-16,1
+4331497,inpatient_encounters,19,1,,,T80.211D,"Bloodstream infection due to central venous cathet",,,2017-11-27,1,2017-12-05,1
+4341595,,,,,,,,,,,,,
+4341595,inpatient_encounters,1,1,,0,,,17,,2013-07-09,1,2013-07-10,1
+4341595,inpatient_encounters,2,1,,1,,,13,,2013-07-29,1,2013-07-31,1
+4341595,inpatient_encounters,3,81,,0,,,3,,2013-09-30,1,2013-10-01,1
+4341595,inpatient_encounters,4,81,,0,,,9,,2014-05-24,1,2014-05-28,1
+4341595,inpatient_encounters,5,1,,0,,,9,,2014-05-28,1,2014-06-04,1
+4341595,inpatient_encounters,6,81,,0,,,9,,2014-08-05,1,2014-08-06,1
+4341595,inpatient_encounters,7,81,,0,,,9,,2014-10-31,1,2014-11-02,1
+4341595,inpatient_encounters,8,81,,0,,,9,,2015-01-21,1,2015-01-25,1
+4341595,inpatient_encounters,9,1,,0,,,3,,2015-01-29,1,2015-01-31,1
+4341595,inpatient_encounters,10,,,-8,,,,,2015-02-20,1,2015-02-26,1
+4341595,inpatient_encounters,11,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-05-21,1,2015-05-26,1
+4341595,inpatient_encounters,12,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-08-02,1,2015-08-09,1
+4341595,inpatient_encounters,13,1,,,T82.594A,"Other mechanical complication of infusion catheter",,,2016-11-19,1,2016-11-21,1
+4343492,,,,,,,,,,,,,
+4343492,inpatient_encounters,1,1,,0,,,19,,2011-11-07,1,2011-11-09,1
+4343492,inpatient_encounters,2,1,,1,,,17,,2011-12-08,1,2011-12-15,1
+4343492,inpatient_encounters,3,237,,0,,,9,,2012-01-15,1,2012-01-17,1
+4343492,inpatient_encounters,4,1,,,599,"URINARY TRACT INF NOS",,,2012-01-21,1,2012-01-25,1
+4343492,inpatient_encounters,5,1,,0,8.63,"NORWALK VIRUS ENTERITIS",,,2012-01-26,1,2012-02-02,2
+4343492,inpatient_encounters,6,1,,0,,,9,,2012-04-12,1,2012-04-23,1
+4343492,inpatient_encounters,7,1,,0,,,9,,2012-08-07,1,2012-08-15,1
+4343492,inpatient_encounters,8,1,,0,,,9,,2012-08-19,1,2012-08-22,1
+4343492,inpatient_encounters,9,1,,1,,,17,,2012-08-26,1,2012-08-28,1
+4343492,inpatient_encounters,10,1,,0,,,19,,2012-08-31,1,2012-09-05,1
+4343492,inpatient_encounters,11,237,,0,,,9,,2012-09-07,1,2012-09-12,1
+4343492,inpatient_encounters,12,1,,0,,,14,,2012-09-24,1,2012-09-28,1
+4343492,inpatient_encounters,13,1,,0,,,19,,2012-10-18,1,2012-10-22,1
+4343492,inpatient_encounters,14,1,,0,,,9,,2012-11-27,1,2012-12-11,1
+4343492,inpatient_encounters,15,1,,0,,,4,,2013-01-10,1,2013-01-13,1
+4343492,inpatient_encounters,16,1,,0,,,9,,2013-04-20,1,2013-04-21,1
+4343492,inpatient_encounters,17,1,,0,,,999,Lethargy,2013-12-01,1,2013-12-04,1
+4343492,inpatient_encounters,18,1,,0,,,9,,2014-04-04,1,2014-04-06,1
+4346924,,,,,,,,,,,,,
+4346924,inpatient_encounters,1,1,,0,,,19,,2012-08-05,1,2012-08-08,1
+4346924,inpatient_encounters,2,1,,0,,,9,,2013-06-13,1,2013-06-21,1
+4353872,,,,,,,,,,,,,
+4353872,inpatient_encounters,1,100,,0,,,9,,2011-11-26,1,2011-12-02,1
+4353872,inpatient_encounters,2,999,"Charlotte Hospital",0,,,9,,2012-04-22,1,2012-04-27,1
+4353872,inpatient_encounters,3,100,,0,,,9,,2012-05-08,1,2012-05-13,1
+4353872,inpatient_encounters,4,100,,0,,,2,,2012-05-19,1,2012-05-21,1
+4353872,inpatient_encounters,5,1,,0,,,9,,2012-08-22,1,2012-08-27,1
+4353872,inpatient_encounters,6,100,,0,,,9,,2012-09-13,1,2012-09-16,1
+4353872,inpatient_encounters,7,100,,0,,,9,,2012-10-11,1,2012-10-13,1
+4353872,inpatient_encounters,8,100,,0,,,9,,2013-01-07,1,2013-01-10,1
+4353872,inpatient_encounters,9,100,,0,,,999,Seizures,2013-01-17,1,2013-02-19,1
+4353872,inpatient_encounters,10,100,,0,,,9,,2013-02-28,1,2013-03-08,1
+4353872,inpatient_encounters,11,1,,0,,,9,,2013-03-18,1,2013-03-20,1
+4353872,inpatient_encounters,12,100,,0,,,9,,2013-03-26,1,2013-03-30,1
+4353872,inpatient_encounters,13,100,,0,,,9,,2013-04-24,1,2013-04-29,1
+4353872,inpatient_encounters,14,100,,0,,,999,Seizures,2013-06-03,1,2013-06-04,1
+4353872,inpatient_encounters,15,1,,0,,,9,,2013-07-08,1,2013-07-17,1
+4353872,inpatient_encounters,16,100,,0,,,9,,2013-10-28,1,2013-11-03,1
+4353872,inpatient_encounters,17,100,,0,,,14,,2013-11-04,1,2013-11-08,1
+4353872,inpatient_encounters,18,100,,0,,,9,,2013-11-30,1,2013-12-02,1
+4353872,inpatient_encounters,19,100,,0,,,9,,2014-01-14,1,2014-01-16,1
+4353872,inpatient_encounters,20,100,,0,,,7,,2014-02-19,1,2014-02-22,1
+4355754,,,,,,,,,,,,,
+4355754,inpatient_encounters,1,999,UCLA,0,,,9,,2012-07-17,1,2012-07-20,1
+4355754,inpatient_encounters,2,999,UCLA,0,,,9,,2013-05-23,1,2013-05-26,1
+4355754,inpatient_encounters,3,999,"Apple Valley Hospital",0,,,9,,2015-01-30,1,2015-01-31,2
+4355754,inpatient_encounters,4,999,UCLA,0,,,9,,2015-01-31,1,2015-02-03,1
+4355754,inpatient_encounters,5,106,,0,,,9,,2015-07-10,1,2015-07-13,2
+4356052,,,,,,,,,,,,,
+4356052,inpatient_encounters,1,1,,0,,,9,,2014-12-28,1,2015-01-02,1
+4356052,inpatient_encounters,2,1,,0,8.45,"C. DIFFICILE ENTERITIS",,,2015-01-25,1,2015-02-07,2
+4356052,inpatient_encounters,3,1,,0,,,19,,2015-02-10,1,2015-02-20,1
+4356052,inpatient_encounters,4,,,-8,,,999,"CLOSTRIDIUM DIFFICILE",2015-03-01,1,2015-03-13,1
+4356052,inpatient_encounters,5,1,,0,,,999,"CLOSTRIDIUM DIFFICILE",2015-03-24,1,2015-03-25,2
+4356052,inpatient_encounters,6,1,,0,,,19,,2015-03-28,1,2015-06-03,1
+4357183,,,,,,,,,,,,,
+4357183,inpatient_encounters,1,1,,0,,,9,,2012-01-11,1,2012-01-13,1
+4357183,inpatient_encounters,2,1,,0,,,9,,2012-01-14,1,2012-01-15,1
+4357183,inpatient_encounters,3,1,,0,,,9,,2012-02-28,1,2012-03-02,1
+4357183,inpatient_encounters,4,1,,0,,,9,,2012-03-12,1,2012-03-14,1
+4357183,inpatient_encounters,5,1,,0,,,9,,2012-07-12,1,2012-07-15,1
+4357183,inpatient_encounters,6,1,,0,,,9,,2012-12-29,1,2013-01-01,1
+4357183,inpatient_encounters,7,1,,0,,,9,,2013-03-12,1,2013-03-15,1
+4370053,,,,,,,,,,,,,
+4376831,,,,,,,,,,,,,
+4376831,inpatient_encounters,1,1,,0,,,11,,2012-12-04,1,2012-12-22,1
+4376831,inpatient_encounters,2,1,,0,,,15,,2013-01-14,1,2013-02-17,1
+4388567,,,,,,,,,,,,,
+4388567,inpatient_encounters,1,1,,0,,,9,,2012-02-15,1,2012-02-17,1
+4388567,inpatient_encounters,2,1,,0,,,9,,2012-12-15,1,2012-12-16,1
+4388567,inpatient_encounters,3,1,,0,,,9,,2013-06-09,1,2013-06-15,1
+4388567,inpatient_encounters,4,1,,0,,,9,,2013-08-04,1,2013-08-07,1
+4388567,inpatient_encounters,5,1,,0,,,4,,2013-09-22,1,2013-09-26,1
+4388567,inpatient_encounters,6,1,,,R10.84,"Generalized abdominal pain",,,2017-09-25,1,2017-09-28,1
+4389337,,,,,,,,,,,,,
+4389964,,,,,,,,,,,,,
+4389964,inpatient_encounters,1,1,,0,999.32,"BLOOD INF DT CEN VEN CTH",9,,2012-07-06,1,2012-07-12,2
+4397815,,,,,,,,,,,,,
+4397815,inpatient_encounters,1,4,,0,,,999,"hemorrhagic shock",2015-05-08,1,2015-05-21,2
+4397815,inpatient_encounters,2,218,,0,,,7,,2016-01-21,1,2016-01-25,2
+4397815,inpatient_encounters,3,218,,1,,,3,,2016-01-27,1,2016-02-02,2
+4397815,inpatient_encounters,4,218,,1,,,3,,2016-02-12,1,2016-02-16,2
+4397815,inpatient_encounters,5,218,,0,,,9,,2017-02-03,1,2017-02-05,2
+4397815,inpatient_encounters,6,218,,0,,,999,swelling,2017-02-06,1,2017-02-08,2
+4397815,inpatient_encounters,7,218,,0,,,9,,2017-05-16,1,2017-05-18,2
+4397815,inpatient_encounters,8,1,,,Q64.12,"Cloacal extrophy of urinary bladder",,,2017-06-19,1,2017-07-07,1
+4401398,,,,,,,,,,,,,
+4401398,inpatient_encounters,1,999,"University of Minnesota Hospital",0,,,19,,2011-12-30,1,2012-01-03,1
+4401398,inpatient_encounters,2,999,"University of Minnesota Hospital, St. Paul",0,,,9,,2012-07-02,1,2012-07-04,1
+4401398,inpatient_encounters,3,1,,0,,,3,,2014-05-29,1,2014-05-31,1
+4401398,inpatient_encounters,4,223,,0,,,3,,2015-06-03,1,2015-06-04,2
+4401398,inpatient_encounters,5,1,,,T82.598A,"Other mechanical complication of other cardiac and",,,2017-08-17,1,2017-08-19,1
+4403186,,,,,,,,,,,,,
+4403186,inpatient_encounters,1,999,"U Mass",0,,,3,,2012-08-07,1,2012-08-08,1
+4403186,inpatient_encounters,2,1,,0,,,19,,2013-06-04,1,2013-06-10,1
+4403186,inpatient_encounters,3,1,,,996.74,"COMPLIC OTHR VASCUL DEVICE",,,2015-08-23,1,2015-08-25,1
+4403186,inpatient_encounters,4,1,,,L03.113,"Cellulitis of right upper limb",,,2016-07-23,1,2016-07-26,1
+4403186,inpatient_encounters,5,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-08-13,1,2016-08-19,1
+4403186,inpatient_encounters,6,1,,,T80.218A,"Other infection due to central venous catheter, in",,,2016-10-24,1,2016-10-28,1
+4409083,,,,,,,,,,,,,
+4409083,inpatient_encounters,1,1,,0,,,10,,2012-07-19,1,2012-07-21,1
+4409083,inpatient_encounters,2,1,,0,,,10,,2012-10-02,1,2012-10-04,1
+4409083,inpatient_encounters,3,1,,0,,,3,,2014-08-24,1,2014-08-25,1
+4409083,inpatient_encounters,4,1,,,B34.9,"Viral infection, unspecified",,,2016-05-05,1,2016-05-07,1
+4410975,,,,,,,,,,,,,
+4410975,inpatient_encounters,1,237,,0,,,9,,2013-03-22,1,2013-03-27,1
+4410975,inpatient_encounters,2,1,,0,,,4,,2013-11-26,1,2013-12-08,1
+4410975,inpatient_encounters,3,237,,0,,,7,,2013-12-21,1,2013-12-23,1
+4410975,inpatient_encounters,4,237,,0,,,15,,2013-12-26,1,2014-01-01,1
+4410975,inpatient_encounters,5,237,,0,,,9,,2014-02-12,1,2014-02-14,1
+4410975,inpatient_encounters,6,1,,0,,,9,,2014-09-11,1,2014-09-13,1
+4410975,inpatient_encounters,7,1,,0,,,999,"VIRAL ENTERITIS NOS",2015-03-22,1,2015-03-31,1
+4410975,inpatient_encounters,8,237,,0,,,9,,2015-07-03,1,2015-07-13,2
+4410975,inpatient_encounters,9,1,,,J02.0,"Streptococcal pharyngitis",,,2016-06-30,1,2016-07-01,1
+4410975,inpatient_encounters,10,237,,0,,,7,,2016-08-24,1,2016-08-25,2
+4410975,inpatient_encounters,11,1,,,R62.51,"Failure to thrive (child)",,,2016-09-06,1,2016-09-18,1
+4410975,inpatient_encounters,12,237,,0,,,9,,2017-02-16,1,2017-02-23,2
+4410975,inpatient_encounters,13,1,,,R19.5,"Other fecal abnormalities",,,2017-12-01,1,2017-12-02,1
+4412362,,,,,,,,,,,,,
+4412362,inpatient_encounters,1,999,Oschler,0,,,7,,2011-11-30,1,2011-12-06,1
+4412362,inpatient_encounters,2,999,Oschler,0,,,9,,2012-01-22,1,2012-01-24,1
+4412362,inpatient_encounters,3,999,"Oschler's Hospital",0,,,14,,2012-01-29,1,2012-01-31,1
+4412362,inpatient_encounters,4,193,,0,,,9,,2013-06-10,1,2013-06-17,1
+4412362,inpatient_encounters,5,1,,1,,,17,,2013-08-11,1,2013-08-26,1
+4412899,,,,,,,,,,,,,
+4412899,inpatient_encounters,1,1,,,V49.83,"AWAITING ORGAN TRANSPLANT STATUS",,,2011-10-12,1,2011-10-12,1
+4412899,inpatient_encounters,2,1,,1,,,999,Pretransplant,2012-11-04,1,2012-11-04,1
+4412899,inpatient_encounters,3,1,,,560.2,"VOLVULUS OF INTESTINE",,,2012-12-30,1,2013-03-04,1
+4413357,,,,,,,,,,,,,
+4413357,inpatient_encounters,1,1,,1,,,17,,2013-04-01,1,2013-04-02,1
+4413357,inpatient_encounters,2,1,,0,,,9,,2013-04-04,1,2013-04-10,1
+4416191,,,,,,,,,,,,,
+4416191,inpatient_encounters,1,999,"SUNY Stonybrook",0,,,9,,2012-04-22,1,2012-04-27,1
+4416191,inpatient_encounters,2,189,,0,,,9,,2012-05-24,1,2012-05-25,1
+4416191,inpatient_encounters,3,999,"SUNY Stonybrook",0,,,9,,2012-07-20,1,2012-08-03,1
+4416191,inpatient_encounters,4,999,"SUNY Stonybrook",0,,,16,,2012-08-22,1,2012-08-28,1
+4420299,,,,,,,,,,,,,
+4420299,inpatient_encounters,1,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-05-21,1,2017-06-28,1
+4420599,,,,,,,,,,,,,
+4425867,,,,,,,,,,,,,
+4425867,inpatient_encounters,1,1,,0,,,999,Gastroenteritis,2011-10-13,1,2011-11-03,1
+4425867,inpatient_encounters,2,1,,0,,,9,,2011-11-07,1,2011-11-17,1
+4425867,inpatient_encounters,3,1,,0,,,10,,2011-12-21,1,2011-12-27,1
+4425867,inpatient_encounters,4,1,,1,,,999,"Sedated echocardiogram",2012-01-04,1,2012-01-04,1
+4425867,inpatient_encounters,5,1,,,8.45,"C. DIFFICILE ENTERITIS",,,2012-01-11,1,2012-01-20,1
+4425867,inpatient_encounters,6,1,,0,,,14,,2012-02-27,1,2012-03-15,1
+4425867,inpatient_encounters,7,1,,0,,,9,,2012-03-19,1,2012-03-27,1
+4425867,inpatient_encounters,8,1,,0,,,19,,2012-04-11,1,2012-04-30,1
+4425867,inpatient_encounters,9,1,,0,,,7,,2012-05-20,1,2012-05-25,1
+4425867,inpatient_encounters,10,1,,0,,,7,,2012-06-09,1,2012-06-18,1
+4425867,inpatient_encounters,11,1,,0,,,19,,2012-06-27,1,2012-07-09,1
+4425867,inpatient_encounters,12,1,,1,,,8,,2012-07-25,1,2012-07-28,1
+4425867,inpatient_encounters,13,1,,0,,,9,,2012-08-01,1,2012-09-06,1
+4425867,inpatient_encounters,14,1,,0,,,9,,2012-08-07,1,2012-08-21,1
+4425867,inpatient_encounters,15,1,,0,,,19,,2012-09-07,1,2012-09-15,1
+4425867,inpatient_encounters,16,1,,0,,,15,,2012-09-30,1,2012-10-08,1
+4425867,inpatient_encounters,17,1,,0,,,9,,2012-12-18,1,2012-12-23,1
+4425867,inpatient_encounters,18,1,,0,,,15,,2012-12-28,1,2012-12-31,1
+4425867,inpatient_encounters,19,1,,0,,,9,,2013-01-13,1,2013-01-17,1
+4425867,inpatient_encounters,20,1,,0,,,19,,2013-01-21,1,2013-02-07,1
+4425867,inpatient_encounters,21,1,,0,,,9,,2013-03-12,1,2013-03-15,1
+4425867,inpatient_encounters,22,1,,0,,,19,,2013-04-06,1,2013-04-13,1
+4425867,inpatient_encounters,23,1,,0,,,9,,2013-05-02,1,2013-05-09,1
+4425867,inpatient_encounters,24,1,,0,,,9,,2013-05-12,1,2013-06-13,1
+4425867,inpatient_encounters,25,1,,0,,,9,,2013-07-17,1,2013-07-22,1
+4425867,inpatient_encounters,26,1,,0,,,19,,2013-07-28,1,2013-08-10,1
+4425867,inpatient_encounters,27,1,,0,,,9,,2013-08-25,1,2013-08-29,1
+4425867,inpatient_encounters,28,,,0,,,999,Pneumonia,2014-01-09,1,2014-01-13,1
+4425867,inpatient_encounters,29,1,,0,,,9,,2014-04-11,1,2014-04-15,1
+4425867,inpatient_encounters,30,1,,0,,,999,"NONSPECIF SKIN ERUPT NEC",2014-11-24,1,2014-11-26,1
+4425867,inpatient_encounters,31,,,-8,,,999,"MALFUNC VASC DEVICE/GRAF",2015-01-07,1,2015-01-10,1
+4425867,inpatient_encounters,32,1,,-8,,,999,"INTEST POSTOP NONABSORB",2015-04-02,1,2015-04-07,1
+4425867,inpatient_encounters,33,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-08-05,1,2015-08-11,1
+4425867,inpatient_encounters,34,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2016-04-21,1,2016-04-23,1
+4425867,inpatient_encounters,35,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-04-25,1,2016-05-12,1
+4425867,inpatient_encounters,36,1,,,K80.44,"Calculus of bile duct with chronic cholecystitis w",,,2017-08-17,1,2017-08-26,1
+4427889,,,,,,,,,,,,,
+4427889,inpatient_encounters,1,1,,0,,,9,,2011-12-19,1,2011-12-22,1
+4427889,inpatient_encounters,2,1,,0,,,9,,2012-06-15,1,2012-06-18,1
+4427889,inpatient_encounters,3,1,,0,,,19,,2012-06-20,1,2012-06-24,1
+4427889,inpatient_encounters,4,1,,0,,,9,,2012-07-22,1,2012-08-01,1
+4427889,inpatient_encounters,5,1,,0,,,19,,2012-08-02,1,2012-08-09,1
+4427889,inpatient_encounters,6,1,,1,,,17,,2012-08-24,1,2012-08-31,1
+4427889,inpatient_encounters,7,1,,0,,,19,,2012-09-11,1,2012-09-13,1
+4427889,inpatient_encounters,8,1,,0,,,14,,2012-09-27,1,2012-10-04,1
+4427889,inpatient_encounters,9,1,,0,,,9,,2012-11-19,1,2012-11-21,1
+4427889,inpatient_encounters,10,1,,0,,,3,,2012-12-14,1,2012-12-22,1
+4427889,inpatient_encounters,11,1,,0,,,3,,2013-02-04,1,2013-02-07,1
+4427889,inpatient_encounters,12,1,,0,,,9,,2013-03-12,1,2013-03-15,1
+4427889,inpatient_encounters,13,1,,0,,,9,,2013-08-14,1,2013-08-21,1
+4427889,inpatient_encounters,14,1,,0,,,7,,2013-08-22,1,2013-08-24,1
+4433272,,,,,,,,,,,,,
+4433272,inpatient_encounters,1,1,,0,486,"PNEUMONIA, ORGANISM NOS",,,2011-10-05,1,2011-10-10,2
+4433272,inpatient_encounters,2,1,,0,,,15,,2011-10-12,1,2011-10-20,1
+4433272,inpatient_encounters,3,1,,0,,,9,,2011-10-25,1,2011-11-01,1
+4433272,inpatient_encounters,4,1,,0,,,15,,2011-11-25,1,2011-12-13,1
+4433272,inpatient_encounters,5,1,,0,,,15,,2012-02-21,1,2012-02-26,1
+4433272,inpatient_encounters,6,1,,0,996.1,"MALFUNC VASC DEVICE/GRAF",3,,2012-03-04,1,2012-03-04,2
+4433272,inpatient_encounters,7,1,,0,,,9,,2012-03-29,1,2012-04-10,1
+4433272,inpatient_encounters,8,1,,0,,,3,,2012-07-06,1,2012-07-10,1
+4433272,inpatient_encounters,9,1,,0,,,16,,2012-07-16,1,2012-07-27,1
+4433272,inpatient_encounters,10,1,,0,,,3,,2012-08-04,1,2012-08-06,1
+4433272,inpatient_encounters,11,1,,0,,,14,,2012-08-07,1,2012-08-29,1
+4433272,inpatient_encounters,12,1,,1,,,17,,2012-09-05,1,2012-09-06,1
+4433272,inpatient_encounters,13,1,,0,,,9,,2012-10-06,1,2012-10-24,1
+4433272,inpatient_encounters,14,1,,0,,,3,,2012-11-14,1,2012-11-15,1
+4433272,inpatient_encounters,15,1,,0,,,9,,2013-04-01,1,2013-04-12,1
+4433272,inpatient_encounters,16,1,,0,,,9,,2013-07-03,1,2013-07-22,1
+4433272,inpatient_encounters,17,1,,0,,,3,,2013-08-18,1,2013-08-20,1
+4433272,inpatient_encounters,18,1,,0,,,9,,2014-01-06,1,2014-01-11,1
+4433272,inpatient_encounters,19,1,,0,,,999,lethargy,2014-02-01,1,2014-02-04,1
+4433272,inpatient_encounters,20,1,,0,,,9,,2014-10-01,1,2014-10-09,1
+4433272,inpatient_encounters,21,,,-8,,,999,"Central line event",2014-10-14,1,2014-10-15,1
+4433272,inpatient_encounters,22,1,,0,,,9,,2014-12-17,1,2014-12-22,1
+4433272,inpatient_encounters,23,1,,,79.6,"RESPIRATORY SYNCYTIAL VIRUS",,,2015-04-22,1,2015-04-25,1
+4433272,inpatient_encounters,24,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-08-31,1,2015-09-07,1
+4433272,inpatient_encounters,25,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2015-10-01,1,2015-10-20,1
+4433272,inpatient_encounters,26,1,,,T82.524A,"Displacement of infusion catheter, initial encount",,,2015-11-25,1,2015-11-25,1
+4433272,inpatient_encounters,27,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-06-10,1,2016-06-15,1
+4433272,inpatient_encounters,28,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-06-27,1,2016-07-14,1
+4433272,inpatient_encounters,29,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2017-02-06,1,2017-02-09,1
+4433272,inpatient_encounters,30,1,,,A48.3,"Toxic shock syndrome",,,2017-08-03,1,2017-08-14,1
+4433272,inpatient_encounters,31,1,,,T82.524A,"Displacement of infusion catheter, initial encount",,,2017-12-08,1,2017-12-09,1
+4434946,,,,,,,,,,,,,
+4434946,inpatient_encounters,1,1,,0,276.51,DEHYDRATION,999,"Poor nutritional intake",2014-08-29,1,2014-08-30,2
+4434946,inpatient_encounters,2,1,,0,999.32,"BLOOD INF DT CEN VEN CTH",9,,2015-01-12,1,2015-02-05,2
+4434946,inpatient_encounters,3,1,,0,784.7,EPISTAXIS,9,,2015-03-31,1,2015-04-02,2
+4434946,inpatient_encounters,4,1,,,579.3,"INTEST POSTOP NONABSORB",,,2015-08-10,1,2015-08-12,1
+4434946,inpatient_encounters,5,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-08-18,1,2015-09-03,1
+4434946,inpatient_encounters,6,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2015-10-26,1,2015-11-17,1
+4434946,inpatient_encounters,7,1,,,J21.9,"Acute bronchiolitis, unspecified",,,2016-03-01,1,2016-03-04,1
+4434946,inpatient_encounters,8,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-06-08,1,2016-06-26,1
+4434946,inpatient_encounters,9,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-08-15,1,2017-09-08,1
+4438273,,,,,,,,,,,,,
+4438273,inpatient_encounters,1,237,,0,,,9,,2011-09-30,1,2011-11-02,1
+4438273,inpatient_encounters,2,1,,0,,,9,,2012-03-20,1,2012-03-27,1
+4438273,inpatient_encounters,3,1,,0,534.91,"GASTROJEJUN ULC NOS-OBST",,,2012-11-26,1,2012-11-30,2
+4438273,inpatient_encounters,4,237,,0,,,10,,2013-01-07,1,2013-01-09,1
+4438273,inpatient_encounters,5,237,,0,,,10,,2013-01-30,1,2013-01-30,1
+4438273,inpatient_encounters,6,237,,0,,,10,,2013-02-02,1,2013-02-03,1
+4438273,inpatient_encounters,7,237,,0,,,9,,2013-05-24,1,2013-05-31,1
+4438273,inpatient_encounters,8,81,,0,,,9,,2013-12-24,1,2013-12-27,1
+4438273,inpatient_encounters,9,1,,0,,,14,,2013-12-27,1,2013-12-30,1
+4438273,inpatient_encounters,10,1,,0,,,10,,2014-01-24,1,2014-01-29,1
+4438273,inpatient_encounters,11,237,,0,,,9,,2014-02-19,1,2014-02-21,1
+4438273,inpatient_encounters,12,237,,0,,,19,,2014-07-02,1,2014-07-04,1
+4438273,inpatient_encounters,13,237,,0,,,10,,2014-12-12,1,2014-12-14,1
+4438273,inpatient_encounters,14,1,,0,,,10,,2014-12-15,1,2014-12-19,1
+4438273,inpatient_encounters,15,1,,1,,,17,,2015-01-25,1,2015-02-06,1
+4438273,inpatient_encounters,16,237,,0,,,10,,2015-03-09,1,2015-03-11,1
+4438273,inpatient_encounters,17,237,,0,,,9,,2016-05-16,1,2016-05-20,2
+4438273,inpatient_encounters,18,100,,0,,,4,,2016-09-20,1,2016-09-24,2
+4438273,inpatient_encounters,19,100,,0,,,4,,2016-10-04,1,2016-10-07,2
+4438273,inpatient_encounters,20,100,,0,,,10,,2017-02-06,1,2017-02-08,2
+4440634,,,,,,,,,,,,,
+4440634,inpatient_encounters,1,1,,1,,,17,,2012-03-15,1,2012-03-16,1
+4440634,inpatient_encounters,2,1,,1,,,17,,2012-05-28,1,2012-06-15,1
+4440634,inpatient_encounters,3,237,,0,,,9,,2012-11-19,1,2012-11-21,1
+4440634,inpatient_encounters,4,237,,0,,,9,,2012-11-28,1,2012-11-30,1
+4440634,inpatient_encounters,5,1,,0,,,9,,2013-06-08,1,2013-06-10,1
+4440634,inpatient_encounters,6,1,,0,,,9,,2013-11-26,1,2013-11-27,1
+4440634,inpatient_encounters,7,1,,0,,,7,,2014-05-15,1,2014-05-16,1
+4440634,inpatient_encounters,8,237,,0,,,9,,2014-11-05,1,2014-11-06,1
+4440634,inpatient_encounters,9,237,,0,,,9,,2015-07-21,1,2015-07-23,2
+4440634,inpatient_encounters,10,237,,0,,,9,,2015-10-12,1,2015-10-13,2
+4440634,inpatient_encounters,11,237,,0,,,9,,2015-12-04,1,2015-12-06,2
+4440634,inpatient_encounters,12,237,,0,,,9,,2016-01-06,1,2016-01-08,2
+4440634,inpatient_encounters,13,237,,0,,,9,,2016-02-12,1,2016-02-14,2
+4440634,inpatient_encounters,14,237,,0,,,9,,2017-02-24,1,2017-02-25,2
+4440634,inpatient_encounters,15,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-07-24,1,2017-07-28,1
+4441055,,,,,,,,,,,,,
+4441055,inpatient_encounters,1,1,,0,,,10,,2011-10-31,1,2011-11-03,1
+4441055,inpatient_encounters,2,63,,0,,,9,,2012-03-31,1,2012-04-05,1
+4441055,inpatient_encounters,3,63,,0,,,7,,2012-04-29,1,2012-05-02,1
+4441055,inpatient_encounters,4,63,,0,,,7,,2012-05-03,1,2012-05-31,1
+4441055,inpatient_encounters,5,63,,0,,,9,,2012-07-11,1,2012-08-08,1
+4441055,inpatient_encounters,6,63,,0,,,9,,2012-09-14,1,2012-09-21,1
+4441055,inpatient_encounters,7,63,,0,,,9,,2013-01-15,1,2013-01-27,1
+4441055,inpatient_encounters,8,63,,0,,,999,Pneumatosis,2013-02-04,1,2013-02-18,1
+4441055,inpatient_encounters,9,63,,0,,,19,,2013-02-19,1,2013-02-26,1
+4449346,,,,,,,,,,,,,
+4449346,inpatient_encounters,1,1,,,198.4,"2ND MAL NEOPL NERVE NEC",,,2015-08-29,1,2015-08-31,1
+4452783,,,,,,,,,,,,,
+4452783,inpatient_encounters,1,1,,,V58.81,"FIT/ADJUST VASC CATHETER AFTERCARE",,,2011-10-06,1,2011-10-08,1
+4452783,inpatient_encounters,2,1,,0,,,9,,2012-02-02,1,2012-02-06,1
+4452783,inpatient_encounters,3,1,,0,,,7,,2012-04-02,1,2012-04-06,1
+4455943,,,,,,,,,,,,,
+4455943,inpatient_encounters,1,1,,0,,,14,,2011-10-24,1,2011-10-27,1
+4455943,inpatient_encounters,2,999,"Albany Medical Center",0,,,9,,2011-12-02,1,2011-12-04,1
+4455943,inpatient_encounters,3,1,,0,,,14,,2011-12-12,1,2011-12-17,1
+4455943,inpatient_encounters,4,999,"Albany Medical Center",0,,,3,,2012-01-17,1,2012-01-19,1
+4455943,inpatient_encounters,5,999,"Albany Medical Center",0,,,9,,2012-03-14,1,2012-03-17,1
+4455943,inpatient_encounters,6,999,"Albany Medical Center",0,,,9,,2012-07-08,1,2012-07-11,1
+4455943,inpatient_encounters,7,1,,0,,,3,,2012-07-25,1,2012-07-30,1
+4455943,inpatient_encounters,8,1,,0,,,9,,2012-10-10,1,2012-10-11,1
+4455943,inpatient_encounters,9,1,,0,,,19,,2012-11-29,1,2012-11-30,1
+4455943,inpatient_encounters,10,999,"Albany Medical Center",0,,,9,,2012-12-04,1,2012-12-07,1
+4455943,inpatient_encounters,11,1,,0,,,2,,2013-03-11,1,2013-03-17,1
+4455943,inpatient_encounters,12,1,,0,,,999,"Prolapse of stoma",2014-03-11,1,2014-03-24,1
+4455943,inpatient_encounters,13,1,,0,,,1,,2014-04-11,1,2014-04-12,1
+4455943,inpatient_encounters,14,1,,0,,,9,,2014-05-27,1,2014-05-30,1
+4455943,inpatient_encounters,15,999,"Albany Medical Center",0,,,9,,2014-11-20,1,2014-11-24,1
+4455943,inpatient_encounters,16,999,"Albany Medical Center",0,,,9,,2015-07-30,1,2015-08-01,2
+4455943,inpatient_encounters,17,999,"Albany Medical Center",0,,,9,,2017-01-25,1,2017-01-27,2
+4458379,,,,,,,,,,,,,
+4458379,inpatient_encounters,1,1,,0,38.9,"SEPTICEMIA NOS",19,,2011-11-04,1,2011-11-11,2
+4458379,inpatient_encounters,2,1,,0,276.51,DEHYDRATION,,,2011-12-11,1,2011-12-16,2
+4458379,inpatient_encounters,3,1,,0,,,1,,2012-01-15,1,2012-01-20,1
+4458379,inpatient_encounters,4,1,,,556.9,"ULCERATIVE COLITIS NOS",,,2012-11-12,1,2012-11-14,1
+4458379,inpatient_encounters,5,999,"Keene Hospital, MA",0,,,7,,2012-12-22,1,2012-12-23,1
+4458379,inpatient_encounters,6,1,,,276.51,DEHYDRATION,,,2013-08-21,1,2013-08-22,1
+4458379,inpatient_encounters,7,999,"Dartmouth Hitchcock",0,,,2,,2014-06-28,1,2014-06-29,1
+4461166,,,,,,,,,,,,,
+4468078,,,,,,,,,,,,,
+4468078,inpatient_encounters,1,63,,0,,,7,,2012-02-10,1,2012-02-16,1
+4481925,,,,,,,,,,,,,
+4481929,,,,,,,,,,,,,
+4484673,,,,,,,,,,,,,
+4484673,inpatient_encounters,1,1,,0,,,4,,2014-04-07,1,2014-04-09,1
+4484673,inpatient_encounters,2,1,,0,,,9,,2014-06-29,1,2014-07-08,1
+4484673,inpatient_encounters,3,1,,0,,,3,,2014-07-22,1,2014-07-25,1
+4484673,inpatient_encounters,4,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2016-02-09,1,2016-02-12,1
+4484673,inpatient_encounters,5,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2016-10-03,1,2016-10-05,1
+4486535,,,,,,,,,,,,,
+4486535,inpatient_encounters,1,1,,1,,,17,,2012-12-04,1,2012-12-08,1
+4495009,,,,,,,,,,,,,
+4495009,inpatient_encounters,1,1,,0,,,3,,2011-11-29,1,2011-11-30,1
+4495009,inpatient_encounters,2,1,,0,,,15,,2012-01-05,1,2012-01-06,1
+4495009,inpatient_encounters,3,1,,0,,,999,Hematuria,2012-03-23,1,2012-03-30,1
+4495009,inpatient_encounters,4,1,,1,,,17,,2012-05-13,1,2012-06-04,1
+4495009,inpatient_encounters,5,1,,0,,,10,,2012-06-26,1,2012-07-01,1
+4495009,inpatient_encounters,6,1,,0,,,10,,2012-07-05,1,2012-07-13,1
+4495009,inpatient_encounters,7,1,,0,,,9,,2012-08-25,1,2012-09-01,1
+4495009,inpatient_encounters,8,1,,0,,,9,,2012-09-09,1,2012-09-15,1
+4495009,inpatient_encounters,9,1,,0,,,9,,2012-09-21,1,2012-09-23,1
+4495009,inpatient_encounters,10,1,,1,,,17,,2012-09-27,1,2012-10-10,1
+4495009,inpatient_encounters,11,1,,0,,,9,,2012-11-29,1,2012-12-02,1
+4495009,inpatient_encounters,12,1,,0,,,14,,2013-02-15,1,2013-02-20,1
+4495009,inpatient_encounters,13,1,,0,,,3,,2013-03-11,1,2013-03-14,1
+4495009,inpatient_encounters,14,1,,0,,,9,,2013-03-24,1,2013-04-02,1
+4495009,inpatient_encounters,15,1,,0,,,12,,2013-04-12,1,2013-04-14,1
+4495009,inpatient_encounters,16,1,,0,,,9,,2013-07-07,1,2013-07-15,1
+4495009,inpatient_encounters,17,1,,0,,,1,,2013-09-01,1,2013-09-07,1
+4495009,inpatient_encounters,18,1,,1,,,3,,2013-10-14,1,2013-10-15,1
+4495009,inpatient_encounters,19,1,,0,,,1,,2013-11-25,1,2013-11-27,1
+4495009,inpatient_encounters,20,1,,0,,,19,,2013-12-31,1,2014-01-04,1
+4495009,inpatient_encounters,21,1,,0,,,1,,2014-01-04,1,2014-01-06,1
+4495009,inpatient_encounters,22,1,,1,,,17,,2014-01-28,1,2014-01-29,1
+4495009,inpatient_encounters,23,1,,0,,,9,,2014-02-04,1,2014-02-06,1
+4495009,inpatient_encounters,24,1,,0,,,9,,2014-03-09,1,2014-03-12,1
+4495009,inpatient_encounters,25,1,,0,,,9,,2014-04-05,1,2014-04-10,1
+4495009,inpatient_encounters,26,1,,0,,,9,,2014-05-25,1,2014-05-27,1
+4495009,inpatient_encounters,27,1,,0,,,19,,2014-06-13,1,2014-06-17,1
+4495009,inpatient_encounters,28,1,,0,,,1,,2014-07-11,1,2014-07-17,1
+4495009,inpatient_encounters,29,1,,0,,,1,,2014-08-09,1,2014-08-11,1
+4495009,inpatient_encounters,30,1,,0,,,19,,2014-08-11,1,2014-08-13,1
+4495009,inpatient_encounters,31,,,-8,,,17,,2014-10-06,1,2014-10-16,1
+4495009,inpatient_encounters,32,1,,0,,,9,,2014-11-19,1,2014-11-21,1
+4495009,inpatient_encounters,33,1,,0,,,9,,2015-02-18,1,2015-02-21,1
+4495009,inpatient_encounters,34,,,-8,,,999,"GASTRITIS/DUODENITIS NOS",2015-03-16,1,2015-03-22,1
+4495009,inpatient_encounters,35,1,,,996.1,"MALFUNC VASC DEVICE/GRAF",,,2015-04-02,1,2015-04-03,1
+4495009,inpatient_encounters,36,1,,,579.3,"INTEST POSTOP NONABSORB",,,2015-04-15,1,2015-04-15,1
+4495009,inpatient_encounters,37,1,,,787.04,"BILIOUS EMESIS",,,2015-04-19,1,2015-04-21,1
+4495009,inpatient_encounters,38,1,,,494,"BRONCHIECTASIS W/O ACUTE EXACERBATN",,,2015-04-24,1,2015-04-28,1
+4495009,inpatient_encounters,39,1,,,780.6,"FEVER NOS",,,2015-06-12,1,2015-06-14,1
+4495009,inpatient_encounters,40,1,,,584.9,"ACUTE KIDNEY FAILURE NOS",,,2015-09-03,1,2015-09-07,1
+4495009,inpatient_encounters,41,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-09-22,1,2015-09-26,1
+4495009,inpatient_encounters,42,1,,,J18.9,"Pneumonia, unspecified organism",,,2016-01-27,1,2016-01-30,1
+4495009,inpatient_encounters,43,1,,,Q41.9,"Congenital absence, atresia and stenosis of small",,,2016-05-21,1,2016-06-28,1
+4500823,,,,,,,,,,,,,
+4500823,inpatient_encounters,1,999,"Children's Memorial, Chicago",0,,,7,,2012-02-29,1,2012-03-02,1
+4500823,inpatient_encounters,2,999,"Children's Memorial in Chicago",0,,,7,,2012-03-02,1,2012-03-03,1
+4500823,inpatient_encounters,3,999,"Children's Memorial in Chicago",0,,,7,,2012-03-05,1,2012-03-09,1
+4503501,,,,,,,,,,,,,
+4503501,inpatient_encounters,1,1,,0,,,9,,2013-06-21,1,2013-06-23,1
+4507139,,,,,,,,,,,,,
+4507139,inpatient_encounters,1,1,,0,,,999,Hypoalbuminemia,2012-07-10,1,2012-07-18,1
+4510144,,,,,,,,,,,,,
+4510144,inpatient_encounters,1,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2011-12-24,1,2012-01-10,1
+4516588,,,,,,,,,,,,,
+4516588,inpatient_encounters,1,1,,0,,,999,"GASTROINTEST HEMORR NOS",2015-01-14,1,2015-01-22,1
+4520698,,,,,,,,,,,,,
+4520698,inpatient_encounters,1,999,"SUNY Upstate",0,,,9,,2012-12-03,1,2012-12-04,1
+4520698,inpatient_encounters,2,999,"SUNY Upstate",0,,,9,,2012-12-13,1,2012-12-15,1
+4520698,inpatient_encounters,3,999,"SUNY Upstate",0,,,9,,2013-12-18,1,2013-12-20,1
+4520698,inpatient_encounters,4,1,,1,,,8,,2014-01-06,1,2014-01-14,1
+4521115,,,,,,,,,,,,,
+4521115,inpatient_encounters,1,999,"Childrens Hospital in Kansas City",0,,,9,,2012-02-29,1,2012-03-01,1
+4521115,inpatient_encounters,2,53,,0,,,9,,2012-04-08,1,2012-04-11,1
+4521115,inpatient_encounters,3,53,,0,,,9,,2012-04-22,1,2012-04-25,1
+4521115,inpatient_encounters,4,53,,0,,,9,,2012-04-30,1,2012-05-02,1
+4521115,inpatient_encounters,5,53,,0,,,9,,2012-11-19,1,2012-11-21,1
+4521115,inpatient_encounters,6,1,,0,,,3,,2013-01-04,1,2013-01-04,1
+4521115,inpatient_encounters,7,111,,0,,,3,,2013-03-06,1,2013-03-07,1
+4521115,inpatient_encounters,8,111,,0,,,19,,2013-03-26,1,2013-03-28,1
+4521115,inpatient_encounters,9,53,,0,,,9,,2013-04-30,1,2013-05-09,1
+4521115,inpatient_encounters,10,111,,0,,,19,,2013-06-10,1,2013-06-14,1
+4521115,inpatient_encounters,11,111,,0,,,19,,2013-06-14,1,2013-06-25,1
+4521115,inpatient_encounters,12,999,"Oklahoma Children's Hospital",0,,,9,,2013-07-10,1,2013-07-13,1
+4521115,inpatient_encounters,13,53,,0,,,9,,2013-09-02,1,2013-09-11,1
+4521115,inpatient_encounters,14,111,,0,,,19,,2013-09-23,1,2013-09-26,1
+4521115,inpatient_encounters,15,53,,0,,,999,lethargy,2013-11-19,1,2013-11-21,1
+4521115,inpatient_encounters,16,53,,0,,,9,,2013-11-21,1,2013-12-03,1
+4521115,inpatient_encounters,17,53,,0,,,9,,2014-01-19,1,2014-02-01,1
+4521115,inpatient_encounters,18,111,,0,,,9,,2014-03-18,1,2014-03-19,1
+4521115,inpatient_encounters,19,112,,0,,,9,,2017-02-15,1,2017-02-17,2
+4526356,,,,,,,,,,,,,
+4526356,inpatient_encounters,1,999,"Buffalo Childre's Hospital",0,,,14,,2012-01-14,1,2012-01-17,1
+4526356,inpatient_encounters,2,234,,0,,,999,"prolapsed stoma",2015-12-02,1,2015-12-04,2
+4526356,inpatient_encounters,3,235,,0,,,19,,2015-12-17,1,2015-12-22,2
+4526356,inpatient_encounters,4,234,,1,,,17,,2016-02-08,1,2016-02-14,2
+4526356,inpatient_encounters,5,999,"Albany Medical Center",0,,,3,,2016-08-28,1,2016-09-01,2
+4527640,,,,,,,,,,,,,
+4527640,inpatient_encounters,1,1,,0,,,9,,2012-07-23,1,2012-07-26,1
+4527640,inpatient_encounters,2,1,,0,,,9,,2012-08-13,1,2012-08-22,1
+4527640,inpatient_encounters,3,1,,0,,,9,,2012-09-03,1,2012-09-12,1
+4527640,inpatient_encounters,4,1,,0,,,9,,2012-12-18,1,2012-12-20,1
+4527640,inpatient_encounters,5,1,,0,,,1,,2014-02-06,1,2014-02-08,1
+4527640,inpatient_encounters,6,1,,0,,,1,,2014-02-21,1,2014-02-24,1
+4527640,inpatient_encounters,7,1,,0,,,7,,2014-03-06,1,2014-03-13,1
+4527640,inpatient_encounters,8,1,,0,,,999,pancreatitis,2014-03-21,1,2014-04-14,1
+4527640,inpatient_encounters,9,1,,0,,,10,,2014-05-05,1,2014-05-09,1
+4527640,inpatient_encounters,10,1,,0,557,"ACUTE VASC INSUFF INTESTINE",999,"Equipment problem",2014-08-29,1,2014-08-29,2
+4527640,inpatient_encounters,11,1,,0,,,1,,2014-10-15,1,2014-11-25,1
+4527640,inpatient_encounters,12,1,,1,,,7,,2014-12-15,1,2015-01-22,1
+4527640,inpatient_encounters,13,1,,,577,"ACUTE PANCREATITIS",,,2015-04-21,1,2015-04-28,1
+4527640,inpatient_encounters,14,1,,,288.6,"LEUKOCYTOSIS NOS",,,2015-05-29,1,2015-06-03,1
+4527640,inpatient_encounters,15,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2015-10-09,1,2015-10-09,1
+4532864,,,,,,,,,,,,,
+4532864,inpatient_encounters,1,14,,0,,,9,,2012-11-24,1,2012-11-26,1
+4532864,inpatient_encounters,2,1,,1,,,17,,2012-12-13,1,2012-12-24,1
+4532864,inpatient_encounters,3,14,,0,,,9,,2013-01-03,1,2013-01-09,1
+4532864,inpatient_encounters,4,14,,0,,,9,,2013-03-12,1,2013-03-15,1
+4532864,inpatient_encounters,5,14,,0,,,9,,2013-04-04,1,2013-04-11,1
+4532864,inpatient_encounters,6,12,,0,,,9,,2013-05-13,1,2013-05-22,1
+4532864,inpatient_encounters,7,14,,0,,,9,,2013-09-12,1,2013-09-15,1
+4532864,inpatient_encounters,8,219,,0,,,9,,2013-12-15,1,2013-12-16,1
+4532864,inpatient_encounters,9,14,,0,,,9,,2014-01-03,1,2014-01-05,1
+4532864,inpatient_encounters,10,1,,0,,,9,,2014-01-28,1,2014-01-31,1
+4532864,inpatient_encounters,11,1,,1,,,8,,2014-03-26,1,2014-03-28,1
+4532864,inpatient_encounters,12,14,,0,,,9,,2014-04-05,1,2014-04-10,1
+4532864,inpatient_encounters,13,1,,0,,,9,,2014-04-23,1,2014-04-25,1
+4532864,inpatient_encounters,14,14,,0,,,9,,2014-05-30,1,2014-06-02,1
+4532864,inpatient_encounters,15,14,,0,,,9,,2014-06-03,1,2014-06-05,1
+4532864,inpatient_encounters,16,14,,0,,,9,,2014-07-23,1,2014-07-28,1
+4532864,inpatient_encounters,17,1,,0,,,7,,2014-08-04,1,2014-08-08,1
+4532864,inpatient_encounters,18,,,-8,,,9,,2014-10-15,1,2014-10-16,1
+4532864,inpatient_encounters,19,1,,0,,,9,,2014-11-11,1,2014-11-14,1
+4532864,inpatient_encounters,20,14,,0,,,9,,2015-02-17,1,2015-02-19,1
+4532864,inpatient_encounters,21,1,,0,,,19,,2015-02-20,1,2015-02-27,1
+4532864,inpatient_encounters,22,1,,0,,,999,"BLOOD INF DT CEN VEN CTH",2015-03-18,1,2015-03-24,1
+4532864,inpatient_encounters,23,14,,0,,,9,,2015-05-10,1,2015-05-12,2
+4532864,inpatient_encounters,24,14,,0,,,9,,2015-05-11,1,2015-05-12,2
+4532864,inpatient_encounters,25,14,,0,,,9,,2015-08-26,1,2015-08-28,2
+4532864,inpatient_encounters,26,14,,0,,,9,,2016-03-07,1,2016-03-10,2
+4532864,inpatient_encounters,27,14,,0,,,9,,2016-05-10,1,2016-05-12,2
+4532864,inpatient_encounters,28,14,,0,,,9,,2016-08-10,1,2016-08-19,2
+4532864,inpatient_encounters,29,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2017-10-20,1,2017-10-21,1
+4535219,,,,,,,,,,,,,
+4535219,inpatient_encounters,1,1,,0,,,9,,2014-06-18,1,2014-07-25,1
+4535219,inpatient_encounters,2,1,,0,,,19,,2014-08-26,1,2014-08-27,1
+4535219,inpatient_encounters,3,1,,0,,,9,,2014-09-14,1,2014-10-09,1
+4539126,,,,,,,,,,,,,
+4539126,inpatient_encounters,1,1,,0,,,9,,2013-07-12,1,2013-07-15,1
+4539126,inpatient_encounters,2,1,,1,,,17,,2013-07-22,1,2013-08-02,1
+4539804,,,,,,,,,,,,,
+4539804,inpatient_encounters,1,12,,0,,,9,,2012-07-05,1,2012-07-10,1
+4539804,inpatient_encounters,2,237,,0,,,9,,2012-10-12,1,2012-10-19,1
+4539804,inpatient_encounters,3,237,,0,,,14,,2012-12-26,1,2013-01-02,1
+4539804,inpatient_encounters,4,237,,0,,,9,,2013-07-12,1,2013-07-23,1
+4539804,inpatient_encounters,5,1,,0,,,3,,2013-08-23,1,2013-08-28,1
+4539804,inpatient_encounters,6,237,,0,,,9,,2013-12-08,1,2013-12-11,1
+4539804,inpatient_encounters,7,1,,1,,,17,,2014-04-07,1,2014-04-18,1
+4539804,inpatient_encounters,8,237,,0,,,9,,2014-06-07,1,2014-06-09,1
+4539804,inpatient_encounters,9,237,,0,,,9,,2014-08-06,1,2014-08-08,1
+4539804,inpatient_encounters,10,237,,0,,,9,,2015-06-15,1,2015-06-17,2
+4539804,inpatient_encounters,11,237,,0,,,9,,2016-04-15,1,2016-04-17,2
+4539804,inpatient_encounters,12,237,,0,,,9,,2016-06-25,1,2016-06-30,2
+4539804,inpatient_encounters,13,237,,0,,,9,,2016-07-23,1,2016-07-26,2
+4539804,inpatient_encounters,14,237,,0,,,9,,2016-08-30,1,2016-09-03,2
+4539804,inpatient_encounters,15,999,"Stamford Hospital",0,,,9,,2017-01-14,1,2017-02-19,2
+4539804,inpatient_encounters,16,237,,0,,,9,,2017-01-22,1,2017-01-28,2
+4540560,,,,,,,,,,,,,
+4540560,inpatient_encounters,1,999,Pittsburgh,0,,,14,,2012-04-06,1,2012-04-14,1
+4540560,inpatient_encounters,2,42,,0,,,9,,2013-02-02,1,2013-02-07,1
+4540560,inpatient_encounters,3,42,,0,,,9,,2013-05-11,1,2013-05-17,1
+4540560,inpatient_encounters,4,999,"Memorial Sloan Kettering CA Care Ctr, NY",1,,,3,,2013-06-05,1,2013-06-06,1
+4540560,inpatient_encounters,5,999,"Memorial Sloan Kettering CA Care Ctr, NY",1,,,17,,2013-10-25,1,2013-10-29,1
+4540560,inpatient_encounters,6,42,,0,,,9,,2014-03-25,1,2014-03-31,1
+4550494,,,,,,,,,,,,,
+4550494,inpatient_encounters,1,1,,0,,,3,,2012-04-02,1,2012-04-04,1
+4550494,inpatient_encounters,2,1,,1,,,17,,2012-05-09,1,2012-05-20,1
+4552542,,,,,,,,,,,,,
+4552542,inpatient_encounters,1,999,"Strong Memorial Hospital",0,,,9,,2012-05-26,1,2012-05-28,1
+4552542,inpatient_encounters,2,999,"Memorial Central Hospital",0,,,9,,2012-06-19,1,2012-06-22,1
+4552542,inpatient_encounters,3,1,,0,,,9,,2012-11-28,1,2012-11-30,1
+4552605,,,,,,,,,,,,,
+4555263,,,,,,,,,,,,,
+4555263,inpatient_encounters,1,999,"Memorial Central Hospital",0,,,14,,2012-05-06,1,2012-05-11,1
+4555263,inpatient_encounters,2,999,Colorado,0,,,14,,2012-05-24,1,2012-06-06,1
+4555263,inpatient_encounters,3,1,,0,,,12,,2012-06-14,1,2012-06-27,1
+4555263,inpatient_encounters,4,999,"Memorial Central Hospital",0,,,12,,2012-07-18,1,2012-07-25,1
+4555263,inpatient_encounters,5,999,"Denver Children's Hospital",0,,,9,,2012-08-10,1,2012-08-16,1
+4559200,,,,,,,,,,,,,
+4559200,inpatient_encounters,1,999,"Rochester Children's Hospital",0,,,9,,2012-05-22,1,2012-05-24,1
+4559200,inpatient_encounters,2,999,"Memorial Central Hospital",0,,,9,,2012-06-16,1,2012-06-20,1
+4559200,inpatient_encounters,3,1,,0,,,7,,2012-07-16,1,2012-07-23,1
+4559200,inpatient_encounters,4,999,"Golisano Children's Hospital",0,,,9,,2012-11-06,1,2012-11-08,1
+4559200,inpatient_encounters,5,1,,0,,,9,,2013-03-20,1,2013-03-22,1
+4559200,inpatient_encounters,6,80,,0,,,9,,2013-08-20,1,2013-08-21,1
+4559200,inpatient_encounters,7,1,,0,,,3,,2013-12-08,1,2013-12-10,1
+4559200,inpatient_encounters,8,80,,0,,,9,,2014-01-21,1,2014-01-23,1
+4559200,inpatient_encounters,9,1,,0,,,9,,2014-01-28,1,2014-01-31,1
+4559200,inpatient_encounters,10,1,,0,,,3,,2014-03-03,1,2014-03-04,1
+4559200,inpatient_encounters,11,80,,0,,,7,,2014-05-07,1,2014-05-08,1
+4559200,inpatient_encounters,12,1,,0,,,7,,2014-05-24,1,2014-05-30,1
+4559200,inpatient_encounters,13,80,,0,,,9,,2015-07-05,1,2015-07-13,2
+4559200,inpatient_encounters,14,80,,0,,,9,,2016-05-03,1,2016-05-05,2
+4559200,inpatient_encounters,15,80,,0,,,9,,2017-01-13,1,2017-01-15,2
+4563464,,,,,,,,,,,,,
+4563464,inpatient_encounters,1,999,"War Memorial Hospital",0,,,9,,2016-10-01,1,2016-10-04,2
+4563464,inpatient_encounters,2,40,,0,,,16,,2016-10-04,1,2016-10-12,2
+4565407,,,,,,,,,,,,,
+4565407,inpatient_encounters,1,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2012-07-03,1,2012-07-12,1
+4565407,inpatient_encounters,2,1,,1,,,17,,2012-09-26,1,2012-10-01,1
+4565407,inpatient_encounters,3,1,,,592,"CALCULUS OF KIDNEY",,,2012-10-09,1,2012-10-19,1
+4565407,inpatient_encounters,4,1,,0,,,14,,2012-10-23,1,2012-11-01,1
+4565407,inpatient_encounters,5,1,,0,,,9,,2013-01-05,1,2013-01-08,1
+4565407,inpatient_encounters,6,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2014-11-22,1,2014-11-28,1
+4565407,inpatient_encounters,7,1,,0,,,9,,2014-12-17,1,2014-12-23,1
+4565407,inpatient_encounters,8,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-09-23,1,2016-09-30,1
+4565407,inpatient_encounters,9,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-10-12,1,2016-10-28,1
+4565407,inpatient_encounters,10,1,,,R50.9,"Fever, unspecified",,,2016-12-31,1,2017-01-02,1
+4565407,inpatient_encounters,11,1,,,N12,"Tubulo-interstitial nephritis, not specified as ac",,,2017-05-31,1,2017-06-02,1
+4567096,,,,,,,,,,,,,
+4567096,inpatient_encounters,1,1,,0,,,999,acidosis,2013-05-07,1,2013-05-09,1
+4567096,inpatient_encounters,2,1,,0,,,7,,2013-06-03,1,2013-07-03,1
+4568270,,,,,,,,,,,,,
+4568270,inpatient_encounters,1,111,,0,,,16,,2012-08-15,1,2012-08-20,1
+4568270,inpatient_encounters,2,1,,0,,,7,,2012-10-19,1,2012-10-21,1
+4568270,inpatient_encounters,3,1,,1,,,8,,2013-01-29,1,2013-02-01,1
+4568270,inpatient_encounters,4,111,,0,,,18,,2013-08-08,1,2013-08-10,1
+4568270,inpatient_encounters,5,111,,0,,,9,,2013-09-25,1,2013-10-02,1
+4568270,inpatient_encounters,6,111,,0,,,9,,2013-11-06,1,2013-11-07,1
+4568270,inpatient_encounters,7,111,,0,,,14,,2013-11-08,1,2013-11-14,1
+4568270,inpatient_encounters,8,111,,0,,,9,,2014-03-10,1,2014-03-14,1
+4568270,inpatient_encounters,9,111,,0,,,14,,2014-10-01,1,2014-10-05,1
+4569731,,,,,,,,,,,,,
+4569731,inpatient_encounters,1,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-01-09,1,2017-01-14,1
+4569731,inpatient_encounters,2,19,,0,,,9,,2017-02-07,1,2017-02-14,2
+4569731,inpatient_encounters,3,1,,,G80.0,"Spastic quadriplegic cerebral palsy",,,2017-06-13,1,2017-06-21,1
+4573588,,,,,,,,,,,,,
+4573588,inpatient_encounters,1,63,,0,,,19,,2012-08-17,1,2012-09-22,1
+4573588,inpatient_encounters,2,63,,0,,,15,,2012-10-23,1,2012-11-01,1
+4573588,inpatient_encounters,3,63,,0,,,9,,2012-11-17,1,2012-11-29,1
+4573588,inpatient_encounters,4,63,,0,,,15,,2012-12-07,1,2012-12-19,1
+4573588,inpatient_encounters,5,63,,0,,,9,,2013-01-14,1,2013-01-28,1
+4573588,inpatient_encounters,6,63,,0,,,19,,2013-04-09,1,2013-04-17,1
+4573588,inpatient_encounters,7,63,,0,,,17,,2013-04-24,1,2013-04-28,1
+4573588,inpatient_encounters,8,63,,0,,,9,,2013-07-14,1,2013-07-17,1
+4573588,inpatient_encounters,9,63,,0,,,15,,2013-07-25,1,2013-07-29,1
+4573588,inpatient_encounters,10,63,,0,,,9,,2013-12-30,1,2014-01-16,1
+4573588,inpatient_encounters,11,63,,0,,,9,,2014-01-19,1,2014-01-22,1
+4573588,inpatient_encounters,12,1,,0,,,999,Hematochezia,2014-02-19,1,2014-03-10,1
+4573588,inpatient_encounters,13,63,,0,,,10,,2014-04-30,1,2014-05-10,1
+4573588,inpatient_encounters,14,63,,0,,,9,,2014-08-14,1,2014-08-20,1
+4573588,inpatient_encounters,15,,,-8,,,999,"Central line event",2014-10-09,1,2014-10-10,1
+4573588,inpatient_encounters,16,63,,0,,,999,pneumatosis,2014-10-13,1,2014-10-16,1
+4573588,inpatient_encounters,17,63,,0,,,3,,2014-12-29,1,2015-01-03,1
+4573588,inpatient_encounters,18,63,,0,,,19,,2015-03-27,1,2015-04-03,1
+4573588,inpatient_encounters,19,63,,0,,,999,Cough,2015-04-13,1,2015-04-17,2
+4573588,inpatient_encounters,20,63,,0,,,19,,2015-06-29,1,2015-07-10,2
+4575639,,,,,,,,,,,,,
+4575639,inpatient_encounters,1,999,Washington,0,,,999,"Neurologic changes",2012-10-03,1,2012-10-05,1
+4575639,inpatient_encounters,2,999,Seattle,0,,,999,"Neurological changes",2012-10-12,1,2012-10-16,1
+4575639,inpatient_encounters,3,1,,0,,,7,,2012-10-18,1,2012-10-24,1
+4575639,inpatient_encounters,4,124,,0,,,7,,2012-11-06,1,2012-11-09,1
+4582803,,,,,,,,,,,,,
+4582803,inpatient_encounters,1,1,,0,,,7,,2012-12-20,1,2012-12-24,1
+4582803,inpatient_encounters,2,1,,0,,,9,,2013-03-28,1,2013-04-18,1
+4582803,inpatient_encounters,3,1,,0,,,3,,2013-05-17,1,2013-06-03,1
+4582803,inpatient_encounters,4,1,,0,,,9,,2014-04-21,1,2014-04-24,1
+4582803,inpatient_encounters,5,1,,0,,,9,,2014-07-20,1,2014-07-24,1
+4582803,inpatient_encounters,6,1,,0,,,9,,2015-02-08,1,2015-02-18,1
+4582803,inpatient_encounters,7,999,"Milford Regional Hospital",0,,,9,,2015-12-05,1,2015-12-07,2
+4582803,inpatient_encounters,8,1,,,J15.6,"Pneumonia due to other aerobic gram-negative bacte",,,2016-01-17,1,2016-01-29,1
+4582803,inpatient_encounters,9,1,,,A41.9,"Sepsis, unspecified organism",,,2016-03-19,1,2016-03-24,1
+4582803,inpatient_encounters,10,195,,0,,,3,,2016-09-16,1,2016-09-17,2
+4582803,inpatient_encounters,11,1,,,J09.X2,"Influenza due to identified novel influenza A viru",,,2017-02-25,1,2017-03-10,1
+4585065,,,,,,,,,,,,,
+4585065,inpatient_encounters,1,1,,,536.42,"MECHANICAL COMPLIC OF GASTROSTOMY",,,2015-06-20,1,2015-06-23,1
+4585065,inpatient_encounters,2,1,,,783.3,"FEEDING PROBLEM",,,2015-07-10,1,2015-09-04,1
+4585065,inpatient_encounters,3,1,,,E87.1,"Hypo-osmolality and hyponatremia",,,2015-10-01,1,2015-10-09,1
+4585065,inpatient_encounters,4,1,,,E23.2,"Diabetes insipidus",,,2015-12-08,1,2015-12-14,1
+4585065,inpatient_encounters,5,1,,,E23.2,"Diabetes insipidus",,,2016-03-06,1,2016-03-13,1
+4585065,inpatient_encounters,6,1,,,E23.2,"Diabetes insipidus",,,2016-03-16,0,,1
+4590009,,,,,,,,,,,,,
+4598279,,,,,,,,,,,,,
+4598279,inpatient_encounters,1,1,,0,8.62,"ADENOVIRUS ENTERITIS",,,2012-10-25,1,2012-10-31,2
+4598279,inpatient_encounters,2,1,,1,,,17,,2012-11-15,1,2012-11-28,1
+4598279,inpatient_encounters,3,237,,0,,,3,,2012-12-29,1,2012-12-30,1
+4598279,inpatient_encounters,4,1,,0,,,9,,2013-05-09,1,2013-05-12,1
+4598279,inpatient_encounters,5,237,,0,,,9,,2013-07-16,1,2013-07-19,1
+4598279,inpatient_encounters,6,1,,0,,,9,,2013-07-25,1,2013-08-02,1
+4598279,inpatient_encounters,7,1,,0,,,9,,2013-08-09,1,2013-08-17,1
+4598279,inpatient_encounters,8,1,,0,,,9,,2013-08-23,1,2013-09-09,1
+4598279,inpatient_encounters,9,1,,0,,,999,Pancreatitis,2013-10-23,1,2013-11-01,1
+4598279,inpatient_encounters,10,1,,0,,,1,,2013-11-15,1,2013-12-20,1
+4601432,,,,,,,,,,,,,
+4601432,inpatient_encounters,1,1,,0,,,9,,2013-04-01,1,2013-04-14,1
+4612687,,,,,,,,,,,,,
+4612687,inpatient_encounters,1,1,,0,,,999,"needs further CVL teaching",2013-08-08,1,2013-08-15,1
+4612687,inpatient_encounters,2,1,,0,,,19,,2013-09-04,1,2013-09-12,1
+4612687,inpatient_encounters,3,1,,1,,,17,,2014-05-21,1,2014-05-22,1
+4612687,inpatient_encounters,4,1,,0,,,9,,2014-12-08,1,2014-12-10,1
+4612687,inpatient_encounters,5,1,,0,,,9,,2014-12-28,1,2014-12-30,1
+4614614,,,,,,,,,,,,,
+4614614,inpatient_encounters,1,1,,0,,,9,,2013-01-15,1,2013-01-19,1
+4617487,,,,,,,,,,,,,
+4617487,inpatient_encounters,1,1,,0,,,3,,2013-09-21,1,2013-09-25,1
+4626209,,,,,,,,,,,,,
+4626209,inpatient_encounters,1,1,,0,,,2,,2013-06-10,1,2013-06-12,1
+4626209,inpatient_encounters,2,1,,0,,,12,,2013-08-01,1,2013-08-03,1
+4626209,inpatient_encounters,3,1,,0,,,9,,2013-09-25,1,2013-09-27,1
+4626209,inpatient_encounters,4,1,,1,,,17,,2013-10-07,1,2013-11-04,1
+4626209,inpatient_encounters,5,14,,0,,,9,,2013-12-23,1,2013-12-25,1
+4626209,inpatient_encounters,6,1,,0,,,9,,2013-12-30,1,2014-01-01,1
+4626209,inpatient_encounters,7,14,,0,,,15,,2014-01-02,1,2014-01-20,1
+4626209,inpatient_encounters,8,1,,0,,,9,,2014-02-06,1,2014-02-09,1
+4626209,inpatient_encounters,9,14,,0,,,9,,2014-04-08,1,2014-04-12,1
+4626209,inpatient_encounters,10,1,,0,,,9,,2014-04-12,1,2014-04-18,1
+4626209,inpatient_encounters,11,14,,0,,,9,,2014-06-16,1,2014-06-18,1
+4626209,inpatient_encounters,12,1,,0,,,9,,2014-07-13,1,2014-07-14,1
+4626209,inpatient_encounters,13,1,,0,,,999,"Foreign body ingestion",2014-09-04,1,2014-09-10,1
+4626209,inpatient_encounters,14,1,,1,,,17,,2014-11-04,1,2014-11-06,1
+4626209,inpatient_encounters,15,1,,0,,,9,,2014-11-23,1,2014-11-25,1
+4626209,inpatient_encounters,16,14,,0,,,9,,2015-01-17,1,2015-01-21,1
+4626209,inpatient_encounters,17,1,,,780.6,"FEVER NOS",,,2015-03-17,1,2015-03-19,1
+4626209,inpatient_encounters,18,1,,,K94.29,"Other complications of gastrostomy",,,2015-10-29,1,2015-11-13,1
+4626209,inpatient_encounters,19,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2016-08-03,1,2016-08-05,1
+4626209,inpatient_encounters,20,1,,,R50.9,"Fever, unspecified",,,2016-09-15,1,2016-09-17,1
+4626209,inpatient_encounters,21,1,,,R50.9,"Fever, unspecified",,,2016-10-04,1,2016-10-06,1
+4626209,inpatient_encounters,22,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-07-31,1,2017-08-05,1
+4637187,,,,,,,,,,,,,
+4637187,inpatient_encounters,1,1,,0,,,9,,2013-05-10,1,2013-05-12,1
+4637187,inpatient_encounters,2,1,,0,,,9,,2013-05-17,1,2013-05-21,1
+4637187,inpatient_encounters,3,1,,0,,,9,,2013-06-06,1,2013-06-08,1
+4637187,inpatient_encounters,4,1,,0,,,19,,2013-08-20,1,2013-08-21,1
+4637187,inpatient_encounters,5,1,,0,,,9,,2013-09-02,1,2013-09-04,1
+4637187,inpatient_encounters,6,1,,0,,,19,,2013-10-03,1,2013-10-17,1
+4637187,inpatient_encounters,7,1,,0,,,19,,2013-10-18,1,2013-10-23,1
+4637187,inpatient_encounters,8,1,,0,,,19,,2013-12-14,1,2013-12-18,1
+4637187,inpatient_encounters,9,1,,0,,,9,,2014-02-16,1,2014-02-18,1
+4637187,inpatient_encounters,10,1,,0,,,9,,2014-02-25,1,2014-03-01,1
+4637187,inpatient_encounters,11,1,,0,,,9,,2014-03-13,1,2014-03-15,1
+4637187,inpatient_encounters,12,1,,0,,,19,,2014-04-02,1,2014-04-04,1
+4637187,inpatient_encounters,13,1,,0,,,19,,2014-04-25,1,2014-04-27,1
+4637187,inpatient_encounters,14,1,,0,,,9,,2014-05-01,1,2014-05-07,1
+4637187,inpatient_encounters,15,1,,0,,,9,,2014-08-03,1,2014-08-05,1
+4637187,inpatient_encounters,16,1,,0,,,9,,2014-09-08,1,2014-09-10,1
+4637187,inpatient_encounters,17,1,,0,,,9,,2014-09-21,1,2014-10-02,1
+4637187,inpatient_encounters,18,1,,0,,,9,,2014-11-17,1,2014-11-18,1
+4637187,inpatient_encounters,19,1,,0,,,9,,2014-12-12,1,2014-12-14,1
+4637187,inpatient_encounters,20,,,-8,,,999,"COMPLIC OTHR VASCUL DEVICE",2015-01-07,1,2015-01-14,1
+4637187,inpatient_encounters,21,1,,0,,,9,,2015-02-05,1,2015-02-06,1
+4640286,,,,,,,,,,,,,
+4640286,inpatient_encounters,1,1,,0,,,999,"duodenostomy tube malfunction",2013-06-17,1,2013-06-19,1
+4640286,inpatient_encounters,2,1,,0,,,999,"Feeding tube problem",2014-04-06,1,2014-04-08,1
+4640286,inpatient_encounters,3,1,,0,,,999,"Feeding tube problem",2014-05-18,1,2014-05-20,1
+4640286,inpatient_encounters,4,1,,1,,,999,"Awaiting organ transplant",2014-09-22,1,2014-09-23,1
+4640286,inpatient_encounters,5,,,-8,,,9,,2014-10-19,1,2014-10-24,1
+4640286,inpatient_encounters,6,1,,1,,,13,,2014-11-07,1,2014-11-09,1
+4640286,inpatient_encounters,7,,,-8,,,999,"INTEST POSTOP NONABSORB",2015-03-05,1,2015-03-06,1
+4640286,inpatient_encounters,8,1,,,579.3,"INTEST POSTOP NONABSORB",,,2015-04-26,1,2015-04-27,1
+4640286,inpatient_encounters,9,1,,,K94.23,"Gastrostomy malfunction",,,2016-01-05,1,2016-01-07,1
+4640286,inpatient_encounters,10,1,,,N39.0,"Urinary tract infection, site not specified",,,2016-07-25,1,2016-07-27,1
+4640286,inpatient_encounters,11,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-10-01,1,2016-10-06,1
+4640286,inpatient_encounters,12,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-04-22,1,2017-06-19,1
+4643660,,,,,,,,,,,,,
+4643660,inpatient_encounters,1,1,,0,,,999,"parastomal cellulitis",2013-08-02,1,2013-08-12,1
+4643660,inpatient_encounters,2,219,,0,,,3,,2013-08-18,1,2013-08-19,1
+4643660,inpatient_encounters,3,1,,0,,,3,,2013-08-19,1,2013-08-21,1
+4643660,inpatient_encounters,4,1,,0,,,4,,2013-09-10,1,2013-09-18,1
+4643660,inpatient_encounters,5,1,,0,,,4,,2013-10-01,1,2013-10-04,1
+4643660,inpatient_encounters,6,219,,0,,,15,,2013-11-09,1,2013-11-11,1
+4643660,inpatient_encounters,7,219,,0,,,15,,2013-12-13,1,2013-12-27,1
+4643660,inpatient_encounters,8,1,,0,,,999,"anoxic brain injury",2013-12-27,1,2014-02-12,1
+4643660,inpatient_encounters,9,1,,0,,,9,,2014-02-25,1,2014-02-27,1
+4643660,inpatient_encounters,10,1,,0,,,9,,2014-03-12,1,2014-03-14,1
+4643660,inpatient_encounters,11,1,,0,,,999,"abdominal distention",2014-04-06,1,2014-04-07,1
+4643660,inpatient_encounters,12,1,,0,,,9,,2014-05-20,1,2014-06-09,1
+4643660,inpatient_encounters,13,1,,0,,,9,,2014-07-21,1,2014-09-15,1
+4643660,inpatient_encounters,14,1,,0,,,9,,2014-09-18,1,2014-09-23,1
+4643660,inpatient_encounters,15,,,-8,,,9,,2014-10-09,1,2014-10-20,1
+4643660,inpatient_encounters,16,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2014-12-08,1,2015-02-03,1
+4643660,inpatient_encounters,17,1,,0,,,1,,2015-02-07,1,2015-04-21,1
+4643660,inpatient_encounters,18,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-04-30,1,2015-05-26,1
+4643660,inpatient_encounters,19,1,,,518.81,"ACUTE RESPIRATORY FAILURE",,,2015-06-02,1,2015-06-08,1
+4643660,inpatient_encounters,20,1,,,38.9,"SEPTICEMIA NOS",,,2015-06-14,1,2015-06-19,1
+4643660,inpatient_encounters,21,1,,,507,"FOOD/VOMIT PNEUMONITIS",,,2015-08-18,1,2015-08-27,1
+4643660,inpatient_encounters,22,1,,,G40.909,"Epilepsy, unspecified, not intractable, without st",,,2015-10-28,1,2015-10-30,1
+4643660,inpatient_encounters,23,1,,,G04.89,"Other myelitis",,,2015-12-28,1,2016-01-15,1
+4643660,inpatient_encounters,24,1,,,T88.6XXA,"Anaphylactic reaction due to adverse effect of cor",,,2016-04-07,1,2016-04-14,1
+4643660,inpatient_encounters,25,1,,,T78.3XXA,"Angioneurotic edema, initial encounter",,,2016-05-03,1,2016-05-18,1
+4643660,inpatient_encounters,26,1,,,T80.212A,"Local infection due to central venous catheter, in",,,2016-08-14,1,2016-08-19,1
+4643660,inpatient_encounters,27,1,,,J96.20,"Acute and chronic respiratory failure, unspecified",,,2017-01-21,1,2017-01-23,1
+4643660,inpatient_encounters,28,1,,,J96.21,"Acute and chronic respiratory failure with hypoxia",,,2017-02-11,1,2017-02-28,1
+4643660,inpatient_encounters,29,1,,,T82.858A,"Stenosis of other vascular prosthetic devices, imp",,,2017-03-03,1,2017-03-06,1
+4643660,inpatient_encounters,30,1,,,J96.21,"Acute and chronic respiratory failure with hypoxia",,,2017-06-08,1,2017-06-16,1
+4643660,inpatient_encounters,31,1,,,J96.21,"Acute and chronic respiratory failure with hypoxia",,,2017-07-15,1,2017-07-20,1
+4643660,inpatient_encounters,32,1,,,J69.0,"Pneumonitis due to inhalation of food and vomit",,,2017-09-02,1,2017-09-13,1
+4643660,inpatient_encounters,33,1,,,T82.514A,"Breakdown (mechanical) of infusion catheter, initi",,,2017-09-26,1,2017-09-27,1
+4643660,inpatient_encounters,34,1,,,G40.901,"Epilepsy, unspecified, not intractable, with statu",,,2017-11-07,1,2017-11-13,1
+4645701,,,,,,,,,,,,,
+4645701,inpatient_encounters,1,1,,0,,,9,,2013-11-11,1,2013-11-27,1
+4645701,inpatient_encounters,2,1,,0,,,19,,2013-11-29,1,2013-12-01,1
+4645701,inpatient_encounters,3,1,,0,,,999,"equipment problem",2013-12-02,1,2013-12-03,1
+4645701,inpatient_encounters,4,1,,0,,,9,,2013-12-08,1,2014-01-23,1
+4645701,inpatient_encounters,5,1,,0,,,19,,2014-02-08,1,2014-02-17,1
+4645701,inpatient_encounters,6,1,,0,,,999,"Equipment problem",2014-02-21,1,2014-02-24,1
+4645701,inpatient_encounters,7,1,,0,,,10,,2014-03-01,1,2014-03-06,1
+4645701,inpatient_encounters,8,1,,0,,,999,"Social concerns",2014-05-14,1,2014-05-16,1
+4645701,inpatient_encounters,9,1,,0,,,999,"Social concerns",2014-05-22,1,2014-06-09,1
+4645701,inpatient_encounters,10,1,,0,,,9,,2014-07-30,1,2014-08-11,1
+4645701,inpatient_encounters,11,1,,,996.1,"MALFUNC VASC DEVICE/GRAF",,,2014-08-25,1,2014-08-26,1
+4645701,inpatient_encounters,12,1,,0,,,9,,2014-09-05,1,2014-09-19,1
+4645701,inpatient_encounters,13,1,,0,,,9,,2014-12-07,1,2014-12-10,1
+4645701,inpatient_encounters,14,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2014-12-25,1,2015-01-30,1
+4645701,inpatient_encounters,15,1,,0,,,9,,2015-02-11,1,2015-03-13,1
+4645701,inpatient_encounters,16,1,,,996.1,"MALFUNC VASC DEVICE/GRAF",,,2015-05-09,1,2015-05-11,1
+4645701,inpatient_encounters,17,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-08-04,1,2015-09-08,1
+4645701,inpatient_encounters,18,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-09-09,1,2015-09-28,1
+4645701,inpatient_encounters,19,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2015-12-23,1,2016-01-11,1
+4645701,inpatient_encounters,20,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-04-18,1,2016-05-07,1
+4645701,inpatient_encounters,21,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-06-13,1,2016-07-01,1
+4645701,inpatient_encounters,22,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-08-01,1,2016-08-23,1
+4645701,inpatient_encounters,23,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-10-11,1,2016-10-31,1
+4645701,inpatient_encounters,24,1,,,E16.2,"Hypoglycemia, unspecified",,,2016-11-29,1,2016-11-30,1
+4645701,inpatient_encounters,25,1,,,R50.9,"Fever, unspecified",,,2017-04-26,1,2017-04-28,1
+4645701,inpatient_encounters,26,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-06-01,1,2017-06-12,1
+4645701,inpatient_encounters,27,1,,,T82.7XXA,"Infection and inflammatory reaction due to other c",,,2017-06-26,1,2017-07-18,1
+4645701,inpatient_encounters,28,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-07-26,1,2017-08-29,1
+4645701,inpatient_encounters,29,1,,,E16.2,"Hypoglycemia, unspecified",,,2017-10-08,1,2017-10-10,1
+4648347,,,,,,,,,,,,,
+4648347,inpatient_encounters,1,1,,0,,,9,,2013-07-02,1,2013-07-16,1
+4648347,inpatient_encounters,2,7,,0,,,9,,2013-08-17,1,2013-08-21,1
+4648347,inpatient_encounters,3,1,,0,,,999,Anemia,2013-11-07,1,2013-11-08,1
+4648347,inpatient_encounters,4,7,,0,,,9,,2013-12-10,1,2013-12-15,1
+4648347,inpatient_encounters,5,192,,0,,,9,,2014-01-01,1,2014-01-03,1
+4648347,inpatient_encounters,6,7,,0,,,3,,2014-01-26,1,2014-01-27,1
+4648347,inpatient_encounters,7,1,,0,,,9,,2014-02-22,1,2014-02-26,1
+4648347,inpatient_encounters,8,192,,0,,,7,,2014-04-07,1,2014-04-11,1
+4648347,inpatient_encounters,9,1,,1,,,17,,2014-04-27,1,2014-05-21,1
+4648347,inpatient_encounters,10,7,,0,,,9,,2014-11-12,1,2014-11-17,1
+4648347,inpatient_encounters,11,192,,0,,,9,,2015-03-01,1,2015-03-03,1
+4648347,inpatient_encounters,12,999,"Royal Aberdeen Hospital, Scotland, UK",0,,,3,,2015-06-12,1,2015-06-13,2
+4648347,inpatient_encounters,13,192,,0,,,3,,2015-07-20,1,2015-07-21,2
+4648347,inpatient_encounters,14,192,,0,,,9,,2015-11-28,1,2015-12-02,2
+4648347,inpatient_encounters,15,192,,0,,,3,,2016-01-01,1,2016-01-03,2
+4648347,inpatient_encounters,16,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2016-07-11,1,2016-09-06,1
+4648347,inpatient_encounters,17,192,,0,,,9,,2017-03-28,1,2017-03-30,2
+4648347,inpatient_encounters,18,182,,0,,,9,,2017-07-22,1,2017-07-31,2
+4648347,inpatient_encounters,19,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-10-26,1,2017-11-01,1
+4651824,,,,,,,,,,,,,
+4651824,inpatient_encounters,1,91,,0,,,9,,2013-11-02,1,2013-11-08,1
+4653035,,,,,,,,,,,,,
+4653035,inpatient_encounters,1,1,,0,,,999,"peri-stomal skin breakdown",2013-09-05,1,2013-09-09,1
+4653035,inpatient_encounters,2,999,"NewYork Presbyterian, Weil Cornell Med Center",0,,,1,,2013-11-25,1,2013-11-29,1
+4653035,inpatient_encounters,3,1,,0,,,3,,2013-11-29,1,2013-12-03,1
+4653035,inpatient_encounters,4,124,,0,,,3,,2014-08-22,1,2014-08-26,1
+4653035,inpatient_encounters,5,124,,0,,,9,,2014-12-30,1,2015-01-07,1
+4653035,inpatient_encounters,6,124,,0,,,9,,2015-03-01,1,2015-03-10,1
+4653035,inpatient_encounters,7,124,,0,,,9,,2015-04-21,1,2015-04-29,2
+4653035,inpatient_encounters,8,124,,0,,,9,,2015-06-21,1,2015-07-01,2
+4653035,inpatient_encounters,9,124,,0,,,9,,2015-08-31,1,2015-09-04,2
+4653035,inpatient_encounters,10,124,,0,,,3,,2015-09-30,1,2015-10-02,2
+4653035,inpatient_encounters,11,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2015-10-08,1,2015-10-20,1
+4653035,inpatient_encounters,12,124,,0,,,9,,2015-11-12,1,2015-11-18,2
+4653035,inpatient_encounters,13,1,,,K90.89,"Other intestinal malabsorption",,,2016-05-02,1,2016-06-26,1
+4653035,inpatient_encounters,14,124,,0,,,19,,2016-07-07,0,,2
+4658607,,,,,,,,,,,,,
+4658607,inpatient_encounters,1,1,,0,,,9,,2013-11-09,1,2013-11-11,1
+4658607,inpatient_encounters,2,1,,0,,,9,,2014-02-14,1,2014-02-17,1
+4658607,inpatient_encounters,3,1,,0,,,3,,2014-06-17,1,2014-06-20,1
+4661676,,,,,,,,,,,,,
+4661676,inpatient_encounters,1,1,,1,,,17,,2013-08-13,1,2013-08-22,1
+4661676,inpatient_encounters,2,1,,0,,,999,Hematochezia,2013-11-17,1,2013-11-20,1
+4661676,inpatient_encounters,3,999,"Mt Nittany",0,,,9,,2014-03-11,1,2014-03-13,1
+4661676,inpatient_encounters,4,999,"Hershey PA",0,,,9,,2014-06-16,1,2014-06-18,1
+4661676,inpatient_encounters,5,,,-8,,,999,"Central line event",2014-10-20,1,2014-10-23,1
+4661676,inpatient_encounters,6,1,,0,996.1,"MALFUNC VASC DEVICE/GRAF",,,2014-11-20,1,2014-11-21,2
+4661676,inpatient_encounters,7,999,"Mount Nittany Medical Center",0,,,9,,2015-10-06,1,2015-10-08,2
+4664431,,,,,,,,,,,,,
+4664431,inpatient_encounters,1,1,,0,,,999,"Elevated CRP",2013-07-08,1,2013-07-09,1
+4664431,inpatient_encounters,2,1,,0,,,9,,2013-09-12,1,2013-09-15,1
+4664431,inpatient_encounters,3,1,,0,,,9,,2013-10-03,1,2013-10-04,1
+4664431,inpatient_encounters,4,1,,0,,,15,,2013-11-06,1,2013-11-23,1
+4664431,inpatient_encounters,5,1,,0,,,7,,2013-12-05,1,2013-12-09,1
+4664431,inpatient_encounters,6,1,,0,,,9,,2014-01-11,1,2014-01-13,1
+4664431,inpatient_encounters,7,1,,0,,,15,,2014-03-09,1,2014-03-11,1
+4664431,inpatient_encounters,8,1,,0,,,7,,2014-06-18,1,2014-06-20,1
+4664431,inpatient_encounters,9,1,,0,,,7,,2014-07-23,1,2014-07-31,1
+4664431,inpatient_encounters,10,,,-8,,,14,,2014-10-17,1,2014-10-20,1
+4664431,inpatient_encounters,11,1,,1,,,17,,2014-11-10,1,2014-11-11,1
+4664431,inpatient_encounters,12,1,,,560.81,"INTEST ADHES W OBSTR POST OP/INFECT",,,2015-08-17,1,2015-09-03,1
+4664431,inpatient_encounters,13,1,,,J45.902,"Unspecified asthma with status asthmaticus",,,2015-11-06,1,2015-11-08,1
+4664431,inpatient_encounters,14,1,,,J15.9,"Unspecified bacterial pneumonia",,,2016-02-29,1,2016-03-03,1
+4666107,,,,,,,,,,,,,
+4666107,inpatient_encounters,1,1,,1,,,17,,2013-09-23,1,2013-10-28,1
+4666107,inpatient_encounters,2,1,,0,,,9,,2013-11-12,1,2013-11-20,1
+4666107,inpatient_encounters,3,1,,0,,,999,"elevated CRP",2014-01-31,1,2014-02-02,1
+4666107,inpatient_encounters,4,1,,1,,,17,,2015-03-23,1,2015-03-30,1
+4666107,inpatient_encounters,5,1,,,579.3,"INTEST POSTOP NONABSORB",,,2015-05-11,1,2015-05-26,1
+4666107,inpatient_encounters,6,135,,0,,,4,,2015-07-21,1,2015-07-24,2
+4666107,inpatient_encounters,7,135,,0,,,9,,2015-08-05,1,2015-08-07,2
+4666503,,,,,,,,,,,,,
+4666503,inpatient_encounters,1,1,,0,,,3,,2014-06-24,1,2014-06-25,1
+4666503,inpatient_encounters,2,1,,0,,,9,,2014-08-06,1,2014-10-08,1
+4666503,inpatient_encounters,3,,,-8,,,10,,2014-10-29,1,2014-10-31,1
+4666503,inpatient_encounters,4,,,-8,,,999,"INFECTIOUS ENTERITIS NOS",2015-01-11,1,2015-01-13,1
+4666503,inpatient_encounters,5,1,,0,,,10,,2015-02-09,1,2015-02-11,1
+4666503,inpatient_encounters,6,1,,0,,,15,,2015-03-29,1,2015-04-05,1
+4666503,inpatient_encounters,7,1,,,493.92,"ASTHMA UNSPECIFIED WITH EXAC",,,2015-06-23,1,2015-06-26,1
+4669346,,,,,,,,,,,,,
+4669346,inpatient_encounters,1,1,,0,,,999,"wound infection",2013-08-20,1,2013-08-26,1
+4669346,inpatient_encounters,2,1,,1,,,13,,2013-09-16,1,2013-09-18,1
+4669346,inpatient_encounters,3,1,,0,,,19,,2013-09-30,1,2013-09-30,1
+4669346,inpatient_encounters,4,1,,0,,,9,,2013-10-06,1,2013-10-10,1
+4669346,inpatient_encounters,5,1,,0,,,999,Anemia,2013-11-23,1,2013-11-24,1
+4669346,inpatient_encounters,6,1,,0,,,999,Anemia,2013-12-23,1,2013-12-23,1
+4669346,inpatient_encounters,7,1,,,578.9,"GASTROINTEST HEMORR NOS",,,2014-04-13,1,2014-04-15,1
+4669346,inpatient_encounters,8,1,,0,,,10,,2014-04-23,1,2014-04-24,1
+4669346,inpatient_encounters,9,219,,0,,,10,,2014-05-17,1,2014-05-18,1
+4669346,inpatient_encounters,10,1,,0,,,10,,2014-05-18,1,2014-05-20,1
+4669346,inpatient_encounters,11,1,,0,,,9,,2014-06-18,1,2014-06-21,1
+4669346,inpatient_encounters,12,1,,0,,,9,,2014-06-28,1,2014-06-29,1
+4669346,inpatient_encounters,13,1,,0,,,10,,2014-07-04,1,2014-07-08,1
+4669346,inpatient_encounters,14,1,,1,,,999,"Liver transplant",2014-07-10,1,2014-08-22,1
+4669346,inpatient_encounters,15,1,,0,,,19,,2014-09-13,1,2014-09-15,1
+4669346,inpatient_encounters,16,1,,1,,,17,,2014-11-07,1,2014-11-13,1
+4669346,inpatient_encounters,17,1,,,579.3,"INTEST POSTOP NONABSORB",,,2014-12-01,1,2015-01-26,1
+4669346,inpatient_encounters,18,,,-8,,,7,,2015-03-11,1,2015-03-14,1
+4669346,inpatient_encounters,19,1,,,780.6,"FEVER NOS",,,2015-07-21,1,2015-07-23,1
+4669346,inpatient_encounters,20,1,,,486,"PNEUMONIA, ORGANISM NOS",,,2015-07-31,1,2015-08-04,1
+4669346,inpatient_encounters,21,1,,,277.03,"CYSTIC FIBROSIS W GI MANIFEST",,,2015-08-25,1,2015-08-29,1
+4673498,,,,,,,,,,,,,
+4673498,inpatient_encounters,1,40,,0,,,13,,2016-10-10,1,2016-10-12,2
+4673498,inpatient_encounters,2,40,,0,,,9,,2017-04-26,1,2017-04-28,2
+4682205,,,,,,,,,,,,,
+4682205,inpatient_encounters,1,1,,0,,,9,,2014-07-13,1,2014-07-16,1
+4682205,inpatient_encounters,2,1,,0,,,9,,2014-08-10,1,2014-09-05,1
+4682205,inpatient_encounters,3,,,-8,,,9,,2014-10-14,1,2014-10-29,1
+4683080,,,,,,,,,,,,,
+4683080,inpatient_encounters,1,1,,0,,,7,,2013-10-14,1,2013-10-15,1
+4683080,inpatient_encounters,2,999,"University of Missouri Children's Hospital in Colu",0,,,7,,2014-05-19,1,2014-05-21,1
+4683080,inpatient_encounters,3,999,"University of California at San Francisco, CA",0,,,4,,2014-06-20,1,2014-06-20,1
+4683080,inpatient_encounters,4,999,"University of California at San Francisco, CA",0,,,4,,2014-06-23,1,2014-06-30,1
+4683080,inpatient_encounters,5,,,-8,,,999,"BLOOD INF DT CEN VEN CTH",2015-01-17,1,2015-01-20,1
+4683080,inpatient_encounters,6,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-02-25,1,2016-02-29,1
+4683080,inpatient_encounters,7,1,,,K59.8,"Other specified functional intestinal disorders",,,2016-07-16,1,2016-07-18,1
+4683080,inpatient_encounters,8,999,"University Hospital Missouri",0,,,9,,2016-08-23,1,2016-08-27,2
+4683080,inpatient_encounters,9,999,"Niagra Falls Memorial Medical Center",0,,,17,,2016-08-30,1,2016-09-03,2
+4683080,inpatient_encounters,10,1,,,K59.8,"Other specified functional intestinal disorders",,,2016-10-18,1,2016-10-20,1
+4683080,inpatient_encounters,11,1,,,K56.60,"Unspecified intestinal obstruction",,,2016-12-01,1,2016-12-02,1
+4683080,inpatient_encounters,12,1,,,K56.60,"Unspecified intestinal obstruction",,,2017-02-27,1,2017-03-02,1
+4683080,inpatient_encounters,13,1,,,E86.0,Dehydration,,,2017-03-03,1,2017-03-05,1
+4683080,inpatient_encounters,14,1,,,N17.9,"Acute kidney failure, unspecified",,,2017-05-24,1,2017-06-01,1
+4683080,inpatient_encounters,15,1,,,N39.0,"Urinary tract infection, site not specified",,,2017-09-23,1,2017-09-26,1
+4683080,inpatient_encounters,16,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-11-10,1,2017-11-17,1
+4689298,,,,,,,,,,,,,
+4689298,inpatient_encounters,1,69,,0,,,7,,2014-02-20,1,2014-03-24,1
+4689298,inpatient_encounters,2,193,,0,,,9,,2014-03-12,1,2014-03-15,1
+4689298,inpatient_encounters,3,193,,0,,,9,,2014-04-02,1,2014-04-06,1
+4689298,inpatient_encounters,4,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2014-05-17,1,2014-05-29,1
+4689298,inpatient_encounters,5,1,,1,,,17,,2014-07-25,1,2014-08-14,1
+4689298,inpatient_encounters,6,69,,0,,,9,,2014-08-21,1,2014-08-24,2
+4689298,inpatient_encounters,7,69,,0,,,9,,2014-09-04,1,2014-09-06,1
+4689298,inpatient_encounters,8,69,,0,,,9,,2014-09-21,1,2014-09-30,1
+4689298,inpatient_encounters,9,69,,0,,,19,,2014-10-05,1,2014-10-06,1
+4689298,inpatient_encounters,10,69,,0,,,19,,2014-10-08,1,2014-10-10,1
+4689298,inpatient_encounters,11,1,,1,,,17,,2014-10-20,1,2014-11-10,1
+4689298,inpatient_encounters,12,999,"UT Southwestern",0,,,9,,2014-12-07,1,2014-12-09,1
+4689298,inpatient_encounters,13,69,,0,,,19,,2014-12-12,1,2014-12-13,1
+4689298,inpatient_encounters,14,69,,0,,,9,,2015-01-14,1,2015-01-16,1
+4689298,inpatient_encounters,15,69,,0,,,19,,2015-02-05,1,2015-02-07,1
+4689298,inpatient_encounters,16,51,,0,,,3,,2015-04-24,1,2015-04-25,2
+4689298,inpatient_encounters,17,51,,1,,,9,,2015-06-13,1,2015-06-17,2
+4689298,inpatient_encounters,18,69,,0,,,9,,2015-07-10,1,2015-07-12,2
+4689298,inpatient_encounters,19,51,,0,,,9,,2015-11-14,1,2015-11-18,2
+4689298,inpatient_encounters,20,51,,0,,,9,,2016-01-04,1,2016-01-07,2
+4689298,inpatient_encounters,21,51,,0,,,6,,2016-02-04,1,2016-02-05,2
+4689298,inpatient_encounters,22,51,,0,,,19,,2016-02-08,1,2016-02-09,2
+4689298,inpatient_encounters,23,51,,0,,,9,,2016-03-30,1,2016-04-01,2
+4689298,inpatient_encounters,24,51,,0,,,3,,2016-04-23,1,2016-04-25,2
+4692021,,,,,,,,,,,,,
+4692021,inpatient_encounters,1,1,,0,,,7,,2013-12-16,1,2013-12-21,1
+4692021,inpatient_encounters,2,1,,0,,,999,"Abdominal distention",2014-01-01,1,2014-01-04,1
+4692021,inpatient_encounters,3,1,,0,,,7,,2014-01-17,1,2014-01-31,1
+4692021,inpatient_encounters,4,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2016-11-30,1,2016-12-03,1
+4692021,inpatient_encounters,5,1,,,R50.9,"Fever, unspecified",,,2016-12-15,1,2016-12-22,1
+4692021,inpatient_encounters,6,1,,,R50.9,"Fever, unspecified",,,2017-01-04,1,2017-01-06,1
+4692021,inpatient_encounters,7,1,,,B34.8,"Other viral infections of unspecified site",,,2017-03-15,1,2017-03-17,1
+4700798,,,,,,,,,,,,,
+4700798,inpatient_encounters,1,1,,,T86.00,"Unspecified complication of bone marrow transplant",,,2016-03-16,1,2016-03-29,1
+4700798,inpatient_encounters,2,1,,,R50.2,"Drug induced fever",,,2016-04-06,1,2016-04-18,1
+4708026,,,,,,,,,,,,,
+4715874,,,,,,,,,,,,,
+4715874,inpatient_encounters,1,999,"Sparrow Hospital",0,,,9,,2014-08-25,1,2014-08-30,1
+4715874,inpatient_encounters,2,999,"Sparrow Hospital",0,,,9,,2014-09-16,1,2014-09-19,1
+4715874,inpatient_encounters,3,999,"Devos Children's Hospital, MI",0,,,19,,2015-01-03,1,2015-01-04,1
+4715874,inpatient_encounters,4,999,"Devos Children's Hospital, MI",0,,,19,,2015-01-29,1,2015-01-30,1
+4715874,inpatient_encounters,5,1,,,579.3,"INTEST POSTOP NONABSORB",,,2015-04-07,1,2015-04-15,1
+4715874,inpatient_encounters,6,1,,,751.3,"HIRSCHSPRUNG'S DISEASE",,,2015-06-08,1,2015-06-16,1
+4715874,inpatient_encounters,7,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2015-10-07,1,2015-10-23,1
+4715874,inpatient_encounters,8,82,,0,,,9,,2015-10-26,1,2015-10-28,2
+4715874,inpatient_encounters,9,82,,0,,,9,,2016-06-26,1,2016-06-28,2
+4715874,inpatient_encounters,10,82,,0,,,9,,2016-11-18,1,2016-11-22,2
+4715874,inpatient_encounters,11,82,,0,,,9,,2017-02-01,1,2017-02-05,2
+4715874,inpatient_encounters,12,82,,0,,,4,,2017-12-07,1,2017-12-12,2
+4719616,,,,,,,,,,,,,
+4719616,inpatient_encounters,1,54,,0,,,9,,2014-04-17,1,2014-04-18,1
+4719616,inpatient_encounters,2,1,,0,,,3,,2014-08-19,1,2014-08-20,1
+4719616,inpatient_encounters,3,54,,0,,,14,,2014-11-11,1,2014-11-13,1
+4719616,inpatient_encounters,4,54,,0,,,9,,2015-03-16,1,2015-03-19,1
+4719616,inpatient_encounters,5,54,,0,,,9,,2017-01-29,1,2017-01-31,2
+4724680,,,,,,,,,,,,,
+4724680,inpatient_encounters,1,1,,0,,,1,,2014-06-09,1,2014-06-15,1
+4724680,inpatient_encounters,2,1,,1,,,17,,2014-06-24,1,2014-06-25,1
+4733238,,,,,,,,,,,,,
+4733238,inpatient_encounters,1,999,UVA,0,,,9,,2014-11-17,1,2014-11-21,1
+4733238,inpatient_encounters,2,999,UVA,0,,,9,,2014-11-23,1,2014-11-26,1
+4733238,inpatient_encounters,3,,,0,,,9,,2014-12-10,1,2014-12-12,1
+4733238,inpatient_encounters,4,999,"Winchester Hospital, Virginia",0,,,19,,2014-12-31,1,2015-01-02,1
+4733238,inpatient_encounters,5,999,"Winchester Hospital, VA",0,,,19,,2015-01-16,1,2015-01-19,1
+4733238,inpatient_encounters,6,1,,1,,,17,,2015-02-23,1,2015-03-04,1
+4733238,inpatient_encounters,7,226,,0,,,19,,2015-03-10,1,2015-03-11,2
+4733238,inpatient_encounters,8,999,"Winchester Hospital, VA",0,,,9,,2015-10-20,1,2015-10-26,2
+4733238,inpatient_encounters,9,226,,0,,,9,,2015-12-11,1,2015-12-13,2
+4733238,inpatient_encounters,10,999,"Winchester Hospital, VA",0,,,9,,2016-03-22,1,2016-03-24,2
+4733238,inpatient_encounters,11,999,"Winchester Hospital, VA",0,,,14,,2016-04-13,1,2016-04-15,2
+4733238,inpatient_encounters,12,999,"Winchester Hospital",0,,,9,,2016-09-04,1,2016-09-09,2
+4733238,inpatient_encounters,13,226,,0,,,13,,2016-09-30,1,2016-10-03,2
+4733238,inpatient_encounters,14,226,,0,,,9,,2016-10-31,1,2016-11-03,2
+4733238,inpatient_encounters,15,226,,0,,,9,,2016-11-16,1,2016-11-18,2
+4733238,inpatient_encounters,16,1,,,K30,"Functional dyspepsia",,,2017-04-13,1,2017-04-21,1
+4733238,inpatient_encounters,17,226,,0,,,19,,2017-05-17,1,2017-05-19,2
+4736629,,,,,,,,,,,,,
+4736629,inpatient_encounters,1,1,,0,,,10,,2014-07-13,1,2014-07-21,1
+4736629,inpatient_encounters,2,999,"Long Island Jewish",0,,,9,,2014-12-11,1,2014-12-13,1
+4736629,inpatient_encounters,3,999,"Cohen Long Island Jewish Hospital",0,,,9,,2014-12-25,1,2014-12-26,1
+4736629,inpatient_encounters,4,188,,0,,,9,,2015-04-28,1,2015-04-29,2
+4736629,inpatient_encounters,5,188,,0,,,2,,2016-04-25,1,2016-04-29,2
+4736629,inpatient_encounters,6,1,,,K90.4,"Malabsorption due to intolerance, not elsewhere cl",,,2016-04-29,1,2016-06-13,1
+4738115,,,,,,,,,,,,,
+4738115,inpatient_encounters,1,1,,0,,,9,,2015-02-12,1,2015-02-13,1
+4738115,inpatient_encounters,2,1,,,780.6,"FEVER NOS",,,2015-06-14,1,2015-06-16,1
+4741079,,,,,,,,,,,,,
+4741079,inpatient_encounters,1,1,,,R10.31,"Right lower quadrant pain",,,2015-10-08,1,2015-10-14,1
+4741079,inpatient_encounters,2,1,,,T86.09,"Other complications of bone marrow transplant",,,2015-11-25,1,2015-12-03,1
+4741079,inpatient_encounters,3,1,,,K92.0,Hematemesis,,,2015-12-08,1,2015-12-13,1
+4741079,inpatient_encounters,4,228,,0,,,9,,2016-01-18,1,2016-01-20,2
+4741079,inpatient_encounters,5,1,,,A41.9,"Sepsis, unspecified organism",,,2016-01-21,1,2016-02-01,1
+4741079,inpatient_encounters,6,1,,,K56.69,"Other intestinal obstruction",,,2016-03-07,1,2016-03-30,1
+4741710,,,,,,,,,,,,,
+4741710,inpatient_encounters,1,1,,0,,,10,,2014-09-22,1,2014-09-30,1
+4741710,inpatient_encounters,2,,,-8,,,999,"Central line event",2014-10-13,1,2014-11-11,1
+4741710,inpatient_encounters,3,1,,0,,,9,,2014-12-05,1,2014-12-23,1
+4741710,inpatient_encounters,4,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-01-24,1,2015-03-02,1
+4741710,inpatient_encounters,5,,,-8,,,9,,2015-03-13,1,2015-03-16,1
+4741710,inpatient_encounters,6,1,,,787.03,"VOMITING ALONE",,,2015-05-13,1,2015-05-16,1
+4741710,inpatient_encounters,7,1,,,A08.4,"Viral intestinal infection, unspecified",,,2016-07-07,1,2016-07-10,1
+4741710,inpatient_encounters,8,1,,,T82.524A,"Displacement of infusion catheter, initial encount",,,2016-09-01,1,2016-09-03,1
+4742482,,,,,,,,,,,,,
+4742482,inpatient_encounters,1,1,,0,,,10,,2014-11-05,1,2014-11-11,1
+4751613,,,,,,,,,,,,,
+4751613,inpatient_encounters,1,1,,0,,,9,,2014-06-22,1,2014-06-26,1
+4751613,inpatient_encounters,2,999,"Maine Medical Center",0,,,9,,2014-11-23,1,2014-11-29,1
+4751613,inpatient_encounters,3,999,"Maine Medical Center",0,,,9,,2015-03-09,1,2015-03-11,1
+4751613,inpatient_encounters,4,195,,0,,,9,,2015-12-06,1,2015-12-15,2
+4751613,inpatient_encounters,5,195,,0,,,9,,2016-02-09,1,2016-02-17,2
+4751613,inpatient_encounters,6,195,,0,,,9,,2016-03-04,1,2016-03-24,2
+4751613,inpatient_encounters,7,195,,0,,,14,,2016-12-30,1,2017-01-05,2
+4751613,inpatient_encounters,8,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-01-05,1,2017-02-02,1
+4751613,inpatient_encounters,9,1,,,T80.212A,"Local infection due to central venous catheter, in",,,2017-12-01,1,2017-12-07,1
+4751843,,,,,,,,,,,,,
+4751843,inpatient_encounters,1,1,,0,,,15,,2014-12-13,1,2014-12-19,1
+4751843,inpatient_encounters,2,1,,0,,,3,,2014-12-22,1,2014-12-25,1
+4764295,,,,,,,,,,,,,
+4764295,inpatient_encounters,1,1,,1,,,999,"Social reasons",2014-12-05,1,2015-06-10,1
+4764295,inpatient_encounters,2,1,,,579.3,"INTEST POSTOP NONABSORB",,,2015-07-13,1,2015-08-05,1
+4764295,inpatient_encounters,3,1,,,296.22,"DEPRESSIVE PSYCHOSIS-MOD",,,2015-08-24,1,2015-08-26,1
+4764295,inpatient_encounters,4,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2015-10-05,0,,1
+4767469,,,,,,,,,,,,,
+4767469,inpatient_encounters,1,1,,0,,,9,,2014-12-30,1,2015-01-07,1
+4767469,inpatient_encounters,2,1,,1,,,17,,2015-02-09,1,2015-02-18,1
+4767469,inpatient_encounters,3,1,,,996.62,"INFECT D/T VASC DEVICE",,,2015-05-24,1,2015-05-27,1
+4767469,inpatient_encounters,4,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2015-09-27,1,2015-10-02,1
+4767469,inpatient_encounters,5,1,,,T80.211D,"Bloodstream infection due to central venous cathet",,,2015-10-14,1,2015-10-23,1
+4767469,inpatient_encounters,6,1,,,T80.218A,"Other infection due to central venous catheter, in",,,2016-01-31,1,2016-02-10,1
+4767469,inpatient_encounters,7,999,"Eastern Maine Medical Center",0,,,999,"positive blood culture",2016-02-26,1,2016-03-04,2
+4767469,inpatient_encounters,8,1,,,T80.219A,"Unspecified infection due to central venous cathet",,,2016-03-04,1,2016-03-08,1
+4767469,inpatient_encounters,9,1,,,R50.9,"Fever, unspecified",,,2016-04-25,1,2016-04-28,1
+4767469,inpatient_encounters,10,1,,,T82.898A,"Other specified complication of vascular prostheti",,,2016-11-30,1,2016-12-02,1
+4767469,inpatient_encounters,11,999,"TAMC Hospital",0,,,9,,2017-02-02,1,2017-02-04,2
+4767469,inpatient_encounters,12,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-03-05,1,2017-03-13,1
+4767469,inpatient_encounters,13,1,,,A08.11,"Acute gastroenteropathy due to Norwalk agent",,,2017-04-06,1,2017-04-10,1
+4767469,inpatient_encounters,14,1,,,R50.9,"Fever, unspecified",,,2017-08-17,1,2017-08-19,1
+4767469,inpatient_encounters,15,1,,,Z43.2,"Encounter for attention to ileostomy",,,2017-10-16,1,2017-10-24,1
+4768114,,,,,,,,,,,,,
+4768114,inpatient_encounters,1,1,,0,,,999,"equipment problem",2014-12-09,1,2014-12-09,1
+4768114,inpatient_encounters,2,1,,0,,,9,,2014-12-18,1,2014-12-20,1
+4768114,inpatient_encounters,3,1,,0,,,999,"equipment problem",2014-12-28,1,2014-12-29,1
+4768114,inpatient_encounters,4,1,,,276.51,DEHYDRATION,,,2015-01-30,1,2015-03-13,1
+4768114,inpatient_encounters,5,1,,,465.9,"ACUTE URI NOS",,,2015-09-26,1,2015-09-28,1
+4768114,inpatient_encounters,6,1,,,T82.518A,"Breakdown (mechanical) of other cardiac and vascul",,,2015-10-21,1,2015-10-22,1
+4772379,,,,,,,,,,,,,
+4772379,inpatient_encounters,1,1,,,T18.3XXA,"Foreign body in small intestine, initial encounter",,,2016-08-08,1,2016-08-11,1
+4772379,inpatient_encounters,2,189,,0,,,9,,2016-11-05,1,2016-11-07,2
+4772379,inpatient_encounters,3,1,,,E87.1,"Hypo-osmolality and hyponatremia",,,2017-08-17,1,2017-08-26,1
+4772922,,,,,,,,,,,,,
+4772922,inpatient_encounters,1,1,,0,,,9,,2015-02-22,1,2015-03-16,1
+4772922,inpatient_encounters,2,1,,,780.6,"FEVER NOS",,,2015-07-06,1,2015-07-09,1
+4772922,inpatient_encounters,3,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2015-10-29,1,2015-11-02,1
+4772922,inpatient_encounters,4,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2015-12-22,1,2015-12-28,1
+4772922,inpatient_encounters,5,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-01-08,1,2016-01-13,1
+4772922,inpatient_encounters,6,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-01-27,1,2016-02-14,1
+4772922,inpatient_encounters,7,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-08-01,1,2016-08-05,1
+4772922,inpatient_encounters,8,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-11-17,1,2016-11-23,1
+4772922,inpatient_encounters,9,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-01-24,1,2017-02-10,1
+4772922,inpatient_encounters,10,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-03-22,1,2017-04-11,1
+4772922,inpatient_encounters,11,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-10-26,1,2017-11-11,1
+4774766,,,,,,,,,,,,,
+4774766,inpatient_encounters,1,1,,,996.1,"MECH COMP OTH VASC DEV",,,2015-09-03,1,2015-09-04,1
+4774766,inpatient_encounters,2,1,,,E86.0,Dehydration,,,2015-12-28,1,2016-01-13,1
+4774766,inpatient_encounters,3,1,,,B09,"Unspecified viral infection characterized by skin",,,2016-01-26,1,2016-02-01,1
+4774766,inpatient_encounters,4,1,,,R50.9,"Fever, unspecified",,,2016-05-27,1,2016-05-29,1
+4780152,,,,,,,,,,,,,
+4780152,inpatient_encounters,1,1,,,8.63,"NORWALK VIRUS ENTERITIS",,,2015-04-19,1,2015-04-23,1
+4780152,inpatient_encounters,2,1,,,465.9,"ACUTE URI NOS",,,2015-05-18,1,2015-05-20,1
+4780152,inpatient_encounters,3,1,,,T82.318A,"Breakdown (mechanical) of other vascular grafts, i",,,2016-03-14,1,2016-03-15,1
+4780152,inpatient_encounters,4,1,,,R50.9,"Fever, unspecified",,,2016-05-19,1,2016-05-23,1
+4780152,inpatient_encounters,5,1,,,E87.2,Acidosis,,,2016-06-15,1,2016-06-17,1
+4780152,inpatient_encounters,6,1,,,E87.2,Acidosis,,,2016-06-17,1,2016-06-22,1
+4780152,inpatient_encounters,7,1,,,E87.2,Acidosis,,,2016-06-23,1,2016-07-01,1
+4780152,inpatient_encounters,8,1,,,B34.1,"Enterovirus infection, unspecified",,,2016-08-21,1,2016-08-23,1
+4780152,inpatient_encounters,9,1,,,E87.2,Acidosis,,,2016-11-10,1,2016-11-12,1
+4780152,inpatient_encounters,10,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2016-12-09,1,2016-12-10,1
+4790205,,,,,,,,,,,,,
+4790205,inpatient_encounters,1,999,"Covenant Health Care (Saginaw, MI)",0,,,9,,2015-09-22,1,2015-09-24,2
+4790205,inpatient_encounters,2,82,,0,,,3,,2015-09-24,1,2015-09-24,2
+4791818,,,,,,,,,,,,,
+4791818,inpatient_encounters,1,1,,0,,,9,,2014-12-03,1,2014-12-13,1
+4791818,inpatient_encounters,2,,,-8,,,999,"BACTERIAL PNEUMONIA NOS",2015-01-22,1,2015-01-29,1
+4792237,,,,,,,,,,,,,
+4793692,,,,,,,,,,,,,
+4793692,inpatient_encounters,1,999,"Mt Sinai",0,,,9,,2014-10-24,1,2014-11-04,1
+4793692,inpatient_encounters,2,213,,0,,,9,,2015-07-07,1,2015-07-09,2
+4793692,inpatient_encounters,3,213,,0,,,9,,2015-11-13,1,2015-11-18,2
+4793692,inpatient_encounters,4,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2016-06-27,1,2016-07-08,1
+4793692,inpatient_encounters,5,213,,0,,,9,,2017-08-07,1,2017-08-10,2
+4794680,,,,,,,,,,,,,
+4794680,inpatient_encounters,1,999,"Eastern Maine Medical Center",0,,,9,,2016-03-29,1,2016-04-02,2
+4794680,inpatient_encounters,2,999,"Eastern Maine Medical Center",0,,,999,"fatigue, abnormal labs",2016-04-07,1,2016-04-13,2
+4794680,inpatient_encounters,3,1,,,T82.898A,"Other specified complication of vascular prostheti",,,2016-09-03,1,2016-09-04,1
+4796882,,,,,,,,,,,,,
+4796882,inpatient_encounters,1,1,,,465.9,"ACUTE URI NOS",,,2015-05-11,1,2015-05-13,1
+4796882,inpatient_encounters,2,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-06-07,1,2015-06-18,1
+4796882,inpatient_encounters,3,1,,,R50.9,"Fever, unspecified",,,2015-11-04,1,2015-11-06,1
+4796882,inpatient_encounters,4,1,,,R50.9,"Fever, unspecified",,,2015-11-15,1,2015-11-17,1
+4796882,inpatient_encounters,5,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2015-11-20,1,2015-11-22,1
+4796882,inpatient_encounters,6,1,,,K92.2,"Gastrointestinal hemorrhage, unspecified",,,2015-11-30,1,2015-12-06,1
+4796882,inpatient_encounters,7,1,,,R50.9,"Fever, unspecified",,,2016-04-19,1,2016-04-22,1
+4796882,inpatient_encounters,8,1,,,K92.1,Melena,,,2016-04-23,1,2016-04-28,1
+4796882,inpatient_encounters,9,1,,,K92.1,Melena,,,2016-04-29,1,2016-05-02,1
+4796882,inpatient_encounters,10,1,,,R50.9,"Fever, unspecified",,,2016-06-21,1,2016-06-24,1
+4796882,inpatient_encounters,11,1,,,R50.9,"Fever, unspecified",,,2016-06-25,1,2016-06-27,1
+4796882,inpatient_encounters,12,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2016-09-11,1,2016-10-26,1
+4816351,,,,,,,,,,,,,
+4816351,inpatient_encounters,1,1,,,38.49,"OTH GRAM-NEG SEPTICEMIA",,,2015-08-18,1,2015-09-03,1
+4816351,inpatient_encounters,2,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2015-09-15,1,2015-10-01,1
+4816351,inpatient_encounters,3,1,,,T82.868A,"Thrombosis of vascular prosthetic devices, implant",,,2015-10-26,1,2015-10-28,1
+4816351,inpatient_encounters,4,1,,,R62.51,"Failure to thrive (child)",,,2016-01-04,1,2016-01-11,1
+4816351,inpatient_encounters,5,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2016-01-18,1,2016-03-06,1
+4816351,inpatient_encounters,6,1,,,K94.22,"Gastrostomy infection",,,2016-03-15,1,2016-03-23,1
+4816351,inpatient_encounters,7,1,,,E86.0,Dehydration,,,2016-04-09,1,2016-04-13,1
+4816351,inpatient_encounters,8,1,,,A08.11,"Acute gastroenteropathy due to Norwalk agent",,,2016-04-15,1,2016-04-26,1
+4816351,inpatient_encounters,9,1,,,E86.0,Dehydration,,,2016-04-29,1,2016-05-04,1
+4816547,,,,,,,,,,,,,
+4816547,inpatient_encounters,1,1,,,578.9,"GASTROINTEST HEMORR NOS",,,2015-06-17,1,2015-07-14,1
+4816547,inpatient_encounters,2,1,,,38.9,"SEPTICEMIA NOS",,,2015-07-22,1,2015-08-06,1
+4816547,inpatient_encounters,3,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-09-18,1,2015-09-25,1
+4816547,inpatient_encounters,4,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2015-12-10,1,2015-12-18,1
+4816547,inpatient_encounters,5,1,,,K55.1,"Chronic vascular disorders of intestine",,,2016-01-26,1,2016-02-29,1
+4826624,,,,,,,,,,,,,
+4826624,inpatient_encounters,1,1,,,R50.9,"Fever, unspecified",,,2016-03-13,1,2016-03-15,1
+4826998,,,,,,,,,,,,,
+4826998,inpatient_encounters,1,14,,0,,,9,,2015-04-07,1,2015-04-24,2
+4826998,inpatient_encounters,2,14,,0,,,9,,2017-02-06,1,2017-02-08,2
+4826998,inpatient_encounters,3,1,,,K56.60,"Unspecified intestinal obstruction",,,2017-03-30,1,2017-04-02,1
+4834902,,,,,,,,,,,,,
+4834902,inpatient_encounters,1,14,,0,,,4,,2015-08-06,1,2015-08-24,2
+4834902,inpatient_encounters,2,14,,0,,,9,,2015-10-21,1,2015-10-27,2
+4834902,inpatient_encounters,3,14,,0,,,9,,2015-11-17,1,2015-11-25,2
+4834902,inpatient_encounters,4,14,,0,,,9,,2015-12-05,0,,2
+4838949,,,,,,,,,,,,,
+4838949,inpatient_encounters,1,1,,,R63.3,"Feeding difficulties",,,2016-04-13,1,2016-04-16,1
+4838949,inpatient_encounters,2,1,,,R63.3,"Feeding difficulties",,,2016-05-13,1,2016-05-15,1
+4841176,,,,,,,,,,,,,
+4848671,,,,,,,,,,,,,
+4848671,inpatient_encounters,1,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2015-11-15,1,2015-11-17,1
+4848671,inpatient_encounters,2,9,,0,,,9,,2016-09-11,1,2016-09-13,0
+4848671,inpatient_encounters,3,9,,0,,,9,,2017-01-19,1,2017-01-21,2
+4850226,,,,,,,,,,,,,
+4850226,inpatient_encounters,1,1,,,J96.11,"Chronic respiratory failure with hypoxia",,,2016-05-27,1,2016-05-29,1
+4850226,inpatient_encounters,2,1,,,G47.33,"Obstructive sleep apnea (adult) (pediatric)",,,2016-07-17,1,2016-07-18,1
+4850226,inpatient_encounters,3,1,,,K94.13,"Enterostomy malfunction",,,2016-10-28,1,2016-10-28,1
+4850226,inpatient_encounters,4,1,,,D72.829,"Elevated white blood cell count, unspecified",,,2016-11-09,1,2016-11-12,1
+4850226,inpatient_encounters,5,1,,,R50.9,"Fever, unspecified",,,2016-12-06,1,2016-12-09,1
+4850226,inpatient_encounters,6,1,,,N20.0,"Calculus of kidney",,,2017-01-31,1,2017-02-01,1
+4850226,inpatient_encounters,7,1,,,K94.20,"Gastrostomy complication, unspecified",,,2017-07-31,1,2017-08-01,1
+4850226,inpatient_encounters,8,1,,,T82.858A,"Stenosis of other vascular prosthetic devices, imp",,,2017-08-01,1,2017-08-06,1
+4858091,,,,,,,,,,,,,
+4858091,inpatient_encounters,1,1,,,Q41.8,"Congenital absence, atresia and stenosis of other",,,2017-09-14,1,2017-09-29,1
+4859392,,,,,,,,,,,,,
+4859392,inpatient_encounters,1,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2016-05-25,1,2016-06-06,1
+4859392,inpatient_encounters,2,1,,,R62.51,"Failure to thrive (child)",,,2016-06-10,1,2016-07-18,1
+4859392,inpatient_encounters,3,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2016-12-03,1,2016-12-05,1
+4859392,inpatient_encounters,4,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2016-12-11,1,2016-12-12,1
+4862326,,,,,,,,,,,,,
+4862326,inpatient_encounters,1,195,,0,,,9,,2015-07-19,1,2015-07-23,2
+4862326,inpatient_encounters,2,195,,0,,,9,,2015-07-24,1,2015-07-28,2
+4862326,inpatient_encounters,3,195,,0,,,9,,2016-11-23,1,2016-11-25,2
+4862326,inpatient_encounters,4,195,,0,,,9,,2017-02-16,1,2017-02-18,2
+4862326,inpatient_encounters,5,195,,0,,,999,"altered mental status",2017-07-27,1,2017-07-29,2
+4864238,,,,,,,,,,,,,
+4864238,inpatient_encounters,1,1,,,999.32,"BLOOD INF DT CEN VEN CTH",,,2015-09-21,1,2015-09-29,1
+4864238,inpatient_encounters,2,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2015-11-09,1,2015-11-12,1
+4864238,inpatient_encounters,3,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-01-17,1,2016-01-26,1
+4864238,inpatient_encounters,4,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-03-11,1,2016-03-17,1
+4864238,inpatient_encounters,5,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-06-24,1,2016-07-10,1
+4864238,inpatient_encounters,6,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2016-11-08,1,2016-11-29,1
+4864238,inpatient_encounters,7,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2016-12-14,1,2016-12-19,1
+4864238,inpatient_encounters,8,1,,,T80.211D,"Bloodstream infection due to central venous cathet",,,2017-10-09,1,2017-10-14,1
+4868969,,,,,,,,,,,,,
+4868969,inpatient_encounters,1,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2015-11-09,1,2015-11-11,1
+4868969,inpatient_encounters,2,1,,,A08.39,"Other viral enteritis",,,2016-05-23,1,2016-05-25,1
+4868969,inpatient_encounters,3,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2016-08-28,1,2016-08-30,1
+4868969,inpatient_encounters,4,1,,,R50.9,"Fever, unspecified",,,2016-12-08,1,2016-12-10,1
+4868969,inpatient_encounters,5,1,,,R50.9,"Fever, unspecified",,,2017-01-05,1,2017-01-07,1
+4868969,inpatient_encounters,6,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-03-19,1,2017-03-24,1
+4868969,inpatient_encounters,7,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-11-10,1,2017-11-12,1
+4871820,,,,,,,,,,,,,
+4871820,inpatient_encounters,1,81,,0,,,3,,2015-07-20,1,2015-07-21,2
+4871820,inpatient_encounters,2,1,,0,285.9,"ANEMIA NOS",999,anemia,2015-08-20,1,2015-08-22,2
+4871820,inpatient_encounters,3,81,,0,,,7,,2016-02-22,1,2016-02-25,2
+4871820,inpatient_encounters,4,81,,0,,,9,,2016-04-02,1,2016-04-10,2
+4871820,inpatient_encounters,5,81,,0,,,9,,2016-08-14,1,2016-08-20,2
+4871820,inpatient_encounters,6,81,,0,,,14,,2016-08-31,1,2016-09-11,2
+4871820,inpatient_encounters,7,237,,0,,,9,,2016-12-09,1,2016-12-15,2
+4871820,inpatient_encounters,8,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-07-27,1,2017-08-23,1
+4873598,,,,,,,,,,,,,
+4873598,inpatient_encounters,1,1,,,575,"ACUTE CHOLECYSTITIS",,,2015-09-16,1,2015-09-26,1
+4873598,inpatient_encounters,2,1,,,K56.2,Volvulus,,,2015-11-05,1,2015-11-25,1
+4873598,inpatient_encounters,3,25,,0,,,9,,2015-12-19,1,2015-12-21,2
+4873598,inpatient_encounters,4,117,,0,,,9,,2016-05-21,1,2016-05-26,2
+4873598,inpatient_encounters,5,117,,0,,,7,,2016-09-22,1,2016-09-23,2
+4873598,inpatient_encounters,6,117,,0,,,19,,2017-02-17,1,2017-02-20,2
+4873598,inpatient_encounters,7,117,,0,,,9,,2017-03-07,1,2017-03-09,2
+4873598,inpatient_encounters,8,117,,0,,,6,,2017-03-14,1,2017-03-22,2
+4873598,inpatient_encounters,9,1,,,R62.51,"Failure to thrive (child)",,,2017-04-03,1,2017-04-07,1
+4873598,inpatient_encounters,10,117,,0,,,9,,2017-04-14,1,2017-04-16,2
+4873723,,,,,,,,,,,,,
+4873723,inpatient_encounters,1,182,,0,,,9,,2015-08-07,1,2015-08-13,2
+4873723,inpatient_encounters,2,182,,0,,,1,,2015-08-23,1,2015-08-26,2
+4873723,inpatient_encounters,3,1,,,577.1,"CHRONIC PANCREATITIS",,,2015-09-10,1,2015-09-26,1
+4873769,,,,,,,,,,,,,
+4873769,inpatient_encounters,1,1,,,B34.9,"Viral infection, unspecified",,,2015-11-30,1,2015-12-02,1
+4873769,inpatient_encounters,2,1,,,N10,"Acute tubulo-interstitial nephritis",,,2015-12-08,1,2015-12-12,1
+4873769,inpatient_encounters,3,1,,,R50.9,"Fever, unspecified",,,2016-01-05,1,2016-01-07,1
+4873769,inpatient_encounters,4,1,,,R50.9,"Fever, unspecified",,,2016-01-15,1,2016-01-19,1
+4873769,inpatient_encounters,5,1,,,L76.21,"Postprocedural hemorrhage and hematoma of skin and",,,2016-04-10,1,2016-04-14,1
+4873769,inpatient_encounters,6,1,,,K74.0,"Hepatic fibrosis",,,2016-04-20,1,2016-04-22,1
+4873769,inpatient_encounters,7,1,,,K85.9,"Acute pancreatitis, unspecified",,,2016-07-02,1,2016-07-14,1
+4873769,inpatient_encounters,8,1,,,E87.6,Hypokalemia,,,2016-08-15,1,2016-08-17,1
+4873769,inpatient_encounters,9,1,,,R50.9,"Fever, unspecified",,,2017-01-01,1,2017-01-03,1
+4873769,inpatient_encounters,10,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2017-05-15,1,2017-05-17,1
+4877831,,,,,,,,,,,,,
+4877831,inpatient_encounters,1,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2015-10-15,1,2015-10-16,1
+4877831,inpatient_encounters,2,1,,,Z43.4,"Encounter for attention to other artificial openin",,,2015-11-15,1,2015-11-25,1
+4877831,inpatient_encounters,3,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2016-02-03,1,2016-02-05,1
+4877831,inpatient_encounters,4,54,,0,,,9,,2016-02-17,1,2016-02-19,2
+4877886,,,,,,,,,,,,,
+4877886,inpatient_encounters,1,1,,,N39.0,"Urinary tract infection, site not specified",,,2016-04-10,1,2016-04-19,1
+4877886,inpatient_encounters,2,1,,,N39.0,"Urinary tract infection, site not specified",,,2016-05-09,1,2016-05-23,1
+4877886,inpatient_encounters,3,1,,,Q43.8,"Other specified congenital malformations of intest",,,2016-06-30,1,2016-07-01,1
+4877886,inpatient_encounters,4,1,,,N39.0,"Urinary tract infection, site not specified",,,2016-08-01,1,2016-08-08,1
+4877886,inpatient_encounters,5,1,,,N39.0,"Urinary tract infection, site not specified",,,2016-09-28,1,2016-10-03,1
+4877886,inpatient_encounters,6,1,,,N39.0,"Urinary tract infection, site not specified",,,2016-10-22,1,2016-10-29,1
+4877886,inpatient_encounters,7,1,,,R50.9,"Fever, unspecified",,,2016-12-21,1,2016-12-23,1
+4877886,inpatient_encounters,8,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-01-13,1,2017-01-20,1
+4877886,inpatient_encounters,9,1,,,N39.0,"Urinary tract infection, site not specified",,,2017-03-08,1,2017-03-10,1
+4877886,inpatient_encounters,10,1,,,N39.0,"Urinary tract infection, site not specified",,,2017-05-07,1,2017-05-09,1
+4877886,inpatient_encounters,11,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-06-08,1,2017-06-30,1
+4877886,inpatient_encounters,12,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-08-09,1,2017-08-14,1
+4877886,inpatient_encounters,13,1,,,R50.9,"Fever, unspecified",,,2017-08-29,1,2017-09-03,1
+4889465,,,,,,,,,,,,,
+4898219,,,,,,,,,,,,,
+4910776,,,,,,,,,,,,,
+4910776,inpatient_encounters,1,1,,,R19.7,"Diarrhea, unspecified",,,2016-11-08,1,2016-11-11,1
+4910776,inpatient_encounters,2,1,,,K86.2,"Cyst of pancreas",,,2016-11-20,1,2016-11-22,1
+4910776,inpatient_encounters,3,1,,,R50.9,"Fever, unspecified",,,2016-11-25,1,2016-12-05,1
+4910776,inpatient_encounters,4,1,,,K86.1,"Other chronic pancreatitis",,,2016-12-30,1,2017-01-06,1
+4910776,inpatient_encounters,5,1,,,K85.90,"Acute pancreatitis without necrosis or infection,",,,2017-09-26,1,2017-10-06,1
+4912540,,,,,,,,,,,,,
+4912540,inpatient_encounters,1,6,,0,,,9,,2015-12-20,1,2015-12-28,2
+4912540,inpatient_encounters,2,6,,0,,,9,,2016-05-07,1,2016-05-09,2
+4912540,inpatient_encounters,3,6,,0,,,9,,2016-10-13,1,2016-10-16,2
+4912540,inpatient_encounters,4,6,,0,,,9,,2016-10-14,1,2016-10-15,2
+4912540,inpatient_encounters,5,6,,1,,,999,"SMOF initiation",2017-03-15,1,2017-03-16,2
+4912540,inpatient_encounters,6,6,,0,,,9,,2017-10-24,1,2017-10-26,2
+4913796,,,,,,,,,,,,,
+4913796,inpatient_encounters,1,1,,,B34.9,"Viral infection, unspecified",,,2016-08-27,1,2016-10-06,1
+4913796,inpatient_encounters,2,1,,,J96.20,"Acute and chronic respiratory failure, unspecified",,,2016-10-13,1,2016-12-06,1
+4913796,inpatient_encounters,3,1,,,J96.11,"Chronic respiratory failure with hypoxia",,,2016-12-08,1,2017-01-31,1
+4913796,inpatient_encounters,4,1,,,G40.909,"Epilepsy, unspecified, not intractable, without st",,,2017-02-04,1,2017-02-06,1
+4913796,inpatient_encounters,5,1,,,J95.03,"Malfunction of tracheostomy stoma",,,2017-02-07,1,2017-02-20,1
+4913796,inpatient_encounters,6,1,,,K85.90,"Acute pancreatitis without necrosis or infection,",,,2017-02-25,1,2017-03-03,1
+4913796,inpatient_encounters,7,1,,,K92.1,Melena,,,2017-03-06,1,2017-03-19,1
+4913796,inpatient_encounters,8,1,,,K59.8,"Other specified functional intestinal disorders",,,2017-03-20,1,2017-04-26,1
+4913796,inpatient_encounters,9,1,,,K63.89,"Other specified diseases of intestine",,,2017-04-28,1,2017-05-23,1
+4913796,inpatient_encounters,10,1,,,K92.1,Melena,,,2017-06-03,1,2017-06-07,1
+4913796,inpatient_encounters,11,1,,,K92.2,"Gastrointestinal hemorrhage, unspecified",,,2017-06-12,1,2017-06-15,1
+4913796,inpatient_encounters,12,1,,,R00.1,"Bradycardia, unspecified",,,2017-06-18,1,2017-06-23,1
+4913796,inpatient_encounters,13,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-06-29,1,2017-08-30,1
+4914556,,,,,,,,,,,,,
+4914556,inpatient_encounters,1,124,,0,,,10,,2016-03-30,1,2016-04-01,2
+4914556,inpatient_encounters,2,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2016-05-16,1,2016-05-19,1
+4943885,,,,,,,,,,,,,
+4943885,inpatient_encounters,1,189,,0,,,999,"Feeding tube problem",2016-09-28,1,2016-10-02,2
+4943885,inpatient_encounters,2,1,,,K94.29,"Other complications of gastrostomy",,,2016-10-02,1,2016-10-04,1
+4943885,inpatient_encounters,3,188,,0,,,9,,2016-12-16,1,2016-12-17,2
+4944953,,,,,,,,,,,,,
+4944953,inpatient_encounters,1,1,,,B34.9,"Viral infection, unspecified",,,2017-02-12,1,2017-02-18,1
+4944953,inpatient_encounters,2,1,,,B34.9,"Viral infection, unspecified",,,2017-03-29,1,2017-04-01,1
+4944953,inpatient_encounters,3,1,,,J21.9,"Acute bronchiolitis, unspecified",,,2017-05-02,1,2017-05-05,1
+4944953,inpatient_encounters,4,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2017-06-26,1,2017-06-29,1
+4944953,inpatient_encounters,5,1,,,R50.9,"Fever, unspecified",,,2017-08-28,1,2017-09-01,1
+4944953,inpatient_encounters,6,1,,,R62.51,"Failure to thrive (child)",,,2017-10-05,1,2017-10-18,1
+4944953,inpatient_encounters,7,1,,,J18.9,"Pneumonia, unspecified organism",,,2017-11-15,1,2017-11-24,1
+4958377,,,,,,,,,,,,,
+4958377,inpatient_encounters,1,1,,,T82.528A,"Displacement of other cardiac and vascular devices",,,2016-09-22,1,2016-09-23,1
+4958377,inpatient_encounters,2,1,,,K52.9,"Noninfective gastroenteritis and colitis, unspecif",,,2016-10-09,1,2016-10-13,1
+4958377,inpatient_encounters,3,1,,,D72.1,Eosinophilia,,,2016-10-21,1,2016-11-01,1
+4958377,inpatient_encounters,4,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2017-04-08,1,2017-04-10,1
+4958377,inpatient_encounters,5,1,,,R50.9,"Fever, unspecified",,,2017-05-10,1,2017-05-12,1
+4967138,,,,,,,,,,,,,
+4967138,inpatient_encounters,1,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2016-09-04,1,2016-09-09,1
+4967138,inpatient_encounters,2,1,,,K52.9,"Noninfective gastroenteritis and colitis, unspecif",,,2016-09-19,1,2016-09-21,1
+4967138,inpatient_encounters,3,1,,,R50.9,"Fever, unspecified",,,2016-09-30,1,2016-10-01,1
+4967138,inpatient_encounters,4,1,,,N39.0,"Urinary tract infection, site not specified",,,2016-10-27,1,2016-11-01,1
+4967138,inpatient_encounters,5,1,,,K94.03,"Colostomy malfunction",,,2017-03-20,1,2017-04-06,1
+4967138,inpatient_encounters,6,1,,,N39.0,"Urinary tract infection, site not specified",,,2017-05-11,1,2017-05-14,1
+4967138,inpatient_encounters,7,1,,,E86.0,Dehydration,,,2017-05-17,1,2017-05-18,1
+4967138,inpatient_encounters,8,1,,,K80.20,"Calculus of gallbladder without cholecystitis with",,,2017-05-19,1,2017-05-22,1
+4967138,inpatient_encounters,9,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-06-07,1,2017-06-12,1
+4967138,inpatient_encounters,10,1,,,N39.0,"Urinary tract infection, site not specified",,,2017-07-06,1,2017-07-08,1
+4967138,inpatient_encounters,11,1,,,R50.9,"Fever, unspecified",,,2017-08-07,1,2017-08-09,1
+4970900,,,,,,,,,,,,,
+4970900,inpatient_encounters,1,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-06-08,1,2017-06-15,1
+4974943,,,,,,,,,,,,,
+4974943,inpatient_encounters,1,1,,,T82.514A,"Breakdown (mechanical) of infusion catheter, initi",,,2016-11-16,1,2016-12-15,1
+4974943,inpatient_encounters,2,1,,,J06.9,"Acute upper respiratory infection, unspecified",,,2017-02-14,1,2017-02-16,1
+4980827,,,,,,,,,,,,,
+4980827,inpatient_encounters,1,1,,,A41.01,"Sepsis due to Methicillin susceptible Staphylococc",,,2016-07-28,1,2016-08-02,1
+4980827,inpatient_encounters,2,1,,,Q41.1,"Congenital absence, atresia and stenosis of jejunu",,,2016-08-21,1,2016-09-02,1
+5004112,,,,,,,,,,,,,
+5004112,inpatient_encounters,1,9,,0,,,9,,2017-07-29,1,2017-08-01,2
+5004112,inpatient_encounters,2,9,,0,,,9,,2017-11-01,1,2017-11-03,2
+5005723,,,,,,,,,,,,,
+5005723,inpatient_encounters,1,999,"Anne Arundel Medical Center",0,,,9,,2017-05-20,1,2017-05-21,2
+5005723,inpatient_encounters,2,1,,,Q40.0,"Congenital hypertrophic pyloric stenosis",,,2017-10-04,1,2017-10-16,1
+5009459,,,,,,,,,,,,,
+5009459,inpatient_encounters,1,1,,,K94.19,"Other complications of enterostomy",,,2017-01-19,1,2017-01-24,1
+5009459,inpatient_encounters,2,1,,,E86.0,Dehydration,,,2017-05-18,1,2017-05-31,1
+5009459,inpatient_encounters,3,999,"Oklahoma University Medical Center",0,,,9,,2017-08-02,1,2017-08-03,2
+5017730,,,,,,,,,,,,,
+5017730,inpatient_encounters,1,1,,,R50.9,"Fever, unspecified",,,2017-05-30,1,2017-06-01,1
+5017730,inpatient_encounters,2,1,,,R50.9,"Fever, unspecified",,,2017-08-13,1,2017-08-16,1
+5017730,inpatient_encounters,3,1,,,D61.818,"Other pancytopenia",,,2017-09-04,1,2017-09-12,1
+5017730,inpatient_encounters,4,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-09-26,1,2017-10-06,1
+5017730,inpatient_encounters,5,1,,,Z94.1,"Heart transplant status",,,2017-10-25,1,2017-10-26,1
+5017730,inpatient_encounters,6,1,,,R50.9,"Fever, unspecified",,,2017-10-29,1,2017-10-31,1
+5017730,inpatient_encounters,7,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-11-17,1,2017-11-30,1
+5023780,,,,,,,,,,,,,
+5023780,inpatient_encounters,1,100,,0,,,9,,2017-06-25,1,2017-07-06,2
+5023780,inpatient_encounters,2,100,,0,,,9,,2017-08-01,1,2017-08-03,2
+5023780,inpatient_encounters,3,100,,0,,,9,,2017-12-02,1,2017-12-04,2
+5027366,,,,,,,,,,,,,
+5027366,inpatient_encounters,1,188,,0,,,19,,2017-06-24,1,2017-06-25,2
+5027366,inpatient_encounters,2,188,,0,,,9,,2017-08-23,1,2017-08-30,2
+5027366,inpatient_encounters,3,188,,0,,,9,,2017-09-08,1,2017-09-10,2
+5027366,inpatient_encounters,4,1,,,K92.2,"Gastrointestinal hemorrhage, unspecified",,,2017-10-19,1,2017-10-21,1
+5028834,,,,,,,,,,,,,
+5028834,inpatient_encounters,1,999,"Good Samaritan Hospital, West Islip, NY",0,,,9,,2017-03-14,1,2017-03-16,2
+5028834,inpatient_encounters,2,999,"Good Samaritan Hospital, West Islip, NY",0,,,9,,2017-04-14,1,2017-04-15,2
+5028834,inpatient_encounters,3,999,"Good Samaritan Hospital, West Islip, NY",0,,,999,"Acute life threatening event",2017-04-20,1,2017-05-18,2
+5028834,inpatient_encounters,4,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-04-28,1,2017-05-08,1
+5028834,inpatient_encounters,5,1,,,K72.90,"Hepatic failure, unspecified without coma",,,2017-05-18,1,2017-06-06,1
+5028834,inpatient_encounters,6,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-06-12,1,2017-06-16,1
+5028834,inpatient_encounters,7,999,"Good Samaritan Medical Center, West Islip, NY",0,,,9,,2017-06-17,1,2017-06-19,2
+5028834,inpatient_encounters,8,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-07-03,0,,1
+5030538,,,,,,,,,,,,,
+5030538,inpatient_encounters,1,1,,,D72.829,"Elevated white blood cell count, unspecified",,,2016-12-28,1,2016-12-29,1
+5030538,inpatient_encounters,2,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-06-07,1,2017-06-15,1
+5030538,inpatient_encounters,3,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-11-08,1,2017-11-22,1
+5037750,,,,,,,,,,,,,
+5037750,inpatient_encounters,1,1,,,K94.22,"Gastrostomy infection",,,2017-07-17,1,2017-07-21,1
+5037750,inpatient_encounters,2,1,,,T80.211A,"Bloodstream infection due to central venous cathet",,,2017-09-07,1,2017-09-15,1
+5037750,inpatient_encounters,3,1,,,T82.599A,"Other mechanical complication of unspecified cardi",,,2017-11-17,1,2017-11-18,1
+5039349,,,,,,,,,,,,,
+5039349,inpatient_encounters,1,1,,,K91.2,"Postsurgical malabsorption, not elsewhere classifi",,,2017-04-25,1,2017-05-04,1
+5053541,,,,,,,,,,,,,
+5053541,inpatient_encounters,1,1,,,K94.12,"Enterostomy infection",,,2017-09-18,1,2017-10-12,1
+5053811,,,,,,,,,,,,,
+5053811,inpatient_encounters,1,182,,0,,,19,,2017-08-12,1,2017-08-18,2
+5053811,inpatient_encounters,2,182,,0,,,9,,2017-08-18,1,2017-08-21,2
+5054681,,,,,,,,,,,,,
+5064821,,,,,,,,,,,,,
+5069773,,,,,,,,,,,,,
+5069773,inpatient_encounters,1,51,,0,,,9,,2017-08-29,1,2017-09-01,2
+5069773,inpatient_encounters,2,51,,0,,,9,,2017-09-14,1,2017-09-18,2
+5069773,inpatient_encounters,3,1,,,E83.52,Hypercalcemia,,,2017-09-29,1,2017-10-04,1
+5071706,,,,,,,,,,,,,
+5093703,,,,,,,,,,,,,
+5093703,inpatient_encounters,1,205,,0,,,9,,2017-10-08,1,2017-10-14,2
+5093703,inpatient_encounters,2,91,,0,,,999,hypoglycemia,2017-12-17,1,2017-12-18,2
+5098399,,,,,,,,,,,,,
+5105386,,,,,,,,,,,,,
+5108201,,,,,,,,,,,,,
+5108201,inpatient_encounters,1,1,,,K55.1,"Chronic vascular disorders of intestine",,,2017-10-22,1,2017-11-02,1
+5108201,inpatient_encounters,2,54,,0,,,9,,2017-11-30,1,2017-12-01,2
+5118732,,,,,,,,,,,,,
+5118750,,,,,,,,,,,,,

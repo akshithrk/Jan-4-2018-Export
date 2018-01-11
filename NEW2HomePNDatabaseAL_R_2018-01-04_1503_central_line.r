@@ -5,7 +5,8 @@ graphics.off()
 library(Hmisc)
 library(dplyr)
 #Read Data
-data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-04_1503_central_line.csv')
+# data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-04_1503_central_line.csv')
+data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-11_1030_central_line.csv')
 #Setting Labels
 
 label(data$mrn)="BCH Medical Record Number"

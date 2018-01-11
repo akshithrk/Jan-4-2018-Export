@@ -248,4 +248,3 @@ data$hosp_dischargedt <- as.Date(data$hosp_dischargedt)
 inpatients.df <- data
 rm(data)
 
-

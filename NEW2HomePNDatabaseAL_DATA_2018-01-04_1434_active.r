@@ -9,8 +9,8 @@ library(dplyr)
 
 #Read Data
 
-# data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-04_1434_active.csv')
-data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-11_1029_active.csv')
+data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-04_1434_active.csv')
+# data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-11_1029_active.csv')
 
 #Setting Labels
 

@@ -4,8 +4,9 @@ graphics.off()
 #Load Hmisc library
 library(Hmisc)
 #Read Data
-data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-04_1541_growth.csv')
+# data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-04_1541_growth.csv')
 # data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-11_1032_growth.csv')
+data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-15_1421_growth_data.csv')
 #Setting Labels
 
 label(data$mrn)="BCH Medical Record Number"
@@ -30,7 +31,7 @@ levels(data$growth_inpt_outpt.factor)=c("Inpatient","Outpatient")
 levels(data$growth_data_complete.factor)=c("Incomplete","Unverified","Complete")
 
 data <- filter(data, data$redcap_repeat_instrument!="")
-data$growth_date <- as.Date(data$growth_date)
+data$growth_date <- as.Date(data$growth_date, format = "%m/%d/%Y" )
 
 
 growth.df <- data

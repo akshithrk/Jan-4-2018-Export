@@ -5,8 +5,9 @@ graphics.off()
 library(Hmisc)
 library(dplyr)
 #Read Data
-data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-04_1844_inpatients.csv')
+# data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-04_1844_inpatients.csv')
 # data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-11_1031_inpatients.csv')
+data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-15_1419_inpatient_encounters.csv')
 
 #Setting Labels
 
@@ -241,7 +242,7 @@ levels(data$inpatient_encounters_complete.factor)=c("Incomplete","Unverified","C
 data <- filter(data, redcap_repeat_instrument!="")
 
 # Set date variables to class Date
-data$hosp_admitdt <- as.Date(data$hosp_admitdt)
+data$hosp_admitdt <- as.Date(data$hosp_admitdt, format = "%m/%d/%Y" )
 data[data$hosp_dischargedt=="", "hosp_dischargedt"] <- NA #Make empty strings NA so as.Date() isn't confused
 data$hosp_dischargedt <- as.Date(data$hosp_dischargedt)
 

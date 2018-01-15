@@ -5,8 +5,9 @@ graphics.off()
 library(Hmisc)
 library(dplyr)
 #Read Data
-data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-04_1522_blood_infections.csv')
+# data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-04_1522_blood_infections.csv')
 # data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-11_1031_blood_infections.csv')
+data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-15_1419_bloodstream_infections.csv')
 #Setting Labels
 
 label(data$mrn)="BCH Medical Record Number"
@@ -129,7 +130,7 @@ levels(data$bloodstream_infections_complete.factor)=c("Incomplete","Unverified",
 data <- filter(data, redcap_repeat_instrument!="")
 
 # Set date variable to class Date
-data$bcx_date <- as.Date(data$bcx_date)
+data$bcx_date <- as.Date(data$bcx_date, format = "%m/%d/%Y" )
 
 blood_infections.df <- data
 rm(data)

@@ -5,8 +5,9 @@ graphics.off()
 library(Hmisc)
 library(dplyr)
 #Read Data
-data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-04_1503_central_line.csv')
+# data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-04_1503_central_line.csv')
 # data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-11_1030_central_line.csv')
+data=read.csv('NEW2HomePNDatabaseAL_DATA_2018-01-15_1419_central_line.csv')
 #Setting Labels
 
 label(data$mrn)="BCH Medical Record Number"
@@ -470,8 +471,10 @@ data <- filter(data, redcap_repeat_instrument!="")
 
 # Set date variables to class Date
 data$insert_date <- as.Date(data$insert_date)
-data[data$remove_date =="", "remove_date"] <- NA #Make empty strings NA so as.Date() isn't confused
-data$remove_date <- as.Date(data$remove_date)
+
+# commenting the following two lines as the function isnt working fine when it encounters a NA value
+# data[data$remove_date =="", "remove_date"] <- NA #Make empty strings NA so as.Date() isn't confused
+# data$remove_date <- as.Date(data$remove_date)
 
 central_line.df <- data
 rm(data)

@@ -72,11 +72,13 @@ make_patient_daily_dataframe<- function(targetmrn) {
         if (length(this.dat2$mrn)>0)
                 for(cvcinsert in this.dat2$insert_date){
                         n <- length(this.dat2[this.dat2$insert_date==cvcinsert,'remove'] == 1)
+                        # browser()
                         if (n > 1) {
                                 warning(paste("OMITTING mrn",targetmrn, "because found", n, "records for same line insert date:",
                                               as.Date(cvcinsert,"1970-01-01") ))
                                 return( NULL )
-                        }  else if (this.dat2[this.dat2$insert_date==cvcinsert,'remove'] == 1) {
+                        # }  else if (this.dat2[this.dat2$insert_date==cvcinsert,'remove'] == 1) {
+                        }  else if (n == 1) {
                        
                                 cvcremove <- this.dat2[this.dat2$insert_date==cvcinsert,"remove_date"]
 
@@ -179,7 +181,7 @@ make_all_patients_daily_dataframe()
 # all_patients_daily.df[all_patients_daily.df$liver==1] #data frame with 0 columns and 4371874 rows
 # all_patients_daily.df[all_patients_daily.df$liver==1, ] #<0 rows>
 
-write.csv(all_patients_daily.df,"PNdaily.csv")
+write.csv(all_patients_daily.df,"PNdaily3.csv")
 # write.csv(all_patients_daily.df,"active_2.2.csv")
 # write.csv(liver.df,"liver.csv") -- writing out liver.csv to be uploaded into mstr
 

@@ -36,3 +36,4 @@ data$outpt_date <- as.Date(data$outpt_date)
 outpatients.df <- data
 
 rm(data)
+# write.csv(outpatients.df,"outpatients.csv")

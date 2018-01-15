@@ -133,4 +133,4 @@ data$bcx_date <- as.Date(data$bcx_date)
 
 blood_infections.df <- data
 rm(data)
-
+# write.csv(blood_infections.df,"blood_infections.csv")

@@ -177,3 +177,4 @@ data$dob <- as.Date(data$dob)
 
 demog.df <- data
 rm(data)
+# write.csv(demog.df,"demogs.csv")

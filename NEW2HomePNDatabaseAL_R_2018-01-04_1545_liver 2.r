@@ -77,4 +77,4 @@ data <- filter(data, data$redcap_repeat_instrument!="")
 data$liver_date <- as.Date(data$liver_date)
 liver.df <- data
 rm(data)
-
+# write.csv(liver.df,"liver2.csv")

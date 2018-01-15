@@ -1,5 +1,6 @@
 # targetmrn <- 352
 # rm(targetmrn)
+# rm(this.dat7)
 make_patient_daily_dataframe<- function(targetmrn) {
 
         # this.dat1 <- active.dat[active.dat$active_mrn==targetmrn,]

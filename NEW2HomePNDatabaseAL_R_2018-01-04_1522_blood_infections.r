@@ -132,6 +132,7 @@ data <- filter(data, redcap_repeat_instrument!="")
 # Set date variable to class Date
 data$bcx_date <- as.Date(data$bcx_date, format = "%m/%d/%Y" )
 
+
 blood_infections.df <- data
 rm(data)
 # write.csv(blood_infections.df,"blood_infections.csv")

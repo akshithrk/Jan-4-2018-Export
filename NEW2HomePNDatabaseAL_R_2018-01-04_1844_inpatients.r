@@ -244,7 +244,7 @@ data <- filter(data, redcap_repeat_instrument!="")
 # Set date variables to class Date
 data$hosp_admitdt <- as.Date(data$hosp_admitdt, format = "%m/%d/%Y" )
 data[data$hosp_dischargedt=="", "hosp_dischargedt"] <- NA #Make empty strings NA so as.Date() isn't confused
-data$hosp_dischargedt <- as.Date(data$hosp_dischargedt)
+data$hosp_dischargedt <- as.Date(data$hosp_dischargedt, format = "%m/%d/%Y" )
 
 inpatients.df <- data
 rm(data)

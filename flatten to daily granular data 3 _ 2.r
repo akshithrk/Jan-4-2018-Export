@@ -20,7 +20,7 @@ make_patient_daily_dataframe<- function(targetmrn) {
 
         # firstdate <- min(this.dat1$svc_start,this.dat2$insert_date,this.dat3$hosp_admitdt,this.dat4$bcx_date,na.rm=T) --reciprocating the above variables in this below
         firstdate <- min(this.dat1$svc_start,this.dat2$insert_date,this.dat3$hosp_admitdt,this.dat4$bcx_date,this.dat5$liver_date,na.rm=T)
-        
+
 
         if(!exists("data_export_date"))   stop( "data_export_date does not exist.") else if (is.na(data_export_date)) stop("data_export_date is NA.")
         lastdate <- data_export_date
@@ -69,55 +69,55 @@ make_patient_daily_dataframe<- function(targetmrn) {
                         patient_daily.df[patient_daily.df$caldate %in% firstdayhome[lfdh]:(min(firstdayhome[lfdh]+29,lastdate)), "newhpn"] <- 1
         }
 
-        # ## if (length(this.dat2$cvc_mrn)>0)
-        # if (length(this.dat2$mrn)>0)
-        #         for(cvcinsert in this.dat2$insert_date){
-        #                 n <- length(this.dat2[this.dat2$insert_date==cvcinsert,'remove'] == 1)
-        #                 # browser()
-        #                 if (n > 1) {
-        #                         warning(paste("OMITTING mrn",targetmrn, "because found", n, "records for same line insert date:",
-        #                                       as.Date(cvcinsert,"1970-01-01") ))
-        #                         return( NULL )
-        #                 # }  else if (this.dat2[this.dat2$insert_date==cvcinsert,'remove'] == 1) {
-        #                 }  else if (n == 1) {
-        #                
-        #                         cvcremove <- this.dat2[this.dat2$insert_date==cvcinsert,"remove_date"]
-        # 
-        #                         if (this.dat2[this.dat2$insert_date==cvcinsert, "remove_type___clabsi"]==1) patient_daily.df[patient_daily.df$caldate==cvcremove, "remclabsi"] <- 1
-        #                 } else cvcremove <- lastdate
-        #                 patient_daily.df[patient_daily.df$caldate %in% cvcinsert:cvcremove,"centline"] <- 1
-        #         }
-        # 
-        # ## if (length(this.dat3$inpt_mrn)>0)
-        # if (length(this.dat3$mrn)>0)
-        #         for(admitdate in this.dat3$hosp_admitdt){
-        #                 n <- length(this.dat3[this.dat3$hosp_admitdt==admitdate,"hosp_discharge"]==1)
-        #                 if (n > 1) {
-        #                         warning(paste("OMITTING mrn",targetmrn, "because found", n, "records for same hospital admit date:",
-        #                                       as.Date(admitdate,"1970-01-01") ))
-        #                         return( NULL )
-        #                 }
-        #                 else if (this.dat3[this.dat3$hosp_admitdt==admitdate,"hosp_discharge"]==1)
-        #                         dischargedate <- this.dat3[this.dat3$hosp_admitdt==admitdate,"hosp_dischargedt"]
-        #                 else dischargedate <- lastdate
-        #                 patient_daily.df[patient_daily.df$caldate %in% admitdate:dischargedate,"nothosp"] <- 0
-        #                 patient_daily.df[patient_daily.df$caldate==admitdate,"admit"] <- 1
-        #         }
-        # 
-        # ## if (length(this.dat4$bld_mrn)>0)
-        # if (length(this.dat4$mrn)>0)
-        #   patient_daily.df[patient_daily.df$caldate %in% this.dat4$bcx_date,"bloodinf"] <- 1
-        # 
-        # if (length(this.dat5$mrn)>0)
-        #   patient_daily.df[patient_daily.df$caldate %in% this.dat5$liver_date,"liver"] <- 1
-        # 
-        # if (length(this.dat6$mrn)>0)
-        #   patient_daily.df[patient_daily.df$caldate %in% this.dat5$growth_date,"growth"] <- 1
-        # 
-        # if (length(this.dat7$mrn)>0)
-        #   patient_daily.df[patient_daily.df$caldate %in% this.dat5$outpt_date,"outpatient"] <- 1
-        # 
-        # 
+        ## if (length(this.dat2$cvc_mrn)>0)
+        if (length(this.dat2$mrn)>0)
+                for(cvcinsert in this.dat2$insert_date){
+                        n <- length(this.dat2[this.dat2$insert_date==cvcinsert,'remove'] == 1)
+                        # browser()
+                        if (n > 1) {
+                                warning(paste("OMITTING mrn",targetmrn, "because found", n, "records for same line insert date:",
+                                              as.Date(cvcinsert,"1970-01-01") ))
+                                return( NULL )
+                        # }  else if (this.dat2[this.dat2$insert_date==cvcinsert,'remove'] == 1) {
+                        }  else if (n == 1) {
+
+                                cvcremove <- this.dat2[this.dat2$insert_date==cvcinsert,"remove_date"]
+
+                                if (this.dat2[this.dat2$insert_date==cvcinsert, "remove_type___clabsi"]==1) patient_daily.df[patient_daily.df$caldate==cvcremove, "remclabsi"] <- 1
+                        } else cvcremove <- lastdate
+                        patient_daily.df[patient_daily.df$caldate %in% cvcinsert:cvcremove,"centline"] <- 1
+                }
+
+        ## if (length(this.dat3$inpt_mrn)>0)
+        if (length(this.dat3$mrn)>0)
+                for(admitdate in this.dat3$hosp_admitdt){
+                        n <- length(this.dat3[this.dat3$hosp_admitdt==admitdate,"hosp_discharge"]==1)
+                        if (n > 1) {
+                                warning(paste("OMITTING mrn",targetmrn, "because found", n, "records for same hospital admit date:",
+                                              as.Date(admitdate,"1970-01-01") ))
+                                return( NULL )
+                        }
+                        else if (this.dat3[this.dat3$hosp_admitdt==admitdate,"hosp_discharge"]==1)
+                                dischargedate <- this.dat3[this.dat3$hosp_admitdt==admitdate,"hosp_dischargedt"]
+                        else dischargedate <- lastdate
+                        patient_daily.df[patient_daily.df$caldate %in% admitdate:dischargedate,"nothosp"] <- 0
+                        patient_daily.df[patient_daily.df$caldate==admitdate,"admit"] <- 1
+                }
+
+        ## if (length(this.dat4$bld_mrn)>0)
+        if (length(this.dat4$mrn)>0)
+          patient_daily.df[patient_daily.df$caldate %in% this.dat4$bcx_date,"bloodinf"] <- 1
+
+        if (length(this.dat5$mrn)>0)
+          patient_daily.df[patient_daily.df$caldate %in% this.dat5$liver_date,"liver"] <- 1
+
+        if (length(this.dat6$mrn)>0)
+          patient_daily.df[patient_daily.df$caldate %in% this.dat5$growth_date,"growth"] <- 1
+
+        if (length(this.dat7$mrn)>0)
+          patient_daily.df[patient_daily.df$caldate %in% this.dat5$outpt_date,"outpatient"] <- 1
+
+
         return(patient_daily.df)
         # describe(patient_daily.df) # description of data frame values
 
@@ -127,7 +127,7 @@ make_patient_daily_dataframe<- function(targetmrn) {
 ######################################### comments start
 # length(central_line.df$mrn) # 832
 # length(central_line.df[central_line.df$insert_date==cvcinsert,"remove"]==1)
-# 
+#
 # if (length(central_line.df$mrn)>0)
 #   for(cvcinsert in central_line.df$insert_date){
 #     n <- length(central_line.df[central_line.df$insert_date==cvcinsert,"remove"]==1) # n = 2
@@ -138,7 +138,7 @@ make_patient_daily_dataframe<- function(targetmrn) {
 #     # }
 #     # else if (this.dat2[this.dat2$insert_date==cvcinsert,"remove"]==1) {
 #     #   cvcremove <- this.dat2[this.dat2$insert_date==cvcinsert,"remove_date"]
-#     #   
+#     #
 #     #   if (this.dat2[this.dat2$insert_date==cvcinsert, "remove_type___clabsi"]==1)
 #     #     patient_daily.df[patient_daily.df$caldate==cvcremove, "remclabsi"] <- 1
 #     # }
@@ -151,38 +151,39 @@ make_patient_daily_dataframe<- function(targetmrn) {
 ######################################## comments end
 
 make_all_patients_daily_dataframe <- function() {
-  
+
   if(!exists("data_export_date"))
     stop("data_export_date does not exist.")
   else if (is.na(data_export_date))
     stop("data_export_date is NA")
-  
+
   all_patients_daily.df <- data.frame(mrn=numeric(),caldate=as.Date(integer(),"1970-01-01"),isactive=integer(),newhpn=integer(),
                                       admit=integer(),centline=integer(),nothosp=integer(),bloodinf=integer(),liver=integer(), growth=integer(), outpatient=integer(),
                                       death=integer(),transfer=integer(),weanoff=integer(),remclabsi=integer())
-  
+
   # for (mrn in demog.dat$mrn) { #changing dat to df
   # for (mrn in demog.df$mrn) { #changing mrn to targetmrn
-  for (mrn in demog.df$mrn) {
+  for (mrn in demogs.df$mrn) {
         x <- make_patient_daily_dataframe(mrn)
     if (is.null(x)) next
     else all_patients_daily.df <- rbind(all_patients_daily.df,x)
   }
-  
+
   all_patients_daily.df <<- all_patients_daily.df
 }
 
 # describe(all_patients_daily.df)
-data_export_date <- as.Date("2017-01-30")
+data_export_date <- as.Date("2018-01-30")
 
 
 # running all_pts function against the dataframe defined in make_pt_daily():
 make_all_patients_daily_dataframe()
 
+warnings()
 # all_patients_daily.df[all_patients_daily.df$liver==1] #data frame with 0 columns and 4371874 rows
 # all_patients_daily.df[all_patients_daily.df$liver==1, ] #<0 rows>
 
-write.csv(all_patients_daily.df,"PNdaily3.csv")
+write.csv(all_patients_daily.df,"PNdaily_Jan 18.csv")
 # write.csv(all_patients_daily.df,"active_2.2.csv")
 # write.csv(liver.df,"liver.csv") -- writing out liver.csv to be uploaded into mstr
 

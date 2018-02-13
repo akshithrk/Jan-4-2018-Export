@@ -174,8 +174,8 @@ levels(data$demographics_complete.factor)=c("Incomplete","Unverified","Complete"
 
 #Identifying dates
 
-data$dob <- as.Date(data$dob)
+data$dob <- as.Date(data$dob, format = "%m/%d/%Y")
 
 demog.df <- data
 rm(data)
-# write.csv(demog.df,"demogs.csv")
+write.csv(demog.df,"demogs_Jan 18.csv")

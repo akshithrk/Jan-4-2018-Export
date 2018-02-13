@@ -248,4 +248,4 @@ data$hosp_dischargedt <- as.Date(data$hosp_dischargedt, format = "%m/%d/%Y" )
 
 inpatients.df <- data
 rm(data)
-# write.csv(inpatients.df,"inpatients.csv")
+write.csv(inpatients.df,"inpatients_Jan 18.csv")

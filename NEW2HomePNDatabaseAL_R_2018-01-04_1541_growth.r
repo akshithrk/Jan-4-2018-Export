@@ -32,9 +32,9 @@ levels(data$growth_data_complete.factor)=c("Incomplete","Unverified","Complete")
 
 data <- filter(data, data$redcap_repeat_instrument!="")
 data$growth_date <- as.Date(data$growth_date, format = "%m/%d/%Y" )
-
+# data$growth_date <- as.Date(data$growth_date)
 
 growth.df <- data
 
 rm(data)
-# write.csv(growth.df,"growth.csv")
+write.csv(growth.df,"growth_Jan 18.csv")

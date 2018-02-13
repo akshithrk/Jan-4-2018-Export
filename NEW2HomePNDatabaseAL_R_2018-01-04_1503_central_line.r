@@ -470,7 +470,7 @@ levels(data$central_line_complete.factor)=c("Incomplete","Unverified","Complete"
 data <- filter(data, redcap_repeat_instrument!="")
 
 # Set date variables to class Date
-data$insert_date <- as.Date(data$insert_date)
+data$insert_date <- as.Date(data$insert_date, format = "%m/%d/%Y")
 
 # commenting the following two lines as the function isnt working fine when it encounters a NA value
 # data[data$remove_date =="", "remove_date"] <- NA #Make empty strings NA so as.Date() isn't confused
@@ -478,4 +478,4 @@ data$insert_date <- as.Date(data$insert_date)
 
 central_line.df <- data
 rm(data)
-# write.csv(central_line.df,"central_line.csv")
+write.csv(central_line.df,"central_line_Jan 18.csv")

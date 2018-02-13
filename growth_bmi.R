@@ -2,7 +2,7 @@ source("J:/Analytics Projects/Home Parenteral Nutrition QI/Code/Code from Al Ozo
 source("J:/Analytics Projects/Home Parenteral Nutrition QI/Code/Code from Al Ozonoff/helperfunctions.r")
 
 test_g <- growth.df
-test_d <- demog.df
+test_d <- demogs.df
 # rm(test)
 
 
@@ -11,13 +11,16 @@ test_d <- demog.df
 #
 
 test_g$bmi <- (test_g$growth_wt_kg)/((test_g$growth_ht_cm/100)^2)
-test_g <- merge(test_g,test_d[,c(1,2,5)],all.x=T,all.y=F,by.x="mrn",by.y="mrn")
+test_g <- merge(test_g,test_d[,c("mrn","dob","gender_male")],all.x=T,all.y=F,by.x="mrn",by.y="mrn")
 
-test_g$datein <- as.integer(split.date(test_g$growth_date,char="-",ymd=T))
+#test_g$datein <- as.integer(split.date(test_g$growth_date,char="-",ymd=T))
 # split.date(test_g$dob.y,char="-",ymd=T)
 # as.integer(split.date(test_g$dob.y,char="-",ymd=T))
-test_g$datein <- as.date(test_g$datein)
-test_g$ageyrs <- (test_g$datein-test_g$dob) #to do ageyrs in MSTR
+#test_g$datein <- as.date(test_g$datein)
+#test_g$ageyrs <- (test_g$datein-test_g$dob) #to do ageyrs in MSTR
+
+test_g$ageyrs <- round(as.numeric(test_g$growth_date - test_g$dob + 1)/365,1)
+#test_g$bmi_z <- bmiz(test_g$bmi,test_g$ageyrs,1-test_g$gender_male)
 
 if (length(test_g$bmi)!=0)
 {

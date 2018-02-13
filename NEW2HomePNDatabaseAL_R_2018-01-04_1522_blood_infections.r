@@ -135,4 +135,4 @@ data$bcx_date <- as.Date(data$bcx_date, format = "%m/%d/%Y" )
 
 blood_infections.df <- data
 rm(data)
-# write.csv(blood_infections.df,"blood_infections.csv")
+# write.csv(blood_infections.df,"blood_infections_Jan 18.csv")

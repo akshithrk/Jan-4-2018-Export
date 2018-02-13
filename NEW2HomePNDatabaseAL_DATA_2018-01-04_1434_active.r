@@ -252,10 +252,10 @@ data <- filter(data, redcap_repeat_instrument!="")
 
 # Set date variables to class Date
 
-data$svc_start <- as.Date(data$svc_start)
-data$svc_stop <- as.Date(data$svc_stop)
+data$svc_start <- as.Date(data$svc_start, format = "%m/%d/%Y")
+data$svc_stop <- as.Date(data$svc_stop,  format = "%m/%d/%Y")
 
 active.df <- data
 
 rm(data)
-# write.csv(active.df,"active.csv")
+write.csv(active.df,"active_Jan 18.csv")

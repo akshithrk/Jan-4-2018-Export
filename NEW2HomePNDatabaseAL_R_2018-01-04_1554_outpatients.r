@@ -33,8 +33,8 @@ levels(data$clinic_id.factor)=c("Home PN program","CAIR","Other")
 levels(data$outpatient_encounters_complete.factor)=c("Incomplete","Unverified","Complete")
 
 data <- filter(data, data$redcap_repeat_instrument!="")
-data$outpt_date <- as.Date(data$outpt_date)
+data$outpt_date <- as.Date(data$outpt_date, format = "%m/%d/%Y")
 outpatients.df <- data
 
 rm(data)
-# write.csv(outpatients.df,"outpatients.csv")
+write.csv(outpatients.df,"outpatients_Jan 18.csv")
